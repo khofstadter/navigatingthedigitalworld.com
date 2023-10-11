@@ -7,6 +7,7 @@ permalink: /docs/your-website
 
 # GitHub Pages and Markdown
 
+
 {: .no_toc }
 
 ## Table of contents
@@ -15,7 +16,6 @@ permalink: /docs/your-website
 1. TOC
 {:toc}
 
----
 
 ## why build a website?
 You

@@ -65,7 +65,7 @@ You are asked to
 
 To clarify, the two research domains are
   
-- [digital identities](../digital-identities.md) <!-- add link to page -->
+- digital identities <!-- add link to page -->
 - existential risks <!-- add link to page -->
 
 <!-- 
@@ -115,22 +115,28 @@ While this module primarily focuses on providing practical skills, it also opens
 
 ### Digital portfolio examples
 
-Examples from last year's CS220AU portfolios can be found here. <!-- todo -->
+Examples from last year's CS220AU portfolios can be found [here](https://github.com/khofstadter/CS220AU-DP/forks).
 
-## Syllabus
+## Syllabus with notes
 This outline is subject to change based on our progress.
 
 From week 3 onwards, each session will start with shortly discussing your progress. 
 
-### w2 introduction
+### w2 Intro + digital identities (VR map)
 - you are free to leave the room anytime (toilet, fresh air)
 - we can have a 10 min break in the middle
 - we must leave the room 10 min before the next class starts
 - who has a class to catch after this?
-- are you happy with what you can find about yourself online?
-  - search what pops up with your name/username
-  - the idea is to create a positive digital identity (one your parents or your future self would be proud of) and then manage this identity 
-- understanding digital identities with the VR map
+
+*Are you happy with what you can find about yourself online?*
+
+<mark>task</mark>: Do a Google search with your name.
+
+The aim of this module is to help you create a professional digital identity (one your future self would be proud of) and then help you continuously manage it. 
+
+First, let's find out how we can assess our digital identities, our engagement with the Web.
+
+Open the digital identities page in the sidebar. <!-- #todo: we need a hyperlink here -->
 
 <!-- 
 ### homework
@@ -153,14 +159,16 @@ From week 3 onwards, each session will start with shortly discussing your progre
 #### part 5 (digital portfolio, website)
 - don't worry about the digital portfolio, and the website for now. We will set them up next week together. 
 
+Find out how much people can see of your social media activities. 
+
 -->
 
-### w3 digital portfolio
+### w3 Websites, digital portfolio setup (GitHub, Markdown)
+<!-- 
 - how do you take notes?
 - GitHub account and repositories
 - Markdown language
 
-<!-- 
 - my ASH: Tue 11am-12pm in 5B.123 (Not good for some, I know. What's best for everyone? Do we need to use [doodle.com](https://doodle.com/)?)
   - you need to sign up via email
 - do you need clarification on the assignment?
@@ -197,12 +205,12 @@ Today everyone will
 
 -->
 
-### w4 project management
+### w4 Project management (AGP for research)
+<!-- 
+
 - how do you manage you projects?
 - project-management
 - troubleshooting
-
-<!--
 
 ### homework
 - explore a variety of software for audio-video production
@@ -210,28 +218,28 @@ Today everyone will
 -->
 
 
-### w5 content production
-- content production
+### w5 Content production (take/make)
+<!-- 
 
-<!--
 - compare [Markdown and HTML](https://codingnconcepts.com/markdown/markdown-vs-html/)
 - set up your LinkedIn and ResearchGate account
 -->
 
-### w6 self and peer assessment
-- self and peer assessment in groups
+### w6 Self- and peer-assessment (presentations, group work)
+<!-- 
 
-<!--
+self- and peer-assessment in groups
+
 - _do you have a partner for peer-assessment?_
 - _do you have any questions regarding your assignment?_
 - _did you set up your private group to discuss module related questions?
 -->
 
-### w7 presentations
+### w7 Guest talks (sustainability, Studio X, Essex REBEL, blogging TBC)
+<!-- 
+
 - optional presentations on progress for +5% mark
 
-
-<!--
 - 11:00 - setup and outline of seminar
 - 11:15 - Eszter (blogging while being a student)
 
@@ -285,10 +293,10 @@ Check: https://www.essex.ac.uk/student/careers
 
 -->
 
-### w8 reading week
+### w8 Reading week
 - no classes
 
-### w9-10-11 workshops
+### w9-10-11 Workshops
 
 <!--
 - reviewing student's progress
@@ -325,19 +333,20 @@ Check: https://www.essex.ac.uk/student/careers
 Can I develop a website with another software e.g. WordPress, Wix, Squarespace, etc?
 - No, GitHub is free, fast, and will provide you with a better understanding of the foundations of the digital world (e.g. the relationship between back-end and the front-end of a website).
 
-Can I create a website for a project I have already started working on 
+Can I create a website for a project I have already started working on?
 - Maybe, let's discuss. 
 
 Why do I need to write up my thoughts on a website instead of in 'normal' essay in a Word file? 
 - Because, writing something public will push you to work harder. 
-- Because, making a website will develop new skills (e.g. the basic understanding of webdesign and hosting).
+- Because, making a website will develop new skills (e.g. the basic understanding of web-design and hosting).
 - Because, you can embed audio-visual content in a website. 
 - Because, you can share it faster. 
+- You can stay anonymous, if you want to.
 
 Is this module for me?
 - In essence, the module can help you
   - develop your digital identities, but more specifically your professional digital identity (i.e. your professional engagement with others through the Web)
-  - understand basic web design and content production and provide you with a very fast website (for free).
+  - understand basic web-design and content production and provide you with a very fast website (for free).
 
 <!--
 > Practice what you preach.
@@ -345,5 +354,3 @@ Is this module for me?
 > Walk your talk. 
 > If you can't do it, teach it. But if you can do it, you can teach it better as well. 
 -->
-
-[digital identities]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md

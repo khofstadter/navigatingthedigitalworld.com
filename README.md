@@ -1,15 +1,14 @@
 # Navigating the Digital World
 ## Tasks
 ### by week 2
-1. refine the CS220AU page
-   1. choose website examples
-2. refine digital identities page
-3. integrate CS220AU notes (have one page for Essex's CS220AU)
+1. refine digital identities page
+2. integrate notes where possible
+3. why are internal Markdown links not working?
 4. take HDMI adapters
+5. add images where possible
 ### by week 3
-1. refine website relevant page
-2. add images where possible
-3. add dark/light button
+1. refine 'your website' page
+2. add dark/light button
 ### by week 10
 1. draft questionnaire for gathering feedback with specific questions
 ### by week 16
