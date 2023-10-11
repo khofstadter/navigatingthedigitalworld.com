@@ -17,7 +17,6 @@ permalink: /docs/your-website
 
 ---
 
-
 ## why build a website?
 You
 - own the content

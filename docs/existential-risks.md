@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Existential Risks
-nav_order: 99
+nav_order: 98
 permalink: /docs/existential-risks
 ---
 

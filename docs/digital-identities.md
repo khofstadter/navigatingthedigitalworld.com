@@ -52,7 +52,6 @@ permalink: /docs/digital-identities
 ### 1. introduction
 [video part 1](https://youtu.be/sPOG3iThmRI) (7-min YouTube video)
 
-
 - the V&R map can help understand our engagement with technology more accurately than [Marc Prensky](https://www.marcprensky.com/)'s Digital Natives and Digital Immigrants method
 - the V&R method uses a 2D coordinate system to quantify our engagement with technology/Web
 

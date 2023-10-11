@@ -18,10 +18,18 @@ permalink: /docs/cs220au
 
 ---
 
-## Module description
-This webpage expands on the university's module descriptions<!-- link folder with files -->. 
+## CS220AU timetable
+Group 1: Fri 12–2pm in IT Lab I 3.402   
+Group 2: Fri 4-6pm in IT Lab J 4SB.4.14
 
-In week 1, I introduce both parts of the module; AU and SP. The seminars in weeks 2–7 provide training in a specific topic such, as <!-- can these be tags that we could click on? Also, shouldn't this be organized in the order of the syllabus? -->
+We have two-hour sessions in [weeks 2–7, 9–11](https://www1.essex.ac.uk/timetables/). 
+
+Week 8 is reading week (no classes).
+
+## Module description
+This page expands on the university's [module descriptions](https://github.com/khofstadter/CS220AU-DP/tree/main/assets).
+
+After a one-hour session introducing both parts of the module in week 2, the seminars/workshops in weeks 2–7 provide training in a specific topic such, as <!-- can these be tags that we could click on? Also, shouldn't this be organized in the order of the syllabus? -->
 
 - digital identities
 - web design
@@ -33,38 +41,39 @@ In week 1, I introduce both parts of the module; AU and SP. The seminars in week
 - digital writing skills
 - agile project management
 
-Workshops in weeks 9–11 provide opportunities to present your work in progress for feedback.
+Workshops in weeks 9–11 provide opportunities to present your progress for feedback.
 
-The module introduces primarily free and cross-platform software, often highlighting their advantages and disadvantages compared to paid software. 
+`progress = happiness` :)
+
+The module introduces primarily free and cross-platform software, often highlighting their advantages and disadvantages compared to paid software.
 
 The classes run in labs equipped with Windows PCs, providing some tools to help build your portfolios. I will also demonstrate software on macOS. You can use your own laptops and software in class.
 
-## Assessment
-Throughout the term, you will build a digital portfolio based on a [template](https://github.com/khofstadter/CS220AU-DP-2022), which needs to consist of 
+## Assignment brief
+Throughout the term, you will build a digital portfolio based on a [template](https://github.com/khofstadter/CS220AU-DP). Your portfolio needs to consist of 
 
-1. a website exploring a connection between the research domains given below
-2. a self- and peer-assessment file <!-- the marking rubric is not enough, add a 300 word comment section to it. Section needs to indicate where the people involved and dates. -->
-3. a succinct portfolio overview <!-- goal, tasks, log -->
+1. a website critically reflecting on a specific connection between the research domains given below
+2. a self- and peer-assessment file
+3. a succinct portfolio overview
 
-By the deadline, you will submit only one file on FASER, the `checklist.md`, not the whole portfolio. For more information, check the template. <!-- make sure the file is called `checklist` and not `dp-checklist` -->
+For more information, see the [template](https://github.com/khofstadter/CS220AU-DP).
 
 ### Research domains
 You are asked to
-1. explore connections between digital identities and existential risks (literature review)
-2. choose one specific connection and use your website to critically reflect one it
+1. explore connections between digital identities and existential risks (i.e. do a literature review)
+2. choose one specific connection, explore this connection in more depth and use your website to critically reflect one it
 
-To clarify, the three research domains are
+To clarify, the two research domains are
   
-- digital identities <!-- add link to page -->
+- [digital identities](../digital-identities.md) <!-- add link to page -->
 - existential risks <!-- add link to page -->
-- critical thinking <!-- add link to page -->
 
 <!-- 
 - How are digital identities connected to existential risks? 
 - How are my digital identities connected to existential risks? 
 - How can I improve my professional digital identity to help myself and others understand existential risks (or a specific risk) better?
 - How can I help others gain a better understanding of the connection between the use of their digital identities and an existential risk (or a specific existential risk)?
-- How are the digital identietis used by university studetns connected to existential risks? (You could run a survey, perhaps ask for help from sustainability office for the questionaire.)
+- How are the digital identities used by university students connected to existential risks? (You could run a survey, perhaps ask for help from sustainability office for the questionnaire.)
 - How can I interpret data linked to an existential risk and use my digital identity (or identities) to effectively communicate my findings?
 - How have the link between digital identities and existential risks been communicated in films? For instance AI with Terminator (1984), Her, Blade Runner. Bioweapons with 12 Monkeys, zombie movies. Global warming with Interstellar, new movie with Di Caprio. This could be an overview of films linked to DI and ER or perhaps a comparision of two movies. What about the Black Mirror series or similar series e.g. listed on https://screenrant.com/shows-like-black-mirror-netflix/. 
 - How have the link between digital identities and existential risks been communicated in novels?
@@ -109,11 +118,9 @@ While this module primarily focuses on providing practical skills, it also opens
 Examples from last year's CS220AU portfolios can be found here. <!-- todo -->
 
 ## Syllabus
- 
 This outline is subject to change based on our progress.
 
 From week 3 onwards, each session will start with shortly discussing your progress. 
-
 
 ### w2 introduction
 - you are free to leave the room anytime (toilet, fresh air)
@@ -339,3 +346,4 @@ Is this module for me?
 > If you can't do it, teach it. But if you can do it, you can teach it better as well. 
 -->
 
+[digital identities]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
