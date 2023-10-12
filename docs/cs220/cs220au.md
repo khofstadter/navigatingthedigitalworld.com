@@ -68,6 +68,8 @@ To clarify, the two research domains are
 - digital identities <!-- add link to page -->
 - existential risks <!-- add link to page -->
 
+<!-- can I add a venn diagramm here with code? -->
+
 <!-- 
 - How are digital identities connected to existential risks? 
 - How are my digital identities connected to existential risks? 
@@ -130,7 +132,7 @@ From week 3 onwards, each session will start with shortly discussing your progre
 
 *Are you happy with what you can find about yourself online?*
 
-<mark>task</mark>: Do a Google search with your name.
+Task: Do a Google search with your name!
 
 The aim of this module is to help you create a professional digital identity (one your future self would be proud of) and then help you continuously manage it. 
 

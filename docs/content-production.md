@@ -44,7 +44,7 @@ As a content producer, you could be in charge of all stages of the [APM](project
 5. contextualising, publishing and disseminating the finished content
 
 <br><br>
-![](assets/img/apm.svg)
+![](../assets/img/apm.svg)
 
 <br><br>
 
@@ -68,7 +68,7 @@ Your content could also use these in different proportions (e.g. [1](https://www
 
 ## 3. materials
 
-![source-materials](assets/img/oxana-melis-EvtlbRUm66A-unsplash.jpg) photo by <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oxana Melis</a> on <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+![source-materials](../assets/img/oxana-melis-EvtlbRUm66A-unsplash.jpg) photo by <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oxana Melis</a> on <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 <br>
 
@@ -168,9 +168,9 @@ To make your own material you can
 - computer graphics (vectors or pixels)
 - photography (pixels)
 
-<br>![graphics](assets/img/birger-strahl-MKnjJDUvy2Y-unsplash.jpg)<br>
+<br>![graphics](../assets/img/birger-strahl-MKnjJDUvy2Y-unsplash.jpg)<br>
 
-<br>![photo](assets/img/alif-ngoylung-jg-6ARMiaPM-unsplash.jpg)<br>
+<br>![photo](../assets/img/alif-ngoylung-jg-6ARMiaPM-unsplash.jpg)<br>
 
 <br>![pixels vs vectors](https://zwartopwit.s3.amazonaws.com/playground/images/tips/vectorpixel.png)<br>
 

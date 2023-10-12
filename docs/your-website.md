@@ -61,21 +61,21 @@ There are two main types:
 
 SuperCollider (audio):
 
-![](assets/img/textual-vs-visual-programming-supercollider.png)
+![](../assets/img/textual-vs-visual-programming-supercollider.jpg)
 
 <!-- todo: change image to Markdown (left) and HTML (right) -->
 
 Max (audio):
 
-![](assets/img/textual-vs-visual-programming-max.png)
+![](../assets/img/textual-vs-visual-programming-max.jpg)
 
 WordPress backend (WCMS):
 
-![](assets/img/textual-vs-visual-programming-wordpress-backend.png)
+![](../assets/img/textual-vs-visual-programming-wordpress-backend.jpg)
 
 WordPress frontend (WCMS):
 
-![](assets/img/textual-vs-visual-programming-wordpress-frontend.png)
+![](../assets/img/textual-vs-visual-programming-wordpress-frontend.jpg)
 
 <br>
 
@@ -170,7 +170,7 @@ Using the Wayback Machine on [archive.org](https://archive.org/):
 ### Markdown language
 Familiarise yourself with [Markdown language](https://guides.github.com/features/mastering-markdown/). A link to this guide can be found in the editor:
 
-![](assets/img/github-editor-link-to-markdown-guide.jpg)
+![](../assets/img/github-editor-link-to-markdown-guide.jpg)
 
 ### thoughts
 - choose 'soft wrap' instead of 'no wrap' in the GitHub editor

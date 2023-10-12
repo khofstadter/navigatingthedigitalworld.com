@@ -39,15 +39,17 @@ permalink: /docs/digital-identities
   - [search the Internet](https://duckduckgo.com/?q=gen+alpha&t=brave&ia=web)
 -->
 
+This page explores Dave White's concepts of digital identities as presented across three of his short videos. I used the following steps to reflect on his work:
+
+1. Take brief notes while watching the videos (only keywords and key ideas), don't pause the video. 
+2. Refine your notes (perhaps watch again and pause if necessary):
+   - Integrate your new knowledge into your old knowledge (make connections between what you've learned now and what you already knew).
+   - Write full sentences and use your own writing style, your own vocabulary as much as possible. Personalize it.
+   - Ask questions where something is unclear (e.g. a connection between ideas is missing).
+3. Refine your notes, consider [paraphrasing quotes](https://quillbot.com/), and [grammar check](https://quillbot.com/grammar-check) for readability - make sure they make sense, and ideally not just for you. Use an AI language model for quick feedback (e.g. [ChatGPT](https://chat.openai.com/)).
 
 ## Visitors and residents
-> Visitors and Residents is a simple way of describing the range of ways individuals can engage with the Web. ~ Dave White
-
-1. Take brief notes while watching the videos (only keywords and key ideas).
-2. Refine your notes (perhaps watch again, pause if necessary):
-   1. Link your new knowledge to your old knowledge (make connections between what you've learned now and what you already knew).
-   2. Write full sentences and use your own writing style. Personalize it.
-3. Refine your notes, paraphrase, and grammar check for readability - make sure they make sense for later, and ideally not just for you.
+> Visitors and Residents is a simple way of describing the range of ways individuals can engage with the Web. ~ Dave White 
 
 ### 1. Introduction
 
@@ -73,7 +75,8 @@ permalink: /docs/digital-identities
 - [VR map examples](http://daveowhite.com/vandr/vr-mapping/)
 
 #### Discussion
-- Where do you feel most of your activity is?
+- *Where do you feel most of your activity is on the VR map?*
+- *How much time do you think it would take to write up the list of notes above into prose (e.g. as an essay's paragraph)?*
 
 ### 2. Credibility
 
@@ -96,10 +99,10 @@ permalink: /docs/digital-identities
 - Earlier, students published their first work after their PhDs. Today the Web allows us to start developing our professional identity before finishing our doctoral research e.g., by expressing our opinions about other people's work openly and publishing our own work on our websites or relevant platforms e.g., videos on [Vimeo](https://vimeo.com/), articles on [Medium](https://medium.com/), music on [SoundCloud](https://soundcloud.com/), photos on [Flickr](https://flickr.com/), graphic design on [Behance](https://www.behance.net/), software on GitHub, etc.
 
 #### Discussion
-- Should educators in higher education be active online, for example, share their teaching resources on the Web and engage with learners who did not formally enroll in a module?
+- Should teachers in higher education be active online, for example, share their teaching resources on the Web and engage with learners who did not formally enroll in a module?
 - What is the future of education? What do students get for paying their high fees?
 - Shall students' learning rely entirely on the processes of formal education, such as lectures/workshops primarily using established forms of resources (e.g., academic journals) and assignments (e.g., essays or portfolios)? Or should their learning be more agile and incorporate the use of information on the Web (e.g., blog articles) and feedback on their works outside their workshops, i.e., should they seek feedback from people on discipline-related forums?
-- Should we expect students to know how to use institutional identities in resident modes efficiently? Probably not, but **they should be encouraged** to develop this practice.
+- Should we expect students to know how to use professional identities in resident modes efficiently? Probably not, but **they should be encouraged** to develop this practice.
 
 ### 3. Open Practice
 
@@ -115,26 +118,28 @@ permalink: /docs/digital-identities
 - The audience when publishing on the Web:
   - Could be unlimited (but is often targeted).
   - Can give you quick feedback linked to their real or not real identities.
-- It might be better to consider work published online as unfinished, something that can start Discussionions. <!-- find webpages with version numbers or on the top some disclaimers saying this is an updated version of something earlier -->
-- A powerful feature of open practice using the Web is the access to feedback from individuals or networks who are beyond the classroom.
+- It might be better to consider work published online as unfinished, something that can start discussions. <!-- find webpages with version numbers or on the top some disclaimers saying this is an updated version of something earlier -->
+- A powerful feature of open practice using the Web is the access to feedback from individuals or networks who are beyond the classroom. (Of course, you need to remain critical.)
 - White believes "that making the process of learning more visible and collaborative online challenges students to become relevant members of their discipline or academic community" (although does not suggest this for all subjects).
 - Students should have their own private groups where they can express themselves without being afraid of being monitored.
 - Our main resident identities on the Web should probably not be a mix of personal and professional/institutional (hint: be personal in private groups and professional openly).
 
 > All criticism is a form of autobiography. (Oscar Wilde)
 
+*What does this quote mean in the context of commenting online?*
+
 #### Discussion
 - How could someone's professional identity be linked to their private life?
-- Should students start sharing information about their practice/research after finishing their degrees or before?
-- Could some of you set up a forum where you can openly Discussion ideas/issues which are not monitored by me or the university?
+- Should students start sharing information about their practice/research after finishing their degrees or before? Is it possible to submit work for a uni assignment that you published somewhere online?
+- Could some of you set up a forum where you can openly discuss ideas/issues which are not monitored by me or the university? Which social media apps do you use?
 - How can you continue the sentence "As education moves towards incorporating the use of the Web, ..."?
 
 ## Summary
-- It's not just old people who need to learn how to use the Web. It's complicated and complex. Therefore, all ages should educate themselves.
+- It's not just old people who need to learn how to use the Web. Our engagement with the Web is complex.
 - We need to be careful with the information we engage with online as it leaves a digital footprint. For example, your drunk videos might stay on Facebook forever.
 - It's a good idea to start working on our professional (institutional) identity while studying in higher education, but we should make sure that we are comfortable with where and how much of our ideas/questions are shared publicly. Learn to use both private and public note-taking/publishing tools.
 
-## Additional Discussion
+## Additional discussion
 - What do you know about data mining?
 - Do I know how Tech Giants (e.g., Google and Facebook) use my data?
 - What is our digital footprint?

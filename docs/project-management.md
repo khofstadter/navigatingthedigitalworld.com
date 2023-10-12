@@ -29,9 +29,9 @@ permalink: /docs/agile-project-management
 - check : https://www.youtube.com/@DrAndyStapleton/videos
 -->
 
-![](assets/img/apm-vs-waterfall.svg)
+![](../assets/img/apm-vs-waterfall.svg)
 
-![](assets/img/apm-def.png)
+![](../assets/img/apm-def.png)
 <br><br>
 
 <!-- add ideas about FFR, entrainment, syncronisation -->
