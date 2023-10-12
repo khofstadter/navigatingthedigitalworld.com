@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your website
+title: Your Website
 nav_order: 4
 permalink: /docs/your-website
 ---

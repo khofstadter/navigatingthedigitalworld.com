@@ -16,7 +16,5 @@ While currently anchoring a specific university module, the vision for this plat
 
 Welcome!
 
-k
-
 Photo by <a href="https://unsplash.com/@johnschno?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">John Schnobrich</a> on <a href="https://unsplash.com/photos/2FPjlAyMQTA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   

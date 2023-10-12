@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Content production
+title: Content Production
 nav_order: 6
 permalink: /docs/content-production
 ---

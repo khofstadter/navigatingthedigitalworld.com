@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Digital identities
+title: Digital Identities
 nav_order: 2
 permalink: /docs/digital-identities
 ---
@@ -146,18 +146,32 @@ This page explores Dave White's concepts of digital identities as presented acro
 - Have you tried privacy-focused internet browsers to see what information certain websites are trying to access from your computer?
 
 ## Further resources
-- Anderson, J. and Rainie, L. (2014) **Digital Life in 2025**. Experts predict the Internet will become ‘like electricity’ — less visible, yet more deeply embedded in people’s lives for good and ill. Article available online at [Pew Research Centre](https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/).
-- Autodidacts (2022) **My strategies for using technology without being used by it**. Blogpost available at [autodidacts.io](https://www.autodidacts.io/intentional-computing/).
-- BBC Learn and Revise (n.d.) **Millennials, baby boomers or Gen Z**. Which one are you and what does it mean? Article available at [BBC](https://www.bbc.co.uk/bitesize/articles/zf8j92p). 
-- Boereem L. (2021) Moloch: The Beauty Wars. Beauty is getting weird right now. Thanks to technology, you can transform the ugliest photo into pure glamour in one click. But is this good for us? Will it make us happier and sexier, or will life become a soup of Kimface avatars and suicidal teenagers? This video is part one of a series on game theory and civilization. It centers around a character called Moloch: the god of war and competition-gone-wrong. The bad guy of humanity’s evolutionary story that we have to figure out how to defeat. The video is available on [YouTube](https://youtu.be/fifVuhgvQQ8) (15-min).
-- Coupland, D., Cowan, J. and Law, G. (n.d.) **Close Personal Friend**. An art-film exploring how the use of technology changes culture in the early 1990s. Video available on [YouTube](https://www.youtube.com/watch?v=Bg3a5f107Jc) (25-min).
-- Firefox Monitor. (n.d.) See if you’ve been part of an online data breach. Tool available at [firefox.com](https://monitor.firefox.com/).
-- Herzog, W. (2016) **Lo and Behold**, Reveries of the Connected World. An exploration of the Internet and the connected world. More info and trailer on [IMDB](https://www.imdb.com/title/tt5275828). Available on [Kanopy](https://www.kanopy.com/).
-- Kim, A. (2020) **What makes Asia−Pacific’s Generation Z different?** Article available on [McKinsey and Company](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/.what-makes-asia-pacifics-generation-z-different)
-- Morse, J. (2019) **It’s a mistake to think that our online and IRL (in real life) lives are separate.** There is no longer a distinction between our online and offline selves. But that can change. Article available online at [Mashable](https://mashable.com/article/what-you-do-online-impacts-your-real-life?europe=true).
-- Orlowski, J. et al. (2020) **The Social Dilemma.** The documentary film provides a deep dive into how social media's design nurtures an addiction, manipulates people's views, emotions and behaviour, and spreads conspiracy theories and disinformation, to maximize profit. Available on Netflix. More info on the project [website](https://www.thesocialdilemma.com/). An interview with the maker on Rebel Wisdom available of [YouTube](https://youtu.be/7EbPIdyd3I0).
-- Prensky, M. (2001) **Digital Natives, Digital Immigrants Part I and II.** Articles available at [marcprensky.com](http://marcprenskyarchive.com/writings/).
-- Stosney, S. (2014) **What's Wrong with Criticism.** How to ruin a perfectly good relationship. Available online at [Psychology Today](https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201404/whats-wrong-criticism).
-- The Infographic Show, (2018) **Millennials vs Generation Z**. How Do They Compare & What's the Difference? Video available on [YouTube](https://youtu.be/aqdm6aBUZII) (6-min).
-- White, D.S. and Corun, A. L. (2011) **Visitors and Residents: A new typology for online engagement**. This article proposes a continuum of ‘Visitors’ and ‘Residents’ as a replacement for Prensky’s much criticized Digital Natives and Digital Immigrants. Article available online at [First Monday](https://firstmonday.org/article/view/3171/3049). 
-- VPN Mentor, (n.d) **Who Is Really Watching?** From our locations and home addresses to private messages and phone numbers - we give away precious private information to online services everyday without even realising it. We’ve deep dived into the privacy policies of some of the biggest companies online to uncover what they’re really tracking – use our tool to uncover who’s really watching you. Tool available at [vpnmentor.com](https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty).
+Anderson, J. and Rainie, L. (2014) **Digital Life in 2025**. Experts predict the Internet will become ‘like electricity’ — less visible, yet more deeply embedded in people’s lives for good and ill. Article available online at [Pew Research Centre](https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/).
+
+Autodidacts (2022) **My strategies for using technology without being used by it**. Blogpost available at [autodidacts.io](https://www.autodidacts.io/intentional-computing/).
+
+BBC Learn and Revise (n.d.) **Millennials, baby boomers or Gen Z**. Which one are you and what does it mean? Article available at [BBC](https://www.bbc.co.uk/bitesize/articles/zf8j92p).
+
+Boereem L. (2021) Moloch: The Beauty Wars. Beauty is getting weird right now. Thanks to technology, you can transform the ugliest photo into pure glamour in one click. But is this good for us? Will it make us happier and sexier, or will life become a soup of Kimface avatars and suicidal teenagers? This video is part one of a series on game theory and civilization. It centers around a character called Moloch: the god of war and competition-gone-wrong. The bad guy of humanity’s evolutionary story that we have to figure out how to defeat. The video is available on [YouTube](https://youtu.be/fifVuhgvQQ8) (15-min).
+
+Coupland, D., Cowan, J. and Law, G. (n.d.) **Close Personal Friend**. An art-film exploring how the use of technology changes culture in the early 1990s. Video available on [YouTube](https://www.youtube.com/watch?v=Bg3a5f107Jc) (25-min).
+
+Firefox Monitor. (n.d.) See if you’ve been part of an online data breach. Tool available at [firefox.com](https://monitor.firefox.com/).
+
+Herzog, W. (2016) **Lo and Behold**, Reveries of the Connected World. An exploration of the Internet and the connected world. More info and trailer on [IMDB](https://www.imdb.com/title/tt5275828). Available on [Kanopy](https://www.kanopy.com/).
+
+Kim, A. (2020) **What makes Asia−Pacific’s Generation Z different?** Article available on [McKinsey and Company](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/what-makes-asia-pacifics-generation-z-different)
+
+Morse, J. (2019) **It’s a mistake to think that our online and IRL (in real life) lives are separate.** There is no longer a distinction between our online and offline selves. But that can change. Article available online at [Mashable](https://mashable.com/article/what-you-do-online-impacts-your-real-life?europe=true).
+
+Orlowski, J. et al. (2020) **The Social Dilemma.** The documentary film provides a deep dive into how social media's design nurtures an addiction, manipulates people's views, emotions and behavior, and spreads conspiracy theories and disinformation, to maximize profit. Available on Netflix. More info on the project [website](https://www.thesocialdilemma.com/). An interview with the maker on Rebel Wisdom available of [YouTube](https://youtu.be/7EbPIdyd3I0).
+
+Prensky, M. (2001) **Digital Natives, Digital Immigrants Part I and II.** Articles available at [marcprensky.com](http://marcprenskyarchive.com/writings/).
+
+Stosney, S. (2014) **What's Wrong with Criticism.** How to ruin a perfectly good relationship. Available online at [Psychology Today](https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201404/whats-wrong-criticism).
+
+The Infographic Show, (2018) **Millennials vs Generation Z**. How Do They Compare & What's the Difference? Video available on [YouTube](https://youtu.be/aqdm6aBUZII) (6-min).
+
+White, D.S. and Corun, A. L. (2011) **Visitors and Residents: A new typology for online engagement**. This article proposes a continuum of ‘Visitors’ and ‘Residents’ as a replacement for Prensky’s much criticized Digital Natives and Digital Immigrants. Article available online at [First Monday](https://firstmonday.org/ojs/index.php/fm/article/view/3171). 
+
+VPN Mentor, (n.d) **Who Is Really Watching?** From our locations and home addresses to private messages and phone numbers - we give away precious private information to online services everyday without even realizing it. We’ve deep dived into the privacy policies of some of the biggest companies online to uncover what they’re really tracking – use our tool to uncover who’s really watching you. Tool available at [vpnmentor.com](https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty).

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Password management
+title: Password Management
 nav_order: 3
 permalink: /docs/password-management
 ---
