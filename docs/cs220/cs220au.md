@@ -207,7 +207,7 @@ Today everyone will
 
 -->
 
-### w4 Project management (AGP for research)
+### w4 Project management (APM for research)
 <!-- 
 
 - how do you manage you projects?

@@ -7,6 +7,8 @@ permalink: /docs/digital-identities
 
 # Digital identities
 
+![](../assets/img/2023-10-12-digital-identities-bing-dalle.jpg)
+
 {: .no_toc }
 
 ## Table of contents
@@ -175,3 +177,7 @@ The Infographic Show, (2018) **Millennials vs Generation Z**. How Do They Compar
 White, D.S. and Corun, A. L. (2011) **Visitors and Residents: A new typology for online engagement**. This article proposes a continuum of ‘Visitors’ and ‘Residents’ as a replacement for Prensky’s much criticized Digital Natives and Digital Immigrants. Article available online at [First Monday](https://firstmonday.org/ojs/index.php/fm/article/view/3171). 
 
 VPN Mentor, (n.d) **Who Is Really Watching?** From our locations and home addresses to private messages and phone numbers - we give away precious private information to online services everyday without even realizing it. We’ve deep dived into the privacy policies of some of the biggest companies online to uncover what they’re really tracking – use our tool to uncover who’s really watching you. Tool available at [vpnmentor.com](https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty).
+
+## Image credits
+
+Header image was generated with AI by krishofstadter on 12 October 2023 at 10:18 pm using "make an image where people from the normal world slide or digitalized into the digital world"

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Project management
+title: Project Management
 nav_order: 5
 permalink: /docs/agile-project-management
 ---
 
-# Agile project management
+# Project management
 
 {: .no_toc }
 
@@ -38,7 +38,7 @@ permalink: /docs/agile-project-management
 
 <br><br>
 
-## 5 APM stages for or academic research
+## Five APM stages for or academic research
 
 ### 1. goals
 - conduct an initial literature review and discussions to help establish 

@@ -5,7 +5,7 @@ nav_order: 4
 permalink: /docs/your-website
 ---
 
-# GitHub Pages and Markdown
+# Your Website
 
 
 {: .no_toc }
@@ -15,7 +15,6 @@ permalink: /docs/your-website
 
 1. TOC
 {:toc}
-
 
 ## why build a website?
 You
@@ -179,7 +178,6 @@ Familiarise yourself with [Markdown language](https://guides.github.com/features
 - [is GitHub safe to use](https://youtu.be/vAfBW1_AZkU?t=597) (e.g regarding tracking and cookies)?
 
 ### GitHub-Markdown combo for project management
-
 GitHub's advantages:
 
 - free
