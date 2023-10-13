@@ -50,17 +50,15 @@ The module introduces primarily free and cross-platform software, often highligh
 The classes run in labs equipped with Windows PCs, providing some tools to help build your portfolios. I will also demonstrate software on macOS. You can use your own laptops and software in class.
 
 ## Assignment brief
-Throughout the term, you will build a digital portfolio based on [this template](https://github.com/khofstadter/CS220AU-DP). Your portfolio needs to consist of 
+Throughout the term, you will build a digital portfolio that consists of
 
-1. a website critically reflecting on a specific connection between the research domains given below
+1. a website critically reflecting on a specific connection between two research domains
+   - digital identities <!-- add link to page -->
+   - existential risks <!-- add link to page -->
 2. a self- and peer-assessment file
 3. a succinct portfolio overview
 
-For more information, see the [template](https://github.com/khofstadter/CS220AU-DP).
-
-### Research domains
-- digital identities <!-- add link to page -->
-- existential risks <!-- add link to page -->
+For more information, see the [digital portfolio template](https://github.com/khofstadter/CS220AU-DP).
 
 <!-- can I add a venn diagramm here with code? -->
 
@@ -75,11 +73,11 @@ Your need to
 3. synthesize them 
 4. publish the result
 
-<!--
-- How are my digital identities connected to existential risks? 
-- How can I improve my professional digital identity to help myself and others understand existential risks (or a specific risk) better?
-- How can I help others gain a better understanding of the connection between the use of their digital identities and an existential risk?
-- How are the digital identities used by university students connected to existential risks? (You could run a survey, perhaps ask for help from sustainability office for the questionnaire.)
+<!-- 
+Research question ideas: 
+- How are my digital identities connected to an existential risk? Or more specifically, how is the digital identity I use in my visiting/resident mode connected to an existential risk?
+- How can I improve my professional digital identity to help myself and others better understand an existential risk?
+- How are the digital identities used by a specific demographics connected to an existential risks? 
 - How can I interpret data linked to an existential risk and use my digital identity (or identities) to effectively communicate my findings?
 - How have the link between digital identities and existential risks been communicated in films? For instance AI with Terminator (1984), Her, Blade Runner. Bioweapons with 12 Monkeys, zombie movies. Global warming with Interstellar, new movie with Di Caprio. This could be an overview of films linked to DI and ER or perhaps a comparision of two movies. What about the Black Mirror series or similar series e.g. listed on https://screenrant.com/shows-like-black-mirror-netflix/. 
 - How have the link between digital identities and existential risks been communicated in novels?

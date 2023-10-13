@@ -7,11 +7,12 @@
 ### by week 3
 1. refine 'your website' page
 2. revise Essex marking criteria part with new file on Moodle
-3. select dp examples and provide feedback forms with them to students
-4. write up digital identity page in prose for kriskhofstadter.com or Medium or something
-5. find a spot to inject ideas on critical thinking and the neuroscience of confirmation bias, etc. 
+3. what ethics form do need to deal with if students want to run a survey
+4. select dp examples and provide feedback forms with them to students
+5. write up digital identity page in prose for kriskhofstadter.com or Medium or something
+6. find a spot to inject ideas on critical thinking and the neuroscience of confirmation bias, etc. 
 ### by week 10
-1. draft questionnaire for gathering feedback with specific questions
+1. draft questionnaire for gathering feedback with specific questions (what ethics form do I need for this)?
 ### by week 16
 1. choose essay examples from last year
 ### by week 22
