@@ -60,13 +60,21 @@ For more information, see the [template](https://github.com/khofstadter/CS220AU-
 
 ### Research domains
 You are asked to
-1. explore connections between digital identities and existential risks (i.e. do a literature review)
-2. choose one specific connection, explore this connection in more depth and use your website to critically reflect one it
+1. explore connections between digital identities and existential risks
+2. choose one specific connection and reflect on this connection in depth
+3. use your website to critically reflect one this connection
+
+In other words
+1. analyze
+2. synthesize
+3. publish
 
 To clarify, the two research domains are
   
 - digital identities <!-- add link to page -->
 - existential risks <!-- add link to page -->
+
+
 
 <!-- can I add a venn diagramm here with code? -->
 
