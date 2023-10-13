@@ -62,6 +62,8 @@ For more information, see the [template](https://github.com/khofstadter/CS220AU-
 - digital identities <!-- add link to page -->
 - existential risks <!-- add link to page -->
 
+<!-- can I add a venn diagramm here with code? -->
+
 You are asked to
 1. explore connections between digital identities and existential risks
 2. choose one specific connection
@@ -73,13 +75,12 @@ Your need to
 3. synthesize them 
 4. publish the result
 
-<!-- can I add a venn diagramm here with code? -->
+Some questions to get you started: 
 
-<!-- 
-- How are digital identities connected to existential risks? 
+<!--
 - How are my digital identities connected to existential risks? 
 - How can I improve my professional digital identity to help myself and others understand existential risks (or a specific risk) better?
-- How can I help others gain a better understanding of the connection between the use of their digital identities and an existential risk (or a specific existential risk)?
+- How can I help others gain a better understanding of the connection between the use of their digital identities and an existential risk?
 - How are the digital identities used by university students connected to existential risks? (You could run a survey, perhaps ask for help from sustainability office for the questionnaire.)
 - How can I interpret data linked to an existential risk and use my digital identity (or identities) to effectively communicate my findings?
 - How have the link between digital identities and existential risks been communicated in films? For instance AI with Terminator (1984), Her, Blade Runner. Bioweapons with 12 Monkeys, zombie movies. Global warming with Interstellar, new movie with Di Caprio. This could be an overview of films linked to DI and ER or perhaps a comparision of two movies. What about the Black Mirror series or similar series e.g. listed on https://screenrant.com/shows-like-black-mirror-netflix/. 
@@ -121,7 +122,6 @@ While this module primarily focuses on providing practical skills, it also opens
 -->
 
 ### Digital portfolio examples
-
 Examples from last year's CS220AU portfolios can be found [here](https://github.com/khofstadter/CS220AU-DP/forks).
 
 ## Syllabus with notes
@@ -134,9 +134,7 @@ From week 3 onwards, each session will start with shortly discussing your progre
 - we can have a 10 min break in the middle
 - we must leave the room 10 min before the next class starts
 - who has a class to catch after this?
-
-## This page
-- revise this page from the top
+- next, let's revise this page from the top to help clarify what the digital portfolio and the research question are
 
 ### FAQ
 Can I develop a website with another software e.g. WordPress, Wix, Squarespace, etc?
