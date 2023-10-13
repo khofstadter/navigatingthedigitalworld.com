@@ -146,6 +146,7 @@ This page explores Dave White's concepts of digital identities as presented acro
 - Do I know how Tech Giants (e.g., Google and Facebook) use my data?
 - What is our digital footprint?
 - Have you tried privacy-focused internet browsers to see what information certain websites are trying to access from your computer?
+- Are you happy with what you can find about yourself online? Do a Google search with your name! Also check your social media!
 
 ## Further resources
 Anderson, J. and Rainie, L. (2014) **Digital Life in 2025**. Experts predict the Internet will become ‘like electricity’ — less visible, yet more deeply embedded in people’s lives for good and ill. Article available online at [Pew Research Centre](https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/).
@@ -179,5 +180,4 @@ White, D.S. and Corun, A. L. (2011) **Visitors and Residents: A new typology for
 VPN Mentor, (n.d) **Who Is Really Watching?** From our locations and home addresses to private messages and phone numbers - we give away precious private information to online services everyday without even realizing it. We’ve deep dived into the privacy policies of some of the biggest companies online to uncover what they’re really tracking – use our tool to uncover who’s really watching you. Tool available at [vpnmentor.com](https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty).
 
 ## Image credits
-
 Header image was generated with AI by krishofstadter on 12 October 2023 at 10:18 pm using "make an image where people from the normal world slide or digitalized into the digital world"

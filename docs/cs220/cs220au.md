@@ -50,7 +50,7 @@ The module introduces primarily free and cross-platform software, often highligh
 The classes run in labs equipped with Windows PCs, providing some tools to help build your portfolios. I will also demonstrate software on macOS. You can use your own laptops and software in class.
 
 ## Assignment brief
-Throughout the term, you will build a digital portfolio based on a [template](https://github.com/khofstadter/CS220AU-DP). Your portfolio needs to consist of 
+Throughout the term, you will build a digital portfolio based on [this template](https://github.com/khofstadter/CS220AU-DP). Your portfolio needs to consist of 
 
 1. a website critically reflecting on a specific connection between the research domains given below
 2. a self- and peer-assessment file
@@ -59,22 +59,19 @@ Throughout the term, you will build a digital portfolio based on a [template](ht
 For more information, see the [template](https://github.com/khofstadter/CS220AU-DP).
 
 ### Research domains
-You are asked to
-1. explore connections between digital identities and existential risks
-2. choose one specific connection and reflect on this connection in depth
-3. use your website to critically reflect one this connection
-
-In other words
-1. analyze
-2. synthesize
-3. publish
-
-To clarify, the two research domains are
-  
 - digital identities <!-- add link to page -->
 - existential risks <!-- add link to page -->
 
+You are asked to
+1. explore connections between digital identities and existential risks
+2. choose one specific connection
+3. use your website to critically reflect one this connection
 
+Your need to
+1. review the literature
+2. analyze your findings
+3. synthesize them 
+4. publish the result
 
 <!-- can I add a venn diagramm here with code? -->
 
@@ -138,15 +135,26 @@ From week 3 onwards, each session will start with shortly discussing your progre
 - we must leave the room 10 min before the next class starts
 - who has a class to catch after this?
 
-*Are you happy with what you can find about yourself online?*
+## This page
+- revise this page from the top
 
-Task: Do a Google search with your name!
+### FAQ
+Can I develop a website with another software e.g. WordPress, Wix, Squarespace, etc?
+- No, GitHub is free, fast, and will provide you with a better understanding of the foundations of the digital world (e.g. the relationship between back-end and the front-end of a website).
 
-The aim of this module is to help you create a professional digital identity (one your future self would be proud of) and then help you continuously manage it. 
+Why do I need to write up my thoughts on a website instead of in 'normal' essay in a Word file? 
+- Because, writing something public will push you to work harder. 
+- Because, making a website will develop new skills (e.g. the basic understanding of web-design and hosting).
+- Because, you can embed audio-visual content in a website. 
+- Because, you can share it faster. 
+- You can stay anonymous, if you want to.
 
-First, let's find out how we can assess our digital identities, our engagement with the Web.
+Is this module for me?
+- In essence, the module can help you
+  - develop your digital identities, but more specifically your professional digital identity (i.e. your professional engagement with others through the Web)
+  - understand basic web-design and content production and provide you with a very fast website (for free).
 
-Open the digital identities page in the sidebar. <!-- #todo: we need a hyperlink here -->
+Now, let's find out how we can assess our digital identities, our engagement with the Web. <!-- #todo add link to page -->
 
 <!-- 
 ### homework
@@ -337,26 +345,6 @@ Check: https://www.essex.ac.uk/student/careers
 - _why is it good to keep my information in raw text format i.e. as simple as possible?_
 - _what are the advantages of LinkedIn over other social platforms?_
 -->
-
-## FAQ
-
-Can I develop a website with another software e.g. WordPress, Wix, Squarespace, etc?
-- No, GitHub is free, fast, and will provide you with a better understanding of the foundations of the digital world (e.g. the relationship between back-end and the front-end of a website).
-
-Can I create a website for a project I have already started working on?
-- Maybe, let's discuss. 
-
-Why do I need to write up my thoughts on a website instead of in 'normal' essay in a Word file? 
-- Because, writing something public will push you to work harder. 
-- Because, making a website will develop new skills (e.g. the basic understanding of web-design and hosting).
-- Because, you can embed audio-visual content in a website. 
-- Because, you can share it faster. 
-- You can stay anonymous, if you want to.
-
-Is this module for me?
-- In essence, the module can help you
-  - develop your digital identities, but more specifically your professional digital identity (i.e. your professional engagement with others through the Web)
-  - understand basic web-design and content production and provide you with a very fast website (for free).
 
 <!--
 > Practice what you preach.
