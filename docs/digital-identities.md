@@ -41,18 +41,18 @@ permalink: /docs/digital-identities
   - [search the Internet](https://duckduckgo.com/?q=gen+alpha&t=brave&ia=web)
 -->
 
-This page explores Dave White's concepts of digital identities as presented across three of his short videos. I used the following steps to reflect on his work:
+This page explores Dave White's concepts of digital identities as presented in three of his short videos. 
 
-1. Take brief notes while watching the videos (only keywords and key ideas), don't pause the video. 
-2. Refine your notes (perhaps watch again and pause if necessary):
-   - Integrate your new knowledge into your old knowledge (make connections between what you've learned now and what you already knew).
-   - Write full sentences and use your own writing style, your own vocabulary as much as possible. Personalize it.
-   - Ask questions where something is unclear (e.g. a connection between ideas is missing).
-3. Refine your notes, consider [paraphrasing quotes](https://quillbot.com/), and [grammar check](https://quillbot.com/grammar-check) for readability - make sure they make sense, and ideally not just for you. Use an AI language model for quick feedback (e.g. [ChatGPT](https://chat.openai.com/)).
+Consider using the following steps: 
+
+1. Take short notes while watching the videos (only keywords and key ideas)
+2. Refine your notes (rewatch parts to clarify things):
+   - Write full sentences and use your own writing style, your own vocabulary as much as possible.
+   - Connect your new knowledge to your old knowledge.
+   - Ask questions where something is unclear (e.g. where a link between ideas is missing).
+3. Refine your notes, consider [paraphrasing](https://quillbot.com/), and [grammar checking](https://quillbot.com/grammar-check). Make sure your notes make sense, and ideally not just for you. Use an AI language model for quick feedback (e.g. [ChatGPT](https://chat.openai.com/)).
 
 ## Visitors and residents
-> Visitors and Residents is a simple way of describing the range of ways individuals can engage with the Web. ~ Dave White 
-
 ### 1. Introduction
 
 <div class="responsive-iframe">
@@ -68,17 +68,14 @@ This page explores Dave White's concepts of digital identities as presented acro
 
 - The VR map helps all ages (not just old people) and people with low technical skills to use the Web efficiently.
 - It is based on people's motivation to engage with the Web and has two modes: visitor and resident modes, and is further refined by whether we engage in an activity in a personal or an institutional (professional) manner.
-- Visitor modes:
-  - Activities where **we don't leave a social trace behind** (e.g. searching/reading information on the Web, watching videos, shopping, paying our bills). But, remember that search engines could store your search history and website cookies can crawl data from you even in your visiting modes.
-- Resident modes:
-  - Activities where we are present with other people and **leave a social trace behind**. A footprint of our activities stays online after we leave the internet (e.g. by creating content or commenting on other people's content on online platforms [websites, social media]). As these activities are public, they can be linked to our (digital) identities, and therefore we should be careful when we use the Web in this mode. (We should be careful when we use our visitor modes as well, of course!)
+- In visitor mode activities **we don't leave a social trace behind** (e.g. searching/reading information on the Web, watching videos, shopping, paying our bills). But, remember that search engines could store your search history and website cookies can crawl data from you even in your visiting modes.
+- In resident mode activities we are present with other people and **leave a social trace behind**. A footprint of our activities stays online after we leave the internet (e.g. by creating content or commenting on other people's content on online platforms [websites, social media]). As these activities are public, they can be linked to our (digital) identities, and therefore we should be careful when we use the Web in this mode. (We should be careful when we use our visitor modes as well, of course!)
 - An example of personal engagement is using social media or emails to communicate with friends and family about personal matters.
 - An example of institutional activities is disseminating or discussing ideas as a worker or a student in higher education (HE) online (or print).
 - [VR map examples](http://daveowhite.com/vandr/vr-mapping/)
 
 #### Discussion
 - *Where do you feel most of your activity is on the VR map?*
-- *How much time do you think it would take to write up the list of notes above into prose (e.g. as an essay's paragraph)?*
 
 ### 2. Credibility
 
@@ -93,14 +90,16 @@ This page explores Dave White's concepts of digital identities as presented acro
 > In the only environment where curation is by algorithm and not by librarian, convenience and relevance often outstrip traditional notions of credibility and authority. The Web brings into question what it means for a source of information to be legitimate, and it highlights the trust we place in the form and provenance of those sources.
 
 - Traditional information (e.g., books) and information on the Web (e.g., a blog post) use different methods to gain attention and credibility:
-  - Traditional (established): Validated by established institutions e.g., universities, publishing houses, and know experts (promoted by institutions, 'the gatekeepers').
-  - Web (new/emerging): Brought to our attention ('validated') by search engines, likes, followers, views, comments (promoted mainly by individuals).
+  - Traditional (established): Validated by established institutions e.g., universities, publishing houses, and known experts (promoted by institutions, 'the gatekeepers').
+  - Web (new/emerging): Brought to our attention ('validated') by search engines, influencers, likes, followers, views, comments (promoted mainly by individuals).
 
 - Using the Web to source information is convenient; however, it might not provide the most accurate information about a specific subject.
-
 - Earlier, students published their first work after their PhDs. Today the Web allows us to start developing our professional identity before finishing our doctoral research e.g., by expressing our opinions about other people's work openly and publishing our own work on our websites or relevant platforms e.g., videos on [Vimeo](https://vimeo.com/), articles on [Medium](https://medium.com/), music on [SoundCloud](https://soundcloud.com/), photos on [Flickr](https://flickr.com/), graphic design on [Behance](https://www.behance.net/), software on GitHub, etc.
 
+<!-- some influencers don't reply your messages unless you have an x amount of followers -->
+
 #### Discussion
+- What if a Wikipedia page is written by an expert in the relevant field, e.g. a professor at Essex University?
 - Should teachers in higher education be active online, for example, share their teaching resources on the Web and engage with learners who did not formally enroll in a module?
 - What is the future of education? What do students get for paying their high fees?
 - Shall students' learning rely entirely on the processes of formal education, such as lectures/workshops primarily using established forms of resources (e.g., academic journals) and assignments (e.g., essays or portfolios)? Or should their learning be more agile and incorporate the use of information on the Web (e.g., blog articles) and feedback on their works outside their workshops, i.e., should they seek feedback from people on discipline-related forums?

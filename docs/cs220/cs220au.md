@@ -75,8 +75,6 @@ Your need to
 3. synthesize them 
 4. publish the result
 
-Some questions to get you started: 
-
 <!--
 - How are my digital identities connected to existential risks? 
 - How can I improve my professional digital identity to help myself and others understand existential risks (or a specific risk) better?
