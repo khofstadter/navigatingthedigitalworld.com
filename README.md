@@ -1,13 +1,9 @@
 # Navigating the Digital World
 ## Tasks
-### by week 2
-1. why are internal Markdown links not working?
-2. take HDMI adapters
-3. find VR videos just in case
 ### by week 3
-1. refine 'your website' page
+1. refine 'your website' and the password protection page
 2. revise Essex marking criteria part with new file on Moodle
-3. what ethics form do need to deal with if students want to run a survey
+3. what ethics form do we need to deal with if students want to run a survey
 4. select dp examples and provide feedback forms with them to students
 5. write up digital identity page in prose for kriskhofstadter.com or Medium or something
 6. find a spot to inject ideas on critical thinking and the neuroscience of confirmation bias, etc. 
