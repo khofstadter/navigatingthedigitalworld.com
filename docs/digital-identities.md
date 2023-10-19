@@ -49,8 +49,8 @@ Consider using the following steps:
 2. Refine your notes (rewatch parts to clarify things):
    - Write full sentences and use your own writing style, your own vocabulary as much as possible.
    - Connect your new knowledge to your old knowledge.
-   - Ask questions where something is unclear (e.g. where a link between ideas is missing).
-3. Refine your notes, consider [paraphrasing](https://quillbot.com/), and [grammar checking](https://quillbot.com/grammar-check). Make sure your notes make sense, and ideally not just for you. Use an AI language model for quick feedback (e.g. [ChatGPT](https://chat.openai.com/)).
+   - Ask questions in your notes where something is unclear, where a link between ideas is missing.
+3. Refine your notes, consider [paraphrasing](https://quillbot.com/), and [grammar checking](https://quillbot.com/grammar-check). Make sure your notes make sense, and ideally not just for you. Consider using an AI language model for quick feedback (e.g. [ChatGPT](https://chat.openai.com/)).
 
 ## Visitors and residents
 ### 1. Introduction
@@ -75,7 +75,8 @@ Consider using the following steps:
 - [VR map examples](http://daveowhite.com/vandr/vr-mapping/)
 
 #### Discussion
-- *Where do you feel most of your activity is on the VR map?*
+- *Where do you feel most of your activity is on the VR map at the moment?*
+- *How do you envision your map in a couple or years?*
 
 ### 2. Credibility
 
@@ -99,11 +100,11 @@ Consider using the following steps:
 <!-- some influencers don't reply your messages unless you have an x amount of followers -->
 
 #### Discussion
-- What if a Wikipedia page is written by an expert in the relevant field, e.g. a professor at Essex University?
-- Should teachers in higher education be active online, for example, share their teaching resources on the Web and engage with learners who did not formally enroll in a module?
-- What is the future of education? What do students get for paying their high fees?
-- Shall students' learning rely entirely on the processes of formal education, such as lectures/workshops primarily using established forms of resources (e.g., academic journals) and assignments (e.g., essays or portfolios)? Or should their learning be more agile and incorporate the use of information on the Web (e.g., blog articles) and feedback on their works outside their workshops, i.e., should they seek feedback from people on discipline-related forums?
-- Should we expect students to know how to use professional identities in resident modes efficiently? Probably not, but **they should be encouraged** to develop this practice.
+- *What if a Wikipedia page is written by an expert in the relevant field, e.g. a professor at Essex University? Would it be a credible source of information?*
+- *Should teachers in higher education be active online, for example, [share their teaching resources on the Web](../index) and engage with learners who did not formally enroll in a module?*
+- *What is the future of education? What do students get for paying their high fees?*
+- *Shall students' learning rely entirely on the processes of formal education, such as lectures and workshops primarily using established forms of resources (e.g., academic journals) and assignments (e.g., essays or portfolios)? Or should their learning be more agile and incorporate the use of information on the Web (e.g., blog articles) and feedback on their works outside their workshops, i.e., should they seek feedback from people on discipline-related forums?*
+- *Should we expect university students to know how to use professional identities in resident modes efficiently? If, not, should they be at least encouraged to develop this practice?*
 
 ### 3. Open Practice
 
@@ -115,12 +116,12 @@ Consider using the following steps:
 - Students are comfortable sharing information about their personal lives online but less comfortable sharing information about their developing professional practices, "especially if this might open them up to criticism or reveal mistakes and failings."
 - The audience of traditional publishing is:
   - Targeted, meaning that if you publish in a journal on biology, you will primarily have biologists reading your work.
-  - Usually at a safe distance, meaning that if they criticize your work, they will do it in writing in a paper they publish (unless you present at a conference - some people can be harsh).
+  - Usually at a safe distance, meaning that if they criticize your work, they will do it in writing in a paper they publish (unless you present at a conference where some people can be harsh).
 - The audience when publishing on the Web:
   - Could be unlimited (but is often targeted).
   - Can give you quick feedback linked to their real or not real identities.
 - It might be better to consider work published online as unfinished, something that can start discussions. <!-- find webpages with version numbers or on the top some disclaimers saying this is an updated version of something earlier -->
-- A powerful feature of open practice using the Web is the access to feedback from individuals or networks who are beyond the classroom. (Of course, you need to remain critical.)
+- A powerful feature of open practice using the Web is the access to feedback from individuals or networks who are beyond the classroom. (Of course, [remain critical](https://youtu.be/ya_p4RIorXw?feature=shared).)
 - White believes "that making the process of learning more visible and collaborative online challenges students to become relevant members of their discipline or academic community" (although does not suggest this for all subjects).
 - Students should have their own private groups where they can express themselves without being afraid of being monitored.
 - Our main resident identities on the Web should probably not be a mix of personal and professional/institutional (hint: be personal in private groups and professional openly).
@@ -130,22 +131,21 @@ Consider using the following steps:
 *What does this quote mean in the context of commenting online?*
 
 #### Discussion
-- How could someone's professional identity be linked to their private life?
-- Should students start sharing information about their practice/research after finishing their degrees or before? Is it possible to submit work for a uni assignment that you published somewhere online?
-- Could some of you set up a forum where you can openly discuss ideas/issues which are not monitored by me or the university? Which social media apps do you use?
-- How can you continue the sentence "As education moves towards incorporating the use of the Web, ..."?
+- *How could our professional identity be linked to our private lives?*
+- *Should students start sharing information online about their research practices after finishing their degrees or before?*
+- *How can you continue the sentence "As education moves towards incorporating the use of the Web, ..."?*
 
 ## Summary
-- It's not just old people who need to learn how to use the Web. Our engagement with the Web is complex.
-- We need to be careful with the information we engage with online as it leaves a digital footprint. For example, your drunk videos might stay on Facebook forever.
-- It's a good idea to start working on our professional (institutional) identity while studying in higher education, but we should make sure that we are comfortable with where and how much of our ideas/questions are shared publicly. Learn to use both private and public note-taking/publishing tools.
+- It's not just old people who need to learn how to use the Web. Our engagement with the Web is complex, we all need to learn its use, continuously.
+- We need to be careful with the information we engage with online as it leaves a digital footprint. Are you photos and videos safe on Facebook?
+- It's a good idea to start working on our professional (institutional) identity while studying in higher education, but we should make sure that we are comfortable with where and how much of our ideas are shared publicly.
 
 ## Additional discussion
 - What do you know about data mining?
-- Do I know how Tech Giants (e.g., Google and Facebook) use my data?
+- Do I know how Tech Giants (e.g., [Google](https://www.makeuseof.com/privacy-security-risks-google-photos/) and Facebook) use my data?
 - What is our digital footprint?
-- Have you tried privacy-focused internet browsers to see what information certain websites are trying to access from your computer?
-- Are you happy with what you can find about yourself online? Do a Google search with your name! Also check your social media!
+- Have you tried privacy-focused internet browsers (e.g. [Brave](https://brave.com)) to see what information certain websites are trying to access from your computer?
+- Are you happy with what you can find about yourself online? Do a Google search with your name! Also, do some searches in your social media platforms.
 
 ## Further resources
 Anderson, J. and Rainie, L. (2014) **Digital Life in 2025**. Experts predict the Internet will become ‘like electricity’ — less visible, yet more deeply embedded in people’s lives for good and ill. Article available online at [Pew Research Centre](https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/).
@@ -158,11 +158,11 @@ Boereem L. (2021) Moloch: The Beauty Wars. Beauty is getting weird right now. Th
 
 Coupland, D., Cowan, J. and Law, G. (n.d.) **Close Personal Friend**. An art-film exploring how the use of technology changes culture in the early 1990s. Video available on [YouTube](https://www.youtube.com/watch?v=Bg3a5f107Jc) (25-min).
 
-Firefox Monitor. (n.d.) See if you’ve been part of an online data breach. Tool available at [firefox.com](https://monitor.firefox.com/).
+Firefox Monitor. (n.d.) See if you’ve been part of an online data breach. Tool available at [monitor.firefox.com](https://monitor.firefox.com/).
 
 Herzog, W. (2016) **Lo and Behold**, Reveries of the Connected World. An exploration of the Internet and the connected world. More info and trailer on [IMDB](https://www.imdb.com/title/tt5275828). Available on [Kanopy](https://www.kanopy.com/).
 
-Kim, A. (2020) **What makes Asia−Pacific’s Generation Z different?** Article available on [McKinsey and Company](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/what-makes-asia-pacifics-generation-z-different)
+Kim, A. (2020) **What makes Asia−Pacific’s Generation Z different?** Article available on [McKinsey and Company](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/what-makes-asia-pacifics-generation-z-different).
 
 Morse, J. (2019) **It’s a mistake to think that our online and IRL (in real life) lives are separate.** There is no longer a distinction between our online and offline selves. But that can change. Article available online at [Mashable](https://mashable.com/article/what-you-do-online-impacts-your-real-life?europe=true).
 
@@ -174,9 +174,9 @@ Stosney, S. (2014) **What's Wrong with Criticism.** How to ruin a perfectly good
 
 The Infographic Show, (2018) **Millennials vs Generation Z**. How Do They Compare & What's the Difference? Video available on [YouTube](https://youtu.be/aqdm6aBUZII) (6-min).
 
-White, D.S. and Corun, A. L. (2011) **Visitors and Residents: A new typology for online engagement**. This article proposes a continuum of ‘Visitors’ and ‘Residents’ as a replacement for Prensky’s much criticized Digital Natives and Digital Immigrants. Article available online at [First Monday](https://firstmonday.org/ojs/index.php/fm/article/view/3171). 
+White, D.S. and Corun, A. L. (2017) **Using ‘Visitors and Residents’ to visualise digital practices**. This article proposes a continuum of ‘Visitors’ and ‘Residents’ as a replacement for Prensky’s much criticized Digital Natives and Digital Immigrants. Article available online at [First Monday](https://firstmonday.org/ojs/index.php/fm/article/view/7802). 
 
 VPN Mentor, (n.d) **Who Is Really Watching?** From our locations and home addresses to private messages and phone numbers - we give away precious private information to online services everyday without even realizing it. We’ve deep dived into the privacy policies of some of the biggest companies online to uncover what they’re really tracking – use our tool to uncover who’s really watching you. Tool available at [vpnmentor.com](https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty).
 
 ## Image credits
-Header image was generated with AI by krishofstadter on 12 October 2023 at 10:18 pm using "make an image where people from the normal world slide or digitalized into the digital world"
+Header image was generated with Image Creator (DALL·E 3) on 12 October 2023 at 10:18 pm using "make an image where people from the normal world slide or digitalized into the digital world"

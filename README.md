@@ -11,6 +11,11 @@
 1. draft questionnaire for gathering feedback with specific questions (what ethics form do I need for this)?
 ### by week 16
 1. choose essay examples from last year
+2. invite more speakers e.g. 
+   1. https://www.essex.ac.uk/people/VALEN80000/elia-valentini
+   2. https://www.essex.ac.uk/people/HUGHE78004/gethin-hughes
+   3. Jane
+   4. Elisif
 ### by week 22
 1. demonstrate the making of an accessible PDF
 

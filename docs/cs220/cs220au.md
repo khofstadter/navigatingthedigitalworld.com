@@ -176,33 +176,25 @@ Find out how much people can see of your social media activities.
 -->
 
 ### w3 Websites, digital portfolio setup (GitHub, Markdown)
-<!-- 
+#### intro
 - how do you take notes?
 - GitHub account and repositories
 - Markdown language
 
-- my ASH: Tue 11am-12pm in 5B.123 (Not good for some, I know. What's best for everyone? Do we need to use [doodle.com](https://doodle.com/)?)
-  - you need to sign up via email
-- do you need clarification on the assignment?
-- have you managed to do the homework?
-  - did you take notes?
-- would you like to present your progress to the class?
-- have you managed to create an online group for yourselves to discuss ideas freely?
-- did you all get my email?
-- have you used [kanopy.com/en/essexuk](https://www.kanopy.com/en/essexuk) 
-- if you need help with your English language, please visit [this page](https://www.essex.ac.uk/departments/language-and-linguistics/english-classes-for-dependants) (I will also cover some language tools later to help our grammar.)
--->
+1. do you need clarification on the assignment?
+2. any other questions (e.g. coming to the evening class?)
+3. did you manage to finish watching/reading the info on the di page?
+4. did you manage to write up your notes? 
+5. where are your notes now? What format? 
+6. have you managed to create an online group for yourselves to discuss ideas freely?
 
-<!--
-Today everyone will
-
-- create a GitHub account with two repositories (aka repos)
-  - one private
-  - one public
-- your private repo will be for your notes (we will start adding notes you took using the VR method)
-- your public repository will be a copy (a fork) of the [digital portfolio template ](https://github.com/khofstadter/CS220AU-DP-2022)
-- experiment with basic Markdown syntax in the GitHub editor (e.g. headings, lists, bold, italics, hyperlinks, embeds)
-  - this will include creating three folders in your private repository (`inbox`, `permanent`, `project` and `assets`) and start adding your homework notes in the 
+#### today
+Today we will
+1. talk a bit about websites
+2. password
+3. create a GitHub account with two repositories (aka repos)
+  - one private (you can use it for your notes)
+  - one public (you will have to use it for your assignment)
 - start the ‘log’ and the ‘TODO’ lists in your portfolios
 - use the GitHub Pages function in your repositories' settings to turn Markdown files into HTML (to create your website)
 --> 

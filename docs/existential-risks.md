@@ -29,7 +29,7 @@ Schmachtenberger, Daniel 2023 **An introduction to the Metacrisis** at Stockholm
 More to come ... 
 
 ## Image credits
-Header image was generated with AI by krishofstadter on 12 October 2023 at 10:29 pm using "make an image collage with existential risks e.g. climate change, AI, biowarfare".
+Header image was generated with Image Creator (DALL·E 3) on 12 October 2023 at 10:29 pm using "make an image collage with existential risks e.g. climate change, AI, biowarfare".
 
 ## Footnotes
 [^inconsistent-terms]: This is true as often researchers in the same academic field don't use terms consistently, which can be frustrating to students, or anyone doing literature review.
