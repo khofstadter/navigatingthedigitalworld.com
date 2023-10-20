@@ -183,7 +183,7 @@ Find out how much people can see of your social media activities.
 
 1. do you need clarification on the assignment?
 2. any other questions (e.g. coming to the evening class?)
-3. did you manage to finish watching/reading the info on the di page?
+3. did you manage to finish watching/reading the info on the [Digital identities](../docs/digital-identities) page?
 4. did you manage to write up your notes? 
 5. where are your notes now? What format? 
 6. have you managed to create an online group for yourselves to discuss ideas freely?
@@ -227,6 +227,7 @@ Today we will
 
 - compare [Markdown and HTML](https://codingnconcepts.com/markdown/markdown-vs-html/)
 - set up your LinkedIn and ResearchGate account
+- check difference between jpg and png images with light/dark theme and then on macOS create all in png, perhaps add something in Skitch, optimize, add to repository, check localhost, push with GitHub pages and then check in a couple of minutes (this demonstrates many things.)
 -->
 
 ### w6 Self- and peer-assessment (presentations, group work)

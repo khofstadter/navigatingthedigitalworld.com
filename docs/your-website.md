@@ -19,13 +19,13 @@ permalink: /docs/your-website
 
 ## Why build a website?
 You
-- own the content <!-- **Ownership**: You own the content, ensuring it remains unaffected by the rules and policies of third-party platforms.-->
-- can have full control over its functions and design <!-- **Control**: Have full authority over the functionality and design, tailoring each aspect to your preferences and objectives.-->
-- can disseminate a URL to specific pages in different corners of the Web, e.g., on social media platforms, forums, emails, business cards, etc. <!-- **Distribution**: Easily share a URL across various platforms such as social media, forums, and emails, facilitating wider reach and accessibility. -->
-- can give people an overview of your past and current work and provide an outlook, e.g., to help seek collaborators <!-- **Presentation**: Showcase your past and current projects, ideas, or products, and provide an insightful outlook to attract collaborations or opportunities.-->
-- can redesign it whenever you feel it needs a new feel (you can create a different feel for each page if you want) <!-- **Customization**: Refresh and redesign the website's appearance and feel whenever necessary, keeping it vibrant and engaging. -->
-- can add website skills to your CV, e.g., web design, web hosting, and programming <!-- **Skill Acquisition**: Enhance your CV by adding valuable skills such as web design, hosting, and programming. -->
-- with these new skills, can build websites for others (for money) <!-- **Monetization Opportunities**: Utilize your newly acquired skills to create websites for others, turning it into a potential revenue stream. -->
+- **own** the content <!-- **Ownership**: You own the content, ensuring it remains unaffected by the rules and policies of third-party platforms.-->
+- can have **full control** over its functions and design or timing of updates <!-- **Control**: Have full authority over the functionality and design, tailoring each aspect to your preferences and objectives.--> <!-- e.g. you don't have to wait days for someone to update you site if there is a typo-->
+- can **disseminate a clean URL** to specific pages in different corners of the Web, e.g., on social media platforms, forums, emails, business cards, etc. <!-- **Distribution**: Easily share a URL across various platforms such as social media, forums, and emails, facilitating wider reach and accessibility. -->
+- can give people an **overview of your past and current work** and provide an outlook, e.g., to help seek collaborators <!-- **Presentation**: Showcase your past and current projects, ideas, or products, and provide an insightful outlook to attract collaborations or opportunities.-->
+- can **redesign** it whenever you feel it needs a new feel (you can even create a different feel for each page if you want) <!-- **Customization**: Refresh and redesign the website's appearance and feel whenever necessary, keeping it vibrant and engaging. -->
+- can **add website skills to your CV**, e.g., web design, web hosting, and programming <!-- **Skill Acquisition**: Enhance your CV by adding valuable skills such as web design, hosting, and programming. -->
+- with these new skills, can build websites for others (for **money**) <!-- **Monetization Opportunities**: Utilize your newly acquired skills to create websites for others, turning it into a potential revenue stream. --> <!-- I got employed as a freelancer and PAYE several times because of these skills -->
 
 <!-- **Ownership**: You own the content, ensuring it remains unaffected by the rules and policies of third-party platforms.-->
   
@@ -56,8 +56,8 @@ You
 
 ## Types of websites
 
-1. project website ([small](https://endaksi1.github.io/sonicart/) or [big](https://bcmi.khofstadter.com/))
-2. portfolio website (can feature multiple projects) (research with [one](https://enhancingaudiodescription.com) or [multiple](https://storylabresearch.com/) themes 
+1. solo project with one main theme (e.g. [short](https://endaksi1.github.io/sonicart/) or [long](https://bcmi.khofstadter.com/) and [longer](https://enhancingaudiodescription.com))
+2. multi project with several themes (e.g. [research institute](https://storylabresearch.com/) or [artist portfolio](http://rq-lightart.com/))
 
 <!-- shall I add the other websites I built e.g. Rhea and krishofstadter.com -->
 
@@ -66,13 +66,13 @@ Websites can also be categorized as personal, business, e-commerce, educational,
 ## Website builders
 
 There are two main types:
-1. [static site generators](https://staticsitegenerators.net/) (SSG) e.g. [Jekyll](https://jekyllrb.com/) which is used with GitHub Pages when turning Markdown files into a website
-2. [web content management systems](https://en.wikipedia.org/wiki/Web_content_management_system) (WCMS) e.g. [Wordpress](https://wordpress.org/), Wix, Squarespace and [other website builders](https://websitebuilder.org.uk/) with which it is easier to create more dynamic websites
+1. [static site generators](https://staticsitegenerators.net/) (SSG) e.g. [Jekyll](https://jekyllrb.com/) which is used with [GitHub Pages](https://pages.github.com/) when turning [Markdown files](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) into a website
+2. [web content management systems](https://en.wikipedia.org/wiki/Web_content_management_system) (WCMS) e.g. [Wordpress](https://wordpress.org/), Wix, Squarespace and [other website builders](https://websitebuilder.org.uk/) with which for people without high technical skills, it could be easier to create more dynamic websites than with SSGs
 - SSGs are usually free while WCMSs often have a monthly subscription fee
-- both types have free and paid themes e.g. [here](https://jekyllthemes.io/) and [here](https://duckduckgo.com/?q=wordpress+themes&t=brave&ia=web)
-- both types can use plugins to do a specific function. SSG plugins e.g. [Jekyll plugins](http://www.jekyll-plugins.com/) are usually free, while plugins for WCMSs can vary e.g. while many of them are free, some can be expensive
+- both types have free and paid themes e.g. on [Jekyll Themes](https://jekyllthemes.io/) and [Themeforest](https://themeforest.net/category/wordpress)
+- both types can use plugins to do a specific function. SSG plugins (e.g. [Jekyll plugins](http://www.jekyll-plugins.com/)) are usually free, while plugins for WCMSs can vary (e.g. while many of them are free, some can be expensive)
 - there are many more plugins for WCMSs than for SSGs (because more people use WCMSs than SSGs)
-- SSGs, in general, need more textual programming skills while WCMSs, in general, are more visual and therefore need less textual programming skills
+- SSGs, in general, need more textual programming skills while WCMSs, in general, are more visual and therefore need less textual programming skills (but if something goes wrong, you might have to do some coding, or pay someone to fix you issue)
 
 | Criteria          | SSG | WCMS |
 |--------------------|------------------------------|--------------------------------------|
@@ -82,47 +82,39 @@ There are two main types:
 | Security           | High                         | Varies                              |
 
 
-<br>
-
 ### Textual vs visual programming examples
-Illustrating the difference between textual and visual programming with real-world examples.
+The images below illustrate the difference between textual and visual programming <!-- change to png to look good on both light/dark theme -->
 
-SuperCollider (audio):
+Markdown with preview in [VSCodium](https://vscodium.com/):
 
-![](../assets/img/2023-10-19-markdown-editor.png))
+![](../assets/img/2023-10-19-markdown-editor.png)
 
-Max (audio):
+[Max](https://cycling74.com/products/max) (audio):
 
 ![](../assets/img/textual-vs-visual-programming-max.jpg)
 
-WordPress backend (WCMS):
+WordPress (WCMS):
 
-![](../assets/img/textual-vs-visual-programming-wordpress-backend.jpg) <!-- change to png -->
+![](../assets/img/textual-vs-visual-programming-wordpress-backend.jpg) 
 
-WordPress frontend (WCMS):
 
-![](../assets/img/textual-vs-visual-programming-wordpress-frontend.jpg) <!-- change to png --
+![](../assets/img/textual-vs-visual-programming-wordpress-frontend.jpg)
 
-<br>
-
-### Some free WCMSs
-- https://youtu.be/myM1H_jAyzI
-
-<br>
 
 ### Wordpress.com vs WordPress.org
-- WordPress is an open-source WCMS available at [WordPress.org](WordPress.org)
-- the website [WordPress.com](wordpress.com) is owned by a hosting company called Automattic, where you can set up the WordPress WCMS (not too technical)
+- WordPress is widely used open-source WCMS available at [WordPress.org](WordPress.org)
+- the website [WordPress.com](wordpress.com) is owned by a hosting company called Automattic, where you can set up the WordPress WCMS (the process is not too technical)
 - you can set up this WCMS with different hosting providers as well e.g. [TSOHost](https://www.tsohost.com/) (which can be more technical, but maybe more economic e.g. if you own many websites). You could [compare them](https://duckduckgo.com/?q=best+hosting+providers&t=brave&ia=web). 
 - more info [here](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
 
-<br>
+[This video](https://youtu.be/myM1H_jAyzI) can give you some more ideas about free WCMSs.
+
 
 ### Custom domain
-- with free websites, you often get a long domain name containing the name of the company you set your website up with e.g.
-  - https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/
-  - https://mywebsite.wordpress.com
-- if you want to have your own ‘custom domain’, register it with a domain registrar (which costs around £10/year)
+- with free websites, you often get a long domain name containing the name of the company you set your website up with e.g. 
+- [https://2206217.github.io/CS220AU-DP-2022/](https://2206217.github.io/CS220AU-DP-2022/)
+- https://mywebsite.wordpress.com <!-- does wix, squarespace, ... add their names to the domainame with the free/light accounts? -->
+- if you want to have your own ‘custom domain’, register it with a domain registrar (which costs around £10/year) <!-- add examples -->
   - the https://github.com/krisztian-hofstadter-tedor/khofstadter.com repository is linked to the custom domain [https://khofstadter.com/](https://khofstadter.com) which I registered with [NameCheap](https://www.namecheap.com/). GitHub's GitHub Pages fuction turnes my Markdown, HTML and CSS files in this repository into a static website that costs around £10/year to run.
 - I built the website [https://storylabresearch.com/](https://storylabresearch.com/) using WordPress, and are  hosing it with TSOHost, where its custom domain is registered as well (costs around £400/year to run; this cost includes a faster VPN server and an additinal extra security packages)
 - websites built with other WCMSs would also [cost above £100/year](https://www.websitebuilderexpert.com/website-builders/comparisons/) to run
@@ -135,34 +127,36 @@ Using the Wayback Machine on [archive.org](https://archive.org/):
 - [2018](https://web.archive.org/web/20181130174711/http://www.tedor.info/) with WordPress
 - [2023](https://krishofstadter.com/) with Jekyll and GithHub Pages
 
-<br>
+<!-- ### add a brief WordPress demo? -->
+## SSG vs WCMS summary
 
-<!-- ### Brief WordPress demo -->
+| Feature/Aspect               | SSG                                                                 | WCMS |
+|------------------------------|---------------------------------------------------------------------|------|
+| **Page Creation**            | Pre-creates webpages, often converting Markdown files to HTML       | Pages are created when visited |
+| **Data Storage**             | Data stored in website files                                       | Data like articles, images stored in a separate database file (e.g. using [MySQL](https://www.mysql.com/))|
+| **Loading Speed**            | Faster loading due to pre-created files and no database usage       | Slower due to real-time page creation and database usage (there are plugins [to help with Cashe](https://www.elegantthemes.com/blog/wordpress/best-wordpress-cache-plugins))|
+| **Security**                 | More secure due to pre-creation of pages, less vulnerability to malicious code injection | More vulnerable to malicious code  |
+| **Hosting**                  | Versatile hosting options, often lower cost                         | More complex and potentially costly hosting due to databases |
+| **Scalability**              | Highly scalable, suitable for high traffic                          | Challenges in scaling due to dynamic content and databases |
+| **Development Environment**  | Requires development environment and version control knowledge     | Manageable directly on the server; no local environment usually necessary |
+| **Ease of Update**           | Technical; involves working with site’s code                        | User-friendly; modifications through a GUI |
+| **Content Collaboration**    | Less collaboration-friendly; requires codebase access               | Supports multiple users and roles for easier content management |
+| **Plugin Availability**      | Limited plugins; functionalities might need to be built manually    | Wide variety of plugins for extended functionalities |
+| **Community and Support**    | Smaller but growing community; limited forums and resources         | Large community; extensive forums and resources |
+| **Main Advantages**          | Fast, more secure                                                   | More user-friendly without coding knowledge |
+| **Main Disadvantages**       | Requires some coding experience                                    | Slower performance, higher security risks, more maintenance, limited advanced customization, scalability challenges |
+| **CMS Addition**             | Possible to add CMS like [Jamstack](https://jamstack.org/) ([Demo](https://youtu.be/4wD00RT6d-g)) |      |
 
-<br>
+<!-- | **CDN Compatibility**        | Easily integrated with CDNs for faster global content delivery      | Requires additional configurations for CDN integrations | -->
 
-### GitHub Pages
+## GitHub Pages
 - [intro video](https://youtu.be/2MsN8gpT6jY)
 - [documentation](https://docs.github.com/en/pages)
 
-<br>
-
-## SSG vs WCMS
-- a static site generator pre-creates the webpages e.g. the Markdown files are converted into HTML files (instead of creating the page when someone visits a WordPress site)
-- the data with the static site is stored in the website files with the WCMS the user data e.g. blog article, images, etc. are stored in a separate database file. It looks like [this](https://duckduckgo.com/?q=wordpress+data+base+file&t=brave&iax=images&ia=images).
-- a static site loads much faster as the files are pre-created (and no database is used)
-- the pre-creation of the webpages makes the site more secure as malicious code while loading the pages cannot be injected (or is more difficult to do)
-- a good comparison: https://youtu.be/_NZJW7IoGR4
-- main advantages of static site generator: fast, more secure
-- main disadvantages: you need some coding experience
-- you can add CMS (a more visual environment i.e. a graphical user interface (GUI) to some static sites e.g. with [https://jamstack.org/](https://jamstack.org/) as demonstrated in [https://youtu.be/4wD00RT6d-g](https://youtu.be/4wD00RT6d-g)
-
-
-## GitHub 
 1. Sign up to GitHub
  - you will need an email address (perhaps use your student email address)
  - your username must be your student number (ask me if you are unsure!)
- - use a good password (check the [pw.md](password-management.md) file for ideas)
+ - use a good password (check the [Password management page](password-management) for ideas)
 2. Create a private repository
   - for your private notes
   - name it 'private notes'
@@ -177,7 +171,7 @@ Familiarise yourself with [Markdown language](https://guides.github.com/features
 ![](../assets/img/github-editor-link-to-markdown-guide.jpg)
 
 ### Thoughts
-- choose 'soft wrap' instead of 'no wrap' in the GitHub editor
+- choose 'soft wrap' instead of 'no wrap' in the GitHub editor <!-- should indicate this in the screenshot above -->
 - there are slightly different Markdown styles, but in general they all work the same (stick to the above link with GitHub)
 - we can monitor each other's progress in the public repositories. Please update it at least once a week. <!-- TODO: make example repo for private and public. Perhaps show examples of sonic art students from ARU. -->
 - [is GitHub safe to use](https://youtu.be/vAfBW1_AZkU?t=597) (e.g regarding tracking and cookies)?
@@ -188,8 +182,8 @@ GitHub's advantages:
 - free
 - provides version backup
 - accessible and editable on mobiles via browser
-- repositories can be synced to your computer (cross-platform) and then you can use desktop software to edit your files (e.g. Visual Studio Code)
-- you can drag and drop images to the editor (but I think it's better to upload it them to your `assets` folder to stay organised)
+- repositories can be synced to your computer (cross-platform) and then you can use desktop software to edit your files (e.g. VSCodium)
+- you can drag and drop images to the editor (but I think it's better to upload it them to your `assets` folder instead to be more organized)
 - can have [project boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) similar like [Trello](https://trello.com/) if needed
 - you can turn your files into a very fast website for free (can be static or more complex e.g. with [Jekyll themes](https://jekyllthemes.io/free).)
 
@@ -249,6 +243,7 @@ You can edit your files in both, your GitHub account via a browser or in VSC on 
 - https://grantwinney.com/cool-markdown-tricks-for-github/
 - [Google Docs has Markdown support](https://support.google.com/docs/answer/12014036?hl=en-GB)
 - https://www.joshuarudd.com/typeset.css/
+- [Video comparing SSG with WCMS](https://youtu.be/_NZJW7IoGR4)
 
 ## Image credits
 Header image was generated with Image Creator (DALL·E 3) on 19 October 2023 at 8:53 pm using "young people coding websites in Kandinsky's style".
