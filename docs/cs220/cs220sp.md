@@ -2,7 +2,7 @@
 layout: default
 title: CS220SP
 parent: CS220
-nav_order: 2
+nav_order: 3
 permalink: /docs/cs220sp
 ---
 

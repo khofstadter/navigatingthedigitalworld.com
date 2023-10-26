@@ -210,16 +210,18 @@ Today we will
 -->
 
 ### w4 Project management (APM for research)
-<!-- 
-
+- any questions?
+- did you experiment with Markdown and your repositories?
+- how are your research questions coming along?
+  
+Last week we talked about time management (e.g. that you should set time aside for project and coming to it)
 - how do you manage you projects?
-- project-management
-- troubleshooting
+- this week will look into project-management
+- and troubleshooting
 
-### homework
+#### homework
 - explore a variety of software for audio-video production
 - progress with your assignment
--->
 
 
 ### w5 Content production (take/make)
