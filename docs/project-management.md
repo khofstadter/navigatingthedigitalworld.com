@@ -11,7 +11,9 @@ permalink: /docs/agile-project-management
 
 <!-- can I add ideas about FFR, entrainment, synchronization here ?-->
 
-The page emphasizes the importance of regular feedback and provides a comprehensive list of methods and tools that can be utilized in Agile Project Management (APM) across any field of research.
+The page 
+1. outlines the principles of Agile Project Management (APM), to emphasize the importance of regular feedback
+2. provides a list of methods and tools, that can be used in any field of research. <!-- is this true? "Any"? --> 
 
 {: .no_toc }
 
@@ -32,38 +34,42 @@ One distinguishing feature of APM is its emphasis on regular feedback, in contra
 
 ![](../assets/img/apm-vs-waterfall.svg)
 
-*Can you think of instances where you used these two methods?*
+*Can you think of examples where you have used (or are still using) these two methods in your education?*
 
 ### 1. Goals
-
-- Conduct an initial literature review and discussions to help establish:
-  - one or more **research questions** (RQs) and
-  - steps towards answering the RQs with **research objectives** (ROs)
-- It's fine if the RQs and the ROs change over time (but don't overdo it).
-- ROs are basically the main tasks of your project to help you answer the RQs.
+Conduct an initial literature review and discussions to help establish:
+  1. one or more **research questions** (RQs) and
+  2. steps towards answering the RQs with **research objectives** (ROs)
+      - ROs are basically the main tasks of your project to help you answer the RQs.
+      - It's fine if the RQs and the ROs change over time (but don't overdo it).
 
 ### 2. Design
-- Draft creative concepts (narratives, ideas) to address the project goals.
-- Define a timeline with deadlines and milestones using a [Gantt chart](https://www.gantt.com/).
-- Define a thorough task list (this will need regular updating).
+Draft 
+- creative concepts (narratives, ideas) to address the project goals.
+- a timeline with deadlines and milestones using a [Gantt chart](https://www.gantt.com/).
+- a thorough task list (this will need regular updating).
 
 ### 3. Development
-- Develop your concepts, which can involve:
-  - Gathering more data (e.g., via literature review).
-  - Producing text (e.g., books, journal articles, blog posts) through analyzing, critiquing, etc.
-  - Producing audio (e.g., interviews, sound design and music, etc.).
-  - Producing video (e.g., a vlog with screencasts, short film documentaries, art films, music videos).
+Developing drafts can involve:
+1. Gathering more data (e.g., via exploratory, then focused and finally refined literature reviews).
+2. Analyzing your data. 
+3. Producing 
+   1. text (e.g., for books, journal articles, blog posts).
+   2. audio (e.g., interviews, sound design and music, etc.).
+   3. video (e.g., a vlog with screencasts, short film documentaries, art films, music videos).
 
 ### 4. Testing
-- Test the developed concepts (e.g., via feedback or with participants).
-- Analyze the gathered data.
+Test the developed work, even if it is in progress (i.e unfinished) (e.g., via informal or formal feedback).
 
 ### 5. Deployment
-- Here we publish, i.e., distribute, disseminate, share, and advertise our work (e.g., via):
-  - Presenting and demonstrating our work (or work in progress) at academic or public events.
-  - Publishing through academic or public-facing channels (e.g., journals, magazines, or music labels, film festivals).
-  - Self-publishing.
-- It's important to contextualize our work for different channels (synchronize your work with your target audience's thinking, e.g., by using context-specific vocabulary).
+In this stage our work is 
+1. published 
+2. disseminated (i.e., shared, advertised) via 
+   - academic or public events
+   - academic or public channels (e.g., journals, magazines, or music labels, film festivals).
+     - can self-publish as well (e.g. on your own website for your own 'tribe')
+
+It's important to contextualize our work for different channels (synchronize your work with your target audience's thinking, e.g., by using context-specific vocabulary).
 
 ## Research Narrative, Methods and Tools
 The list below is organized with a chronological narrative (e.g., to help start a project). However, as APM stages iterate cycles, the methods and tools below can be used in a variety of ways: sequentially, in parallel, or driven by emerging questions and ideas. (But make sure you are aware of deadlines!)
@@ -117,7 +123,11 @@ Use search engines to locate relevant literature (adjust publication date ranges
    - Use color (in PDF or printed).
    - Create fleeting and later permanent notes (add #tags and potential links to other parts of your projects).
 4. Take notes (paraphrase as much as possible and reference the source).
-5. Draw logical narratives between your ideas using 
+5. Draw logical narratives between your ideas using
+   - a physical notebook with pens or pencils or (if you think you can use them as figures in your paper)
+   - vector-based graphic software (Inkscape, [etc](https://duckduckgo.com/?q=vector+based+graphic+software+compare&t=brave&ia=web).)
+   - flowcharts with software ([diagrams.net](https://app.diagrams.net/), [etc](https://duckduckgo.com/?q=flowchart+software+comparision&t=brave&ia=web).)
+   - the Zettlekasten method. 
 
 ### 4. Reference Management Software
 - Choose one to organize a database of your references (papers, book chapters, conference talks, artwork, performances, websites, etc.).
@@ -127,11 +137,6 @@ Use search engines to locate relevant literature (adjust publication date ranges
 - Try to add only the literature that you plan to use and avoid hoarding PDFs and links to papers. Integrate your new knowledge into your knowledge management system. 
 - Consider using a different database (library file often with the .bib extension) for different projects to maintain clarity.
 - E.g., JabRef, Zotero, EndNote and Mendeley.
-
-   - a physical notebook with pens or pencils or (if you think you can use them as figures in your paper)
-   - vector-based graphic software (Inkscape, [etc](https://duckduckgo.com/?q=vector+based+graphic+software+compare&t=brave&ia=web).)
-   - flowcharts with software ([diagrams.net](https://app.diagrams.net/), [etc](https://duckduckgo.com/?q=flowchart+software+comparision&t=brave&ia=web).)
-   - the Zettlekasten method. 
 
 ### 5. Discussions/Feedback
 Seek feedback (e.g., from peers, supervisors, [your minimum viable audience](https://seths.blog/2019/03/the-minimum-viable-audience-2/), and the authors of papers you plan to reference) via:
