@@ -5,7 +5,7 @@ nav_order: 2
 permalink: /docs/digital-identities
 ---
 
-# Digital identities
+# Digital Identities
 
 ![](../assets/img/2023-10-12-digital-identities-bing-dalle.jpg)
 

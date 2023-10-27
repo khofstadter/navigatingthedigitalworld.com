@@ -150,6 +150,7 @@ Is this module for me?
 
 Now, let's find out how we can assess our digital identities, our engagement with the Web. <!-- #todo add link to page -->
 
+
 <!-- 
 ### homework
 #### part 1 (digital identities)
@@ -175,29 +176,29 @@ Find out how much people can see of your social media activities.
 
 -->
 
-### w3 Websites, digital portfolio setup (GitHub, Markdown)
-#### intro
-- how do you take notes?
+### W3 Websites, digital portfolio setup (GitHub, Markdown)
+#### Introduction
+- How do you take notes?
 - GitHub account and repositories
 - Markdown language
 
-1. do you need clarification on the assignment?
-2. any other questions (e.g. coming to the evening class?)
-3. did you manage to finish watching/reading the info on the [Digital identities](../docs/digital-identities) page?
-4. did you manage to write up your notes? 
-5. where are your notes now? What format? 
-6. have you managed to create an online group for yourselves to discuss ideas freely?
+1. Do you need clarification on the assignment?
+2. Any other questions (e.g. coming to the evening class?)
+3. Did you manage to finish watching/reading the info on the [Digital identities](../docs/digital-identities) page?
+4. Did you manage to write up your notes? 
+5. Where are your notes now? What format? 
+6. Have you managed to create an online group for yourselves to discuss ideas freely?
 
-#### today
-Today we will
-1. talk a bit about websites
-2. password
-3. create a GitHub account with two repositories (aka repos)
-  - one private (you can use it for your notes)
-  - one public (you will have to use it for your assignment)
-- start the ‘log’ and the ‘TODO’ lists in your portfolios
-- use the GitHub Pages function in your repositories' settings to turn Markdown files into HTML (to create your website)
---> 
+#### Today
+Today we will:
+1. Talk a bit about websites
+2. Passwords
+3. Create a GitHub account with two repositories (AKA repos)
+  - One private (you can use it for your notes)
+  - One public (you will have to use it for your assignment)
+- Start the 'Log' and the 'Tasks' lists in your portfolios
+- Use the GitHub Pages function in your repositories' settings to turn Markdown files into HTML (to create your website)
+
 
 <!--
 ### homework ideas
@@ -209,19 +210,22 @@ Today we will
 
 -->
 
-### w4 Project management (APM for research)
-- any questions?
-- did you experiment with Markdown and your repositories?
-- how are your research questions coming along?
-  
-Last week we talked about time management (e.g. that you should set time aside for project and coming to it)
-- how do you manage you projects?
-- this week will look into project-management
-- and troubleshooting
 
-#### homework
-- explore a variety of software for audio-video production
-- progress with your assignment
+### W4 Project Management
+#### Introduction
+- Any questions?
+- Did you experiment with Markdown and your repositories?
+- How are your research questions coming along?
+  - I added more resources to the Existential Risks page. 
+
+#### Today
+Last week we talked about time management (e.g. that you should set time aside for this project and commit to it)
+- How do you manage your projects?
+- This week, we will look into project management.
+
+#### Homework
+- Explore the methods discussed today. 
+- Progress with your assignment.
 
 
 ### w5 Content production (take/make)
@@ -232,7 +236,7 @@ Last week we talked about time management (e.g. that you should set time aside f
 - check difference between jpg and png images with light/dark theme and then on macOS create all in png, perhaps add something in Skitch, optimize, add to repository, check localhost, push with GitHub pages and then check in a couple of minutes (this demonstrates many things.)
 -->
 
-### w6 Self- and peer-assessment (presentations, group work)
+### w6 Self- and peer-assessment (presentations, group work, troubleshooting
 <!-- 
 
 self- and peer-assessment in groups

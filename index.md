@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-## Navigating the Digital World: From Skills to Insights
+# Navigating the Digital World: From Skills to Insights
 
 This website is for those ready to navigate and flourish in our interconnected digital environment. Whether you're a committed university student or simply someone curious about the layers and intricacies of our digital world, it's here to support your journey.
 

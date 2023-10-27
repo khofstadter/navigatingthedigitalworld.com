@@ -16,18 +16,20 @@
 6. handwriting vs typing notes (find REFs)
 7. vector software potential issues: 
    - in my experience, some (or all) eps files didn't loading perfectly with InkScape (Illustrator was fine)
-8. 4 Hours Of Focused Work A Day Will Change Your Life: https://www.youtube.com/watch?v=CvsnW06-yNY
-9. add https://scispace.com/ to search/review
-10. pixel to vector AI: https://vectorizer.ai/
-11. If you don't use a software for a while, you will forget how things work, where things are. So, if you think you will use these software in years, try to work with them weekly (Reaper, Inkscape, Gimp, Jekyll, Serato, VSCodium, SuperCollider)
-12. https://www.refinery29.com/en-gb/how-to-send-follow-up-emails?utm_source=pocket-newtab-en-gb
 13. maybe review first: https://lifehacker.com/best-productivity-methods-1850862925?utm_source=pocket-newtab-en-gb
+14. explore 4 Hours Of Focused Work A Day Will Change Your Life: https://www.youtube.com/watch?v=CvsnW06-yNY
 ### by week 5 (content production)
 1. update my academic profile
 2. find existential risk related events on campus
 3. put all pages into prose
 4. ask all relevant software to be updated
 5. clarify that referencing style is Markdown footnotes
+6.  add https://scispace.com/ to search/review
+7.  pixel to vector AI: https://vectorizer.ai/
+8.  If you don't use a software for a while, you will forget how things work, where things are. So, if you think you will use these software in years, try to work with them weekly (Reaper, Inkscape, Gimp, Jekyll, Serato, VSCodium, SuperCollider)
+9.  https://www.refinery29.com/en-gb/how-to-send-follow-up-emails?utm_source=pocket-newtab-en-gb
+10. emphasize that this website is also in progress in order to demonstrate progress (e.g. the change of images, lists made into prose, etc.)
+11. decide on a specific style for all images and regenerate (to demonstrate consistency)
 ### by week 6 (self and peer review)
 -  integrate idea on having one top figure outlining the narrative of an entire article <!-- need to find the neuroscientific journal that asked for this -->
 ### by week 8 (reading week)

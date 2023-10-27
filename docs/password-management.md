@@ -5,9 +5,9 @@ nav_order: 3
 permalink: /docs/password-management
 ---
 
-# Password management
+# Password Management
 
-![Students creating passwords in the future.](../assets/img/2023-11-19-students-trying to-students-password-bing-dalle.jpg)
+![Students creating passwords in the future.](../assets/img/2023-10-19-students-trying to-students-password-bing-dalle.jpg)
 
 {: .no_toc }
 
@@ -91,8 +91,6 @@ Evaluate your strategy using online tools like [howsecureismypassword.net](https
 
 ## Considerations
 Consider simplifying your digital presence by minimizing the number of accounts where possible.
-
-
 
 ## Image credits
 Header image was generated with Image Creator (DALL·E 3) on 19 October 2023 at 20:33 pm using "students trying to create strong passwords in a futuristic library".

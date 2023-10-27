@@ -7,7 +7,7 @@ permalink: /docs/your-website
 
 # Your Website
 
-![Woman and man designing on a computer](../assets/img/2023-11-19-making-websites.jpg)
+![Woman and man designing on a computer](../assets/img/2023-10-19-making-websites.jpg)
 
 {: .no_toc }
 
