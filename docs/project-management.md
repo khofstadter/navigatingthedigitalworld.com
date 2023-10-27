@@ -11,7 +11,7 @@ permalink: /docs/agile-project-management
 
 <!-- can I add ideas about FFR, entrainment, synchronization here ?-->
 
-A core idea of this page is to emphasize the importance of regular feedback. To support this, the page first outlines how the stages of Agile Project Management (APM) can be applied in any field of research (professional or personal) and then provides a comprehensive list of methods and tools that can be utilized during these stages.
+The page emphasizes the importance of regular feedback and provides a comprehensive list of methods and tools that can be utilized in Agile Project Management (APM) across any field of research.
 
 {: .no_toc }
 
@@ -23,7 +23,7 @@ A core idea of this page is to emphasize the importance of regular feedback. To 
 
 ---
 
-##  Five APM stages for research
+##  Five stages of APM
 <!-- find literature in education on this (feedback, feedforward) -->
 
 One distinguishing feature of APM is its emphasis on regular feedback, in contrast to traditional methods such as the waterfall model.
@@ -68,11 +68,11 @@ One distinguishing feature of APM is its emphasis on regular feedback, in contra
 ## Research Narrative, Methods and Tools
 The list below is organized with a chronological narrative (e.g., to help start a project). However, as APM stages iterate cycles, the methods and tools below can be used in a variety of ways: sequentially, in parallel, or driven by emerging questions and ideas. (But make sure you are aware of deadlines!)
 
-### 1. Establish keywords
-- First, create a separate file for a list of keywords (#tags) and organize them alphabetically. This is often called the index.
-- The keyword list evolves, usually growing, but sometimes you may merge keywords or drop some for more specific ones.
+### 1. Keywords
+- First, create a designated file for a list of keywords and organize them alphabetically. This list is often called the index. You can later use these keywords as tags (#tags) in your notes.
+- The keyword list evolves, usually growing, but sometimes you will rename, merge or even remove some.
 - It's a good idea to borrow keywords from the academic disciplines you are exploring. However, you can also make up new words if you find them useful.
-- Be aware that terminologies (e.g., keywords) are not always used consistently across the literature. This is more important to keep in mind when conducting [multi- or interdisciplinary research](https://www.arj.no/2012/03/12/disciplinarities-2/). Also, keep track of inconsistencies using '[AKA](https://dictionary.cambridge.org/dictionary/english/aka)' in your notes.
+- Be aware that terminologies (i.e., keywords) are not always used consistently across the literature. This is very important to keep in mind when conducting [multi- or interdisciplinary research](https://www.arj.no/2012/03/12/disciplinarities-2/). A good idea is to keep track of these inconsistencies for instance by using '[AKA](https://dictionary.cambridge.org/dictionary/english/aka)' in your notes.
 
 ### 2. Search Engines
 Use search engines to locate relevant literature (adjust publication date ranges and resource types according to your goals).
@@ -82,7 +82,8 @@ Use search engines to locate relevant literature (adjust publication date ranges
 3. [Academia](https://www.academia.edu/) and [ResearchGate](https://www.researchgate.net/)
 4. YouTube, Google, Wikipedia, etc.
 5. Audio-only podcasts
-6. https://app.litmaps.co/
+6. [Litmaps](https://app.litmaps.co/) can join the dots between scientific papers.
+7. [Scispace](https://typeset.io) can summarizes scientific papers.
 
 - Some platforms allow you to bookmark items or create playlists (if you have an account).
 - Some platforms only allow reading online or only with specific software after downloading (e.g., Adobe Digital Edition).
@@ -93,16 +94,8 @@ Use search engines to locate relevant literature (adjust publication date ranges
   - YouTube videos can often provide succinct and entertaining information (aka [edutainment](https://duckduckgo.com/?q=edutainment&t=brave&ia=web) or [infotainment](https://duckduckgo.com/?q=infotainment&t=brave&ia=web)) on a topic.
 - Audio-only content allows you to rest your eyes. To take notes, you could pause your podcast player and instead of writing (on an app or in a physical notebook), you could use an audio recorder app to paraphrase what you've heard.
 
-### 3. Reference Management Software
-- Choose one to organize a database of your references (papers, book chapters, conference talks, artwork, performances, websites, etc.).
-- These software programs can generate reference lists in different referencing styles.
-- Consider factors like paid vs free, operating system support, reviews, library support, etc.
-- You can often import and export databases between systems, so you don't have to stick to one forever.
-- Try to add only the literature that you plan to use and avoid hoarding PDFs and links to papers. Integrate your new knowledge into your knowledge management system. 
-- Consider using a different database (library file often with the .bib extension) for different projects to maintain clarity.
-- E.g., JabRef, Zotero, EndNote and Mendeley.
 
-### 4. Skimming, Scanning, and Note-taking
+### 3. Skimming, Scanning, and Note-taking
 [Skim or scan](https://duckduckgo.com/?q=skimming+vs+scanning&t=brave&ia=web) the literature for ideas, notes, and references.
 
 1. Look for relevance in the following parts of the publication in this order:
@@ -125,6 +118,16 @@ Use search engines to locate relevant literature (adjust publication date ranges
    - Create fleeting and later permanent notes (add #tags and potential links to other parts of your projects).
 4. Take notes (paraphrase as much as possible and reference the source).
 5. Draw logical narratives between your ideas using 
+
+### 4. Reference Management Software
+- Choose one to organize a database of your references (papers, book chapters, conference talks, artwork, performances, websites, etc.).
+- These software programs can generate reference lists in different referencing styles.
+- Consider factors like paid vs free, operating system support, reviews, library support, etc.
+- You can often import and export databases between systems, so you don't have to stick to one forever.
+- Try to add only the literature that you plan to use and avoid hoarding PDFs and links to papers. Integrate your new knowledge into your knowledge management system. 
+- Consider using a different database (library file often with the .bib extension) for different projects to maintain clarity.
+- E.g., JabRef, Zotero, EndNote and Mendeley.
+
    - a physical notebook with pens or pencils or (if you think you can use them as figures in your paper)
    - vector-based graphic software (Inkscape, [etc](https://duckduckgo.com/?q=vector+based+graphic+software+compare&t=brave&ia=web).)
    - flowcharts with software ([diagrams.net](https://app.diagrams.net/), [etc](https://duckduckgo.com/?q=flowchart+software+comparision&t=brave&ia=web).)
@@ -207,7 +210,6 @@ You could further develop this combo with [JabRef](https://www.jabref.org/) (for
 - [Obsidian](https://obsidian.md/) another Zettlekasten software.
 - [Evernote](https://evernote.com/)
 - [Notion](https://www.notion.so/)
-
 
 <!--
 ### Emails
