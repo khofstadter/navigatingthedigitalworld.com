@@ -1,18 +1,20 @@
 # Navigating the Digital World
 ## Tasks
 ### by week 6 (presentations, self and peer review)
+
 ### by week 8 (reading week)
-- put all pages into prose
--  emphasize that this website is also in progress in order to demonstrate progress (e.g. the change of images, lists made into prose, etc.)
+- emphasize that this website is also in progress in order to demonstrate progress (e.g. the change of images, lists made into prose, etc.)
 - decide on a specific style for all images and regenerate (to demonstrate consistency)
 - clarify that referencing style is Markdown footnotes
-### by week 9 (not sure)
-1. write up digital identity page in prose for kriskhofstadter.com and/or Medium or something #publish
-2. is there a 5.1 studio in Essex?
-3. practice review: demonstrate how you would do it live
-4. essay writing tips: first write it up for a 5 year old, then make it sound more academic? Consider you essay as something in which you want to teach us something about what you have discovered. 
-5. spectrum of surveillance exampled with movies (e.g. Cloud Atlas, Matrix, Brazil, 1984)
-6. https://seths.blog/2023/08/the-status-quo-is-very-good/
+
+### by week 9
+- do we go and visit Studio X and the Rebel Studio 
+- put all pages into prose
+- write up some pages (or a summary of all) and publish somewhere
+1. essay writing tips: first write it up for a 5 year old, then make it sound more academic? Consider you essay as something in which you want to teach us something about what you have discovered. 
+- https://seths.blog/2023/08/the-status-quo-is-very-good/
+- could I add a visual outline of the narrative (TOC) to the top of all pages (to help understand the structure?)
+  - could I make one figure that visualizes the whole module (website)?
 
 ## SP
 ### by week 16
@@ -27,8 +29,12 @@
 
 
 ### later/whenever 
+- is there a 5.1 studio in Essex?
+- demonstrate some methods (e.g. skitch, Jekyll, AI generator, ChatGPT, Quillbot)
+- spectrum of surveillance exampled with movies (e.g. Cloud Atlas, Matrix, Brazil, 1984)
 Integrate:  
 - one top figure outlining the narrative of an entire article (example in neuroscientific journal)
+- "we must be thought how to think, not what to think"
 - critical thinking, neuroscience of confirmation bias, sensemaking
    - https://www.linkedin.com/advice/1/what-some-common-challenges-barriers-teaching-critical?trackingId=Whp4zbzgdBB6aKUYqkDS3g%3D%3D&updateUrn=urn%3Ali%3Aactivity%3A7065042585005764608&trk=fs
    - https://www.polleverywhere.com/case-studies/encouraging-critical-thinking-in-class

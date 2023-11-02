@@ -2,7 +2,7 @@
 layout: default
 title: Existential Risks
 parent: CS220
-nav_order: 2
+nav_order: 3
 permalink: /docs/existential-risks
 ---
 
@@ -70,6 +70,10 @@ Schmachtenberger, Daniel (2023) **An introduction to the Metacrisis** at Stockho
 - Cowspiracy (2014) The film is often critiqued for simplifying complex environmental and agricultural issues, lacking nuance and a more comprehensive exploration of the multifaceted impacts of animal agriculture on ecological sustainability.
 - Seaspiracy (2021) The film is critiqued for its sensationalism and for not always maintaining rigorous scientific standards or a balanced perspective in its exploration of the impacts of fishing on marine ecosystems.
 - Breaking Boundaries (2021) The documentary film chronicles the tale of humanity's relentless endeavor to surpass the limits that have maintained the Earth's stability over the past ten millennia. It follows the scientific odyssey of David Attenborough and scientist Johan Rockström as they unravel the secrets of the nine planetary boundaries.
+- More [here](https://mashable.com/article/best-climate-change-documentaries).
+
+## More
+[The Future of Life Institute](https://futureoflife.org/about-us/)
 
 ## Image credits
 Header image was generated with Image Creator (DALL·E 3) on 12 October 2023 at 10:29 pm using "make an image collage with existential risks e.g. climate change, AI, biowarfare".

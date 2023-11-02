@@ -125,7 +125,7 @@ This outline is subject to change based on our progress.
 
 From week 3 onwards, each session will start with shortly discussing your progress. 
 
-### w2 Intro + digital identities (VR map)
+### Week 2 Intro + digital identities (VR map)
 - you are free to leave the room anytime (toilet, fresh air)
 - we can have a 10 min break in the middle
 - we must leave the room 10 min before the next class starts
@@ -176,7 +176,7 @@ Find out how much people can see of your social media activities.
 
 -->
 
-### W3 Websites, digital portfolio setup (GitHub, Markdown)
+### Week 3 Websites, digital portfolio setup (GitHub, Markdown)
 #### Introduction
 - How do you take notes?
 - GitHub account and repositories
@@ -211,7 +211,7 @@ Today we will:
 -->
 
 
-### W4 Project Management
+### Week 4 Project Management
 #### Introduction
 - Any questions?
 - Did you experiment with Markdown and your repositories?
@@ -233,18 +233,17 @@ Last week we talked about time management (e.g. that you should set time aside f
 - Did you experiment with Markdown and your repositories?
 - How are your research questions coming along?
 
-### Today
-#### Content Production
+#### Today
+Content Production
 1. take/make
 2. focus on text, audio or audio-video
 3. tools 
-#### Podcast types
-Examples of podcast types
+4. podcast types
 
 #### Homework
-- Prepare presentations for next week on your progress (+5%)
+- Prepare presentations for next week on your progress (+5%).
 
-### w6 Self- and peer-assessment (presentations, group work, troubleshooting)
+### Week 6 Self- and peer-assessment (presentations, group work, troubleshooting)
 <!-- 
 
 self- and peer-assessment in groups
@@ -254,7 +253,7 @@ self- and peer-assessment in groups
 - _did you set up your private group to discuss module related questions?
 -->
 
-### w7 Guest talks (sustainability, Studio X, Essex REBEL, blogging TBC)
+### Week 7 Guest talks (sustainability, Studio X, Essex REBEL, blogging TBC)
 <!-- 
 
 - optional presentations on progress for +5% mark
@@ -312,10 +311,10 @@ Check: https://www.essex.ac.uk/student/careers
 
 -->
 
-### w8 Reading week
+### Week 8 Reading week
 - no classes
 
-### w9-10-11 Workshops
+### Week 9-10-11 Workshops
 
 <!--
 - reviewing student's progress
