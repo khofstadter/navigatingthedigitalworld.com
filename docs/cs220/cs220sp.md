@@ -3,7 +3,7 @@ layout: default
 title: CS220SP
 parent: CS220
 nav_order: 3
-permalink: /docs/cs220sp
+permalink: /docs/cs220/cs220sp
 ---
 
 # CS220SP

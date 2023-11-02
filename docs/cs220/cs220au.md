@@ -3,7 +3,7 @@ layout: default
 title: CS220AU
 parent: CS220
 nav_order: 1
-permalink: /docs/cs220au
+permalink: /docs/cs220/cs220au
 ---
 
 # CS220AU
@@ -227,16 +227,24 @@ Last week we talked about time management (e.g. that you should set time aside f
 - Explore the methods discussed today. 
 - Progress with your assignment.
 
-
 ### w5 Content production (take/make)
-<!-- 
+#### Introduction
+- Any questions?
+- Did you experiment with Markdown and your repositories?
+- How are your research questions coming along?
 
-- compare [Markdown and HTML](https://codingnconcepts.com/markdown/markdown-vs-html/)
-- set up your LinkedIn and ResearchGate account
-- check difference between jpg and png images with light/dark theme and then on macOS create all in png, perhaps add something in Skitch, optimize, add to repository, check localhost, push with GitHub pages and then check in a couple of minutes (this demonstrates many things.)
--->
+### Today
+#### Content Production
+1. take/make
+2. focus on text, audio or audio-video
+3. tools 
+#### Podcast types
+Examples of podcast types
 
-### w6 Self- and peer-assessment (presentations, group work, troubleshooting
+#### Homework
+- Prepare presentations for next week on your progress (+5%)
+
+### w6 Self- and peer-assessment (presentations, group work, troubleshooting)
 <!-- 
 
 self- and peer-assessment in groups

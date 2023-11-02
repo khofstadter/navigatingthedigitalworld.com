@@ -2,7 +2,7 @@
 layout: default
 title: Project Management
 nav_order: 5
-permalink: /docs/agile-project-management
+permalink: /docs/project-management
 ---
 
 # Project Management
@@ -12,8 +12,8 @@ permalink: /docs/agile-project-management
 <!-- can I add ideas about FFR, entrainment, synchronization here ?-->
 
 The page 
-1. outlines the principles of Agile Project Management (APM), to emphasize the importance of regular feedback
-2. provides a list of methods and tools, that can be used in any field of research. <!-- is this true? "Any"? --> 
+1. provides a list of methods and tools, that can be used in any field of research. <!-- is this true? "Any"? --> 
+2. outlines the principles of Agile Project Management to emphasize the importance of regular feedback. 
 
 {: .no_toc }
 
@@ -25,54 +25,12 @@ The page
 
 ---
 
-##  Five stages of APM
-<!-- find literature in education on this (feedback, feedforward) -->
-
-One distinguishing feature of APM is its emphasis on regular feedback, in contrast to traditional methods such as the waterfall model.
-
-> While traditional waterfall project management focuses on achieving a single big outcome at the end of the project, APM produces cumulative outcomes by iterating through development stages.
-
-![](../assets/img/apm-vs-waterfall.svg)
-
-*Can you think of examples where you have used (or are still using) these two methods in your education?*
-
-### 1. Goals
-Conduct an initial literature review and discussions to help establish:
-  1. one or more **research questions** (RQs) and
-  2. steps towards answering the RQs with **research objectives** (ROs)
-      - ROs are basically the main tasks of your project to help you answer the RQs.
-      - It's fine if the RQs and the ROs change over time (but don't overdo it).
-
-### 2. Design
-Draft 
-- creative concepts (narratives, ideas) to address the project goals.
-- a timeline with deadlines and milestones using a [Gantt chart](https://www.gantt.com/).
-- a thorough task list (this will need regular updating).
-
-### 3. Development
-Developing drafts can involve:
-1. Gathering more data (e.g., via exploratory, then focused and finally refined literature reviews).
-2. Analyzing your data. 
-3. Producing 
-   1. text (e.g., for books, journal articles, blog posts).
-   2. audio (e.g., interviews, sound design and music, etc.).
-   3. video (e.g., a vlog with screencasts, short film documentaries, art films, music videos).
-
-### 4. Testing
-Test the developed work, even if it is in progress (i.e unfinished) (e.g., via informal or formal feedback).
-
-### 5. Deployment
-In this stage our work is 
-1. published 
-2. disseminated (i.e., shared, advertised) via 
-   - academic or public events
-   - academic or public channels (e.g., journals, magazines, or music labels, film festivals).
-     - can self-publish as well (e.g. on your own website for your own 'tribe')
-
-It's important to contextualize our work for different channels (synchronize your work with your target audience's thinking, e.g., by using context-specific vocabulary).
-
 ## Research Narrative, Methods and Tools
-The list below is organized with a chronological narrative (e.g., to help start a project). However, as APM stages iterate cycles, the methods and tools below can be used in a variety of ways: sequentially, in parallel, or driven by emerging questions and ideas. (But make sure you are aware of deadlines!)
+The list below presents methods and tools in a chronological order to provide a narrative structure for starting a project. However, it's important to note that researchers are not confined to this particular sequence. They have the flexibility to use these methods and tasks simultaneously, in parallel, or in a random order based on emerging questions and ideas. It is crucial, though, to remain mindful of deadlines when adopting an agile approach.
+
+Remember, the ultimate aim is to utilize these methods and tools in a way that maximizes the understanding and insights gained from the research. So, while a chronological narrative can provide a helpful starting point, it should not be viewed as a rigid framework. Instead, it should serve as a guide to support researchers in their journey towards answering key research questions. 
+
+
 
 ### 1. Keywords
 - First, create a designated file for a list of keywords and organize them alphabetically. This list is often called the index. You can later use these keywords as tags (#tags) in your notes.
@@ -129,6 +87,25 @@ Use search engines to locate relevant literature (adjust publication date ranges
    - flowcharts with software ([diagrams.net](https://app.diagrams.net/), [etc](https://duckduckgo.com/?q=flowchart+software+comparision&t=brave&ia=web).)
    - the Zettlekasten method. 
 
+---
+
+#### Four stages of interdisciplinary literature review
+When undertaking a research project, employing a four-stage literature review method can significantly enhance your understanding and development of a subject.
+
+1. Initial Stage: You begin by laying a strong foundation, reviewing the existing literature and consulting with experts. This early stage is crucial for you to identify the gaps in knowledge and pinpoint opportunities where your research can contribute meaningfully.
+
+2. Exploratory Stage: At this stage, you expand your horizons, exploring related fields that could inform your research. Here, you start to apply what you've learned to develop early concepts or prototypes, integrating cross-disciplinary insights to refine your approach.
+
+3. Focused Stage: This is where you zoom in on addressing specific challenges that emerged from your exploratory work. You will concentrate on enhancing your conceptual or technological tools, rigorously testing them to ensure they meet the core objectives of your research.
+
+4. Refined Stage: In the final stage, you'll position your research within the wider academic and practical frameworks. This is the time for you to sharpen your research questions and objectives, crystallizing the unique contribution that your work will make to the field.
+
+By following this narrative, you ensure that your research is built on a solid bedrock of knowledge, iteratively refined through exploration and focused development, culminating in a well-defined and impactful contribution to your area of study.
+
+<!-- perhaps add a reference to own PhD chapter on this -->
+
+---
+
 ### 4. Reference Management Software
 - Choose one to organize a database of your references (papers, book chapters, conference talks, artwork, performances, websites, etc.).
 - These software programs can generate reference lists in different referencing styles.
@@ -144,6 +121,7 @@ Seek feedback (e.g., from peers, supervisors, [your minimum viable audience](htt
   - forum/group discussions
   - interviews (audio, video, text)
   - surveys (e.g., via Google Forms, SurveyMonkey, [etc](https://crm.org/news/best-online-survey-tools))
+  - files via shared workspaces (e.g. Google, Microsoft, Dropbox, GitHub)
 
 ### 6. Production
 Consider:
@@ -156,7 +134,7 @@ Consider:
 - Based on your outcomes and the explored disciplines, consider relevant:
   - Academic journals, conferences, symposiums.
   - Non-academic journals and websites (printed or online) and public events.
-- Join or create groups to help you find your audience.
+- Join or create groups to help you find your audience (e.g. via [JiscMail](https://www.jiscmail.ac.uk))
 - Create mailing lists (e.g., via MailChimp).
 - Contextualize for different audiences. (Explore [Justin's ideas ](https://www.justinwelsh.me/) freely available on his blog and interviews on YouTube.)
 - [Compress PDFs](https://duckduckgo.com/?q=compress+PDF&ia=web) if needed.
@@ -187,6 +165,54 @@ Consider:
 - add freelancing, clients, invoicing, tax-return
 
 -->
+
+
+##  Agile Project Management
+<!-- find literature in education on this (feedback, feedforward) -->
+
+One distinguishing feature of Agile Project Management (APM) is its emphasis on regular feedback, in contrast to traditional methods such as the waterfall model.
+
+> While traditional waterfall project management focuses on achieving a single big outcome at the end of the project, APM produces cumulative outcomes by iterating through development stages.
+
+![](../assets/img/apm-vs-waterfall.svg)
+
+*Can you think of examples where you have used (or are still using) these two methods in your education?*
+
+### 1. Goals
+Conduct an initial literature review and discussions to help establish:
+  1. one or more **research questions** (RQs) and
+  2. steps towards answering the RQs with **research objectives** (ROs)
+      - ROs are basically the main tasks of your project to help you answer the RQs.
+      - It's fine if the RQs and the ROs change over time (but don't overdo it).
+
+### 2. Design
+Draft 
+- creative concepts (narratives, ideas) to address the project goals.
+- a timeline with deadlines and milestones using a [Gantt chart](https://www.gantt.com/).
+- a thorough task list (this will need regular updating).
+
+### 3. Development
+Developing drafts can involve:
+1. Gathering more data (e.g., via exploratory, then focused and finally refined literature reviews).
+2. Analyzing your data. 
+3. Producing 
+   1. text (e.g., for books, journal articles, blog posts).
+   2. audio (e.g., interviews, sound design and music, etc.).
+   3. video (e.g., a vlog with screencasts, short film documentaries, art films, music videos).
+
+### 4. Testing
+Test the developed work, even if it is in progress (i.e unfinished) (e.g., via informal or formal feedback).
+
+### 5. Deployment
+In this stage our work is 
+1. published 
+2. disseminated (i.e., shared, advertised) via 
+   - academic or public events
+   - academic or public channels (e.g., journals, magazines, or music labels, film festivals).
+     - can self-publish as well (e.g. on your own website for your own 'tribe')
+   - through your own online profiles (e.g. LinkedIn, ResearchGate, Twitter, in the footer of your email, to your own mailinglist, other mailinglists)
+
+It's important to contextualize our work for different channels (synchronize your work with your target audience's thinking, e.g., by using context-specific vocabulary).
 
 
 ## Further Ideas
@@ -221,6 +247,7 @@ You could further develop this combo with [JabRef](https://www.jabref.org/) (for
 - There are different email clients and different email formats (e.g., HTML vs text).
 - Attach file or link file (same for forums) to email (e.g., link with WeTransfer/Dropbox/Google Drive or images with [imgur.com](https://imgur.com/)) to reduce the size of your email.
 - Learn about spam filters, how to [not get caught](https://www.mail-tester.com/) in them, and common practices (e.g., ask people to whitelist your email address, etc.).
+- https://www.refinery29.com/en-gb/how-to-send-follow-up-emails?utm_source=pocket-newtab-en-gb
 -->
 
 ### Miscellaneous
@@ -229,6 +256,12 @@ Bavelier, D (2012) **Your brain on video games**. TED talk. A neuroscientist tal
 Waitzman (2022) **Best Blinkist alternatives in 2022**. Although the Blinkist app is easy to use and provides you with access to plenty of features,there are alternatives for seeking book-summaries. Article available on [Speechify](https://speechify.com/blog/alternatives-to-blinkist/). 
 
 Andy Stapleton with insider secrets of academia. Available on [YouTube](https://www.youtube.com/@DrAndyStapleton/about).
+
+Life Hacker (2023) **Productivity Method List**. Available on [lifehacker.com](https://lifehacker.com/best-productivity-methods-1850862925)
+
+Dan Koe (2023) **4 Hours Of Focused Work A Day Will Change Your Life** Available on [YouTube](https://www.youtube.com/watch?v=CvsnW06-yNY). 
+
+
 
 ## Image credits
 Header image was generated with Image Creator (DALL·E 3) on 27 October 2023 at 10:02 pm using "Agile project management methodology with feedback loops. People drawing narratives and have the feedback loop behind them, not above them. They is also a lot of discussion between them. Kandinsky style."

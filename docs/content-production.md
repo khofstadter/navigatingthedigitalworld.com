@@ -18,6 +18,7 @@ permalink: /docs/content-production
 ---
 
 <!--
+- add the issue with not knowing the balance between taking and making when using AI 
 - add outline for the page (TOC)
 - could fine tune podcast part with EAD (but might take too much time)
 - add more feature images for sections towards the end
@@ -33,22 +34,23 @@ permalink: /docs/content-production
 - "we must be thought how to think, not what to think"
 -->
 
+<!-- how does content production link to project management -->
 
-## 1. APM
-As a content producer, you could be in charge of all stages of the [APM](project-management.md):
 
-1. defining the goals
-2. designing a suitable workflow 
-3. developing the content (e.g. by creating a podcast, designing a logo, writing text, finding or taking photographs)
-4. asking for feedback from peers/professionals on drafts 
-5. contextualising, publishing and disseminating the finished content
+As a content producer, you are often in charge of several stages of your [project management](project-management): 
+
+1. defining/refining the goals
+2. drafting narratives, ideas and a suitable workflow 
+3. developing the content (e.g. by doing more literature review, analyzing data and then finally synthesizing your findings into one or multiple forms (e.g. focused on text, audio, or audio-visual content)
+4. asking for feedback from peers/professionals
+5. contextualizing, publishing and disseminating the final outcome
 
 <br><br>
 ![](../assets/img/apm.svg)
 
 <br><br>
 
-## 2. content types
+## 1. content types
 Your website can focus on the use of one of these materials (modalities):
 
 - still images (e.g. photography on [oliverpattison.com](https://oliverpattison.com/), [11route.com](https://11route.com/))
@@ -66,7 +68,7 @@ Your content could also use these in different proportions (e.g. [1](https://www
 
 <br><br>
 
-## 3. materials
+## 2. materials
 
 ![source-materials](../assets/img/oxana-melis-EvtlbRUm66A-unsplash.jpg) photo by <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oxana Melis</a> on <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
@@ -115,7 +117,7 @@ else {
 
 <br><br><br>
 
-![take-buy-make](assets/img/take-buy-make.png) photos by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> and <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/s/photos/buying?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a><br>
+![take-buy-make](../assets/img/take-buy-make.png) photos by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> and <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/s/photos/buying?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a><br>
 
 ## 3. materials to 'take or make'
 Where to get these source materials from?
@@ -162,7 +164,6 @@ To make your own material you can
 <br>
 
 ## 4. materials and content in more detail
-
 ### 1. still images
 
 - computer graphics (vectors or pixels)
@@ -207,6 +208,8 @@ To make your own material you can
 - you can do serious work with [Inkscape](https://inkscape.org/) (a free [Illustrator](https://www.adobe.com/uk/products/illustrator.html) alternative)
 - search for 'Illustrator alternatives'
 
+Pixel to vector AI: https://vectorizer.ai/
+
 #### further resources
 - [logosbynick.com](https://logosbynick.com/graphic-design-computer-requirements-2021/)
 - [ImageOptim](https://imageoptim.com/mac)
@@ -214,11 +217,8 @@ To make your own material you can
 - [Gimp vs Inkscape](https://thegimptutorials.com/gimp-vs-inkscape/) (pixels vs vectors)
 - [AI Image Description](https://www.astica.org/vision/describe/) - could be used for Alt Text
 
-<br>
 
 *How could your website benefit from still images?*
-
-<br><br>
 
 ### 2. audio
 materials:
@@ -232,7 +232,6 @@ content:
 - podcasts
 - music
 
-<br>
 
 #### types of podcasts
 1. interview or presentation recordings
@@ -356,6 +355,7 @@ to make screenrecordings/screencasts:
 
 
 #### thoughts
+- use it or loose it: If you don't use a software for a while, you will forget how things work, where things are. So, if you think you will use these software in years, try to work with them regularly. <!-- link this to old people's brains, my pain in my feet -->
 - record in high definition if you have space 
 - before you start working with a software, read many articles comparing alternatives
 - as with photography, consider light and composition first
@@ -384,6 +384,7 @@ to make screenrecordings/screencasts:
 
 #### my flow
 - what do I do currently when writing?
+- handwriting vs typing notes?
 
 #### resources
 - [Lorem Ipsum](https://www.lipsum.com/), a random text generator
