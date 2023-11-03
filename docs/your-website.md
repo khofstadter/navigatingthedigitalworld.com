@@ -245,6 +245,7 @@ You can edit your files in both, your GitHub account via a browser or in VSC on 
 - https://www.joshuarudd.com/typeset.css/
 - [Video comparing SSG with WCMS](https://youtu.be/_NZJW7IoGR4)
 - Compare [Markdown and HTML](https://codingnconcepts.com/markdown/markdown-vs-html/).
+- Curated [list of Jekyll websites](https://github.com/snmslavk/awesome-jekyll-websites).
 
 ## Image credits
 Header image was generated with Image Creator (DALL·E 3) on 19 October 2023 at 8:53 pm using "young people coding websites in Kandinsky's style".

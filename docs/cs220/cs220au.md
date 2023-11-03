@@ -236,9 +236,7 @@ Last week we talked about time management (e.g. that you should set time aside f
 #### Today
 Content Production
 1. take/make
-2. focus on text, audio or audio-video
-3. tools 
-4. podcast types
+2. types of materials
 
 #### Homework
 - Prepare presentations for next week on your progress (+5%).
