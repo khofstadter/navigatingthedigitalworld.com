@@ -20,7 +20,7 @@ permalink: /docs/cs220/cs220au
 
 ## CS220AU timetable
 Group 1: Fri 12–2pm in IT Lab I 3.402   
-Group 2: Fri 4-6pm in IT Lab J 4SB.4.14
+Group 2: Fri 4-6pm in IT Lab R TC.11
 
 We have two-hour sessions in [weeks 2–7, 9–11](https://www1.essex.ac.uk/timetables/). 
 
