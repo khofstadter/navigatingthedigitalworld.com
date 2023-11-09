@@ -3,6 +3,8 @@ layout: default
 title: Your Website
 nav_order: 4
 permalink: /docs/your-website
+description: Explore the essentials of creating your website with our comprehensive guide. Learn about different types of websites, website builders, and how to establish a custom domain. Whether for personal, business, or educational purposes, our resources help you take full control of your content, design, and functionality.
+keywords: website creation, website builders, custom domains, personal websites, business websites, e-commerce websites, educational websites, static site generators, web content management systems, WordPress, website design, web hosting, programming, digital presence.
 ---
 
 # Your Website

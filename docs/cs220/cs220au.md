@@ -125,7 +125,7 @@ This outline is subject to change based on our progress.
 
 From week 3 onwards, each session will start with shortly discussing your progress. 
 
-### Week 2 Intro + digital identities (VR map)
+### w2 Intro + digital identities (VR map)
 - you are free to leave the room anytime (toilet, fresh air)
 - we can have a 10 min break in the middle
 - we must leave the room 10 min before the next class starts
@@ -176,7 +176,7 @@ Find out how much people can see of your social media activities.
 
 -->
 
-### Week 3 Websites, digital portfolio setup (GitHub, Markdown)
+### w3 Websites, digital portfolio setup (GitHub, Markdown)
 #### Introduction
 - How do you take notes?
 - GitHub account and repositories
@@ -211,7 +211,7 @@ Today we will:
 -->
 
 
-### Week 4 Project Management
+### w4 Project Management
 #### Introduction
 - Any questions?
 - Did you experiment with Markdown and your repositories?
@@ -242,77 +242,47 @@ Content Production
 - Prepare presentations for next week on your progress (+5%).
 
 ### Week 6 Self- and peer-assessment (presentations, group work, troubleshooting)
-<!-- 
+#### Introduction
+- Who has prepared a presentation?
+- Any questions?
 
-self- and peer-assessment in groups
+#### Group work
+You will use the [CS220AU marking rubric](https://github.com/khofstadter/CS220AU-DP/blob/main/assessement.md) to analyze submissions from last year. Each group will analyze a few submissions and match them with the final feedback, which will be provided as printed handouts.
 
-- _do you have a partner for peer-assessment?_
-- _do you have any questions regarding your assignment?_
-- _did you set up your private group to discuss module related questions?
+- [https://github.com/2200092/CS220AU-DP-2022](https://github.com/2200092/CS220AU-DP-2022)
+- [https://github.com/2200272/CS220AU-DP-2022](https://github.com/2200272/CS220AU-DP-2022)
+- [https://github.com/2204367/CS220AU-DP-2022](https://github.com/2204367/CS220AU-DP-2022)
+- [https://github.com/2206217/CS220AU-DP-2022](https://github.com/2206217/CS220AU-DP-2022)
+- [https://github.com/2206080/CS220AU-DP-2022](https://github.com/2206080/CS220AU-DP-2022)
+- [https://github.com/2200176/CS220AU-DP-2022](https://github.com/2200176/CS220AU-DP-2022)
+- [https://github.com/2200082/CS220AU-DP-2022](https://github.com/2200082/CS220AU-DP-2022)
+- [https://github.com/2200117/CS220AU-DP-2022](https://github.com/2200117/CS220AU-DP-2022)
+
+
+
+<!-- order
+1. https://github.com/2206217/CS220AU-DP-2022
+2. https://github.com/2200117/CS220AU-DP-2022 
+3. https://github.com/2200176/CS220AU-DP-2022
+4. https://github.com/2204367/CS220AU-DP-2022
+5. https://github.com/2200272/CS220AU-DP-2022
+6. https://github.com/2200082/CS220AU-DP-2022
+7. https://github.com/2206080/CS220AU-DP-2022
+8. https://github.com/2200092/CS220AU-DP-2022
 -->
 
-### Week 7 Guest talks (sustainability, Studio X, Essex REBEL, blogging TBC)
-<!-- 
+#### Troubleshooting
+Let's check what [troubleshooting](../troubleshooting) means and how it can be done effectively.
 
-- optional presentations on progress for +5% mark
-
-- 11:00 - setup and outline of seminar
-- 11:15 - Eszter (blogging while being a student)
-
-![](assets/img/CS220-w7-eszter-essex-frontrunners.jpg)
-
-<br>
-
-- 11:45 - Thomas (content production for Essex REBEL)
-
-![](assets/img/CS220-w7-tom-essex-rebel.jpg)
-
-<br>
-
-- 12:15 - Krystian (Studio X and helping set up start-ups)
-
-![](assets/img/CS220-w7-krystian-startup-studio-x.jpg)
-
-Check: https://www.essex.ac.uk/student/careers
--->
-
-<!-- 
-### Eszter Q/A
-- is there anything similar to Frontrunners here at Essex?
-- you did History - do you think other departments have blogs like yours as well?
-- paid/unpaid work - you got paid - how can we balance or choose well?
-- what was feedback from students?
-- was there any way you could connect your articles/content with your assignment e.g. by referencing yourself?
-- was it Wordpress you used? Have you used other website builders?
-- writing email to lecturers - don't worry about asking questions, right?
-- presentation skill - good idea to practice in class?
-- could Marketing/the Essex student blog consider essays / shorter
-
-### Thomas
-- FrontRunner vs REBEL support: not paid, but access to cool equipment, introduction to a more rigorous workflow, constant feedback from team members, working with other students (not staff)
-- good to be introduced to the complexity of content production e.g. what ethical issues need to check before publishing, ...
-- feedback on each other's work
-- need individual social people - are these influencers?
-- are the accessible versions audio podcasts?
-- what's the alternative to Grammarly in WordPress?
-- contextualising 
-  - writing style is tailored to the audience. 
-  - learn how to talk to different people e.g. status, type of work
-- the radio we hear in the shop is broadcast from your studios? 
-- essay handed in as an article
-
-### Krystian Q/A
-- would they need training for using the technical equipment?
-- do you help with presentation skills?
-- how often do you award people i.e. how much money is there available per year?
-- what ongoing student project do your support? Are there any that link back to their degrees the disciplines they study?
-
--->
+### Week 7 ?
+- sorry, no guest talks, they just can't do it twice on a Friday
+- so what instead? 
 
 ### Week 8 Reading week
 - no classes
 
 ### Week 9-10-11 Workshops
+- individual or group sessions 
 
 <!--
 - reviewing student's progress

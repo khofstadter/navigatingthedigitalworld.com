@@ -3,6 +3,8 @@ layout: default
 title: Password Management
 nav_order: 3
 permalink: /docs/password-management
+description: This page provides general suggestions and best practices for password management, including tips for creating strong passwords and using trustworthy password manager apps.
+keywords: password management, strong passwords, password security, password complexity, password length, password manager
 ---
 
 # Password Management

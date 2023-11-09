@@ -2,6 +2,8 @@
 title: Home
 layout: home
 nav_order: 1
+description: This page provides general suggestions and best practices for password management, including tips for creating strong passwords and using trustworthy password manager apps.
+keywords: password management, strong passwords, password security, password complexity, password length, password manager
 ---
 
 # Navigating the Digital World: From Skills to Insights

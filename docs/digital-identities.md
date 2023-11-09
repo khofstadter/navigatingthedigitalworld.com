@@ -3,6 +3,8 @@ layout: default
 title: Digital Identities
 nav_order: 2
 permalink: /docs/digital-identities
+description: This page explores Dave White's concepts of digital identities and their relation to visitor and resident modes. It provides an introduction to the VR map and discusses engagement with technology.
+keywords: digital identities, visitor mode, resident mode, VR map, engagement with technology
 ---
 
 # Digital Identities

@@ -3,6 +3,8 @@ layout: default
 title: Content Production
 nav_order: 6
 permalink: /docs/content-production
+description: This page outlines content production and the materials and tools used for synthesizing findings.
+keywords: content production, materials, tools, synthesizing findings
 ---
 
 # Content production

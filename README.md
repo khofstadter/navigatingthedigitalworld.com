@@ -1,6 +1,11 @@
 # Navigating the Digital World
 ## Tasks
 ### by week 6 (presentations, self and peer review)
+- ask students not seen at all to stay for the ASH
+
+### by week 7
+- select more work from last year to analyze
+- draft a diagramm of the fields
 
 ### by week 8 (reading week)
 - emphasize that this website is also in progress in order to demonstrate progress (e.g. the change of images, lists made into prose, etc.)
@@ -8,13 +13,13 @@
 - clarify that referencing style is Markdown footnotes
 
 ### by week 9
-- do we go and visit Studio X and the Rebel Studio 
 - put all pages into prose
 - write up some pages (or a summary of all) and publish somewhere
 1. essay writing tips: first write it up for a 5 year old, then make it sound more academic? Consider you essay as something in which you want to teach us something about what you have discovered. 
 - https://seths.blog/2023/08/the-status-quo-is-very-good/
 - could I add a visual outline of the narrative (TOC) to the top of all pages (to help understand the structure?)
   - could I make one figure that visualizes the whole module (website)?
+- replace the content of the template's index.md file with an actual essay
 
 ## SP
 ### by week 16
@@ -26,7 +31,6 @@
    4. Elisif
 ### by week 22
 - demonstrate the making of an accessible PDF
-
 
 ### later/whenever 
 - is there a 5.1 studio in Essex?
