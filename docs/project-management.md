@@ -50,6 +50,7 @@ Use search engines to locate relevant literature (adjust publication date ranges
 5. Audio-only podcasts
 6. [Litmaps](https://app.litmaps.co/) can join the dots between scientific papers.
 7. [Scispace](https://typeset.io) can summarizes scientific papers.
+8. [List of ranked journals](https://listofjournals.com/) with additional filters. 
 
 - Some platforms allow you to bookmark items or create playlists (if you have an account).
 - Some platforms only allow reading online or only with specific software after downloading (e.g., Adobe Digital Edition).
