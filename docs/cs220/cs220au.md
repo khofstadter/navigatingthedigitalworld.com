@@ -246,7 +246,7 @@ Content Production
 - Any questions?
 
 #### Group work
-You will use the [CS220AU marking rubric](https://github.com/khofstadter/CS220AU-DP/blob/main/assessement.md) to analyze submissions from last year. Each group will analyze a few submissions and match them with the final feedback, which will be provided as printed handouts.
+You will use the [CS220AU marking rubric](https://github.com/khofstadter/CS220AU-DP/blob/main/assessement.md) to analyze submissions from last year. Each group will analyze a few submissions and match them with the final feedback, which will be provided as printed handouts. <!-- But is this actually true? Or am I bias? -->
 
 - [https://github.com/2200092/CS220AU-DP-2022](https://github.com/2200092/CS220AU-DP-2022)
 - [https://github.com/2200272/CS220AU-DP-2022](https://github.com/2200272/CS220AU-DP-2022)
