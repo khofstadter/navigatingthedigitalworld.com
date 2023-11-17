@@ -46,11 +46,11 @@ Use search engines to locate relevant literature (adjust publication date ranges
 1. [University's digital library](https://library.essex.ac.uk/home)
 2. [Google Scholar](https://scholar.google.com/)
 3. [Academia](https://www.academia.edu/) and [ResearchGate](https://www.researchgate.net/)
-4. YouTube, Google, Wikipedia, etc.
-5. Audio-only podcasts
 6. [Litmaps](https://app.litmaps.co/) can join the dots between scientific papers.
 7. [Scispace](https://typeset.io) can summarizes scientific papers.
-8. [List of ranked journals](https://listofjournals.com/) with additional filters. 
+8. [List of ranked journals](https://listofjournals.com/) with additional filters.
+9. YouTube, Google, Wikipedia, Netflix, etc.
+5. Audio-only podcasts
 
 - Some platforms allow you to bookmark items or create playlists (if you have an account).
 - Some platforms only allow reading online or only with specific software after downloading (e.g., Adobe Digital Edition).
