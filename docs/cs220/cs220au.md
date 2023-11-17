@@ -289,8 +289,8 @@ You will use the [CS220AU marking rubric](https://github.com/khofstadter/CS220AU
 - [https://github.com/2202930/CS220AU-DP-2022](https://github.com/2202930/CS220AU-DP-2022)
 - [https://github.com/2200100/CS220AU-DP-2022](https://github.com/2200100/CS220AU-DP-2022)
 - [https://github.com/2200175/CS220AU-DP-2022](https://github.com/2200175/CS220AU-DP-2022)
-- [https://github.com/2203542-0/CS220AU-DP-2022](https://github.com/2203542-0/CS220AU-DP-2022)
 - [https://github.com/2206691/CS220AU-DP-2022](https://github.com/2206691/CS220AU-DP-2022)
+- [https://github.com/2203542-0/CS220AU-DP-2022](https://github.com/2203542-0/CS220AU-DP-2022)
 
 #### Homework
 Progress with your assignment. 
