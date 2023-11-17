@@ -207,7 +207,6 @@ Today we will:
 - once you have a good draft, we will move this draft to the public repository
 - carry on developing a research question (or questions) for your website
 - as an experiment, try [Brave Browser](https://brave.com/) for a week, to see what data websites are trying to crawl from you (data mining). Also, you can use this browser with YouTube or Spotify to get rid of all ads. Please try! It's great!
-
 -->
 
 
@@ -274,9 +273,27 @@ You will use the [CS220AU marking rubric](https://github.com/khofstadter/CS220AU
 #### Troubleshooting
 Let's check what [troubleshooting](../troubleshooting) means and how it can be done effectively.
 
-### Week 7 ?
-- sorry, no guest talks, they just can't do it twice on a Friday
-- so what instead? 
+### Week 7 GitHub Pages
+#### Introduction
+- Any questions?
+- Did you experiment with Markdown and your repositories?
+- How are your research questions coming along?
+
+#### GitHub Pages
+- let's work in your index.md file
+
+#### Group work
+You will use the [CS220AU marking rubric](https://github.com/khofstadter/CS220AU-DP/blob/main/assessement.md) to analyze submissions from last year. Each group will analyze a few submissions and match them with the final feedback, which will be provided as printed handouts.
+
+- [https://github.com/2204447/CS220AU-DP-2022](https://github.com/2204447/CS220AU-DP-2022)
+- [https://github.com/2202930/CS220AU-DP-2022](https://github.com/2202930/CS220AU-DP-2022)
+- [https://github.com/2200100/CS220AU-DP-2022](https://github.com/2200100/CS220AU-DP-2022)
+- [https://github.com/2200175/CS220AU-DP-2022](https://github.com/2200175/CS220AU-DP-2022)
+- [https://github.com/2203542-0/CS220AU-DP-2022](https://github.com/2203542-0/CS220AU-DP-2022)
+- [https://github.com/2206691/CS220AU-DP-2022](https://github.com/2206691/CS220AU-DP-2022)
+
+#### Homework
+Progress with your assignment. 
 
 ### Week 8 Reading week
 - no classes

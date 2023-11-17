@@ -1,16 +1,15 @@
 # Navigating the Digital World
 ## Tasks
-### by week 6 (presentations, self and peer review)
-- ask students not seen at all to stay for the ASH
-
 ### by week 7
 - select more work from last year to analyze
+- workshop on changing the index file, uploading image files, waiting for changes, etc.
 - draft a diagramm of the fields
 
 ### by week 8 (reading week)
 - emphasize that this website is also in progress in order to demonstrate progress (e.g. the change of images, lists made into prose, etc.)
 - decide on a specific style for all images and regenerate (to demonstrate consistency)
 - clarify that referencing style is Markdown footnotes
+- reach out to 2022 students
 
 ### by week 9
 - put all pages into prose
@@ -20,6 +19,7 @@
 - could I add a visual outline of the narrative (TOC) to the top of all pages (to help understand the structure?)
   - could I make one figure that visualizes the whole module (website)?
 - replace the content of the template's index.md file with an actual essay
+- improve with https://pagespeed.web.dev/
 
 ## SP
 ### by week 16
@@ -57,6 +57,9 @@ Integrate:
 - Tristan Harris's [Humantech website](https://www.humanetech.com/)
 - John Lilly 'foresees' AI takeover via his hyperspace journeys in his isolations tank [@DeKorne2009p.98]. Lilly probably overused ketamine.
 - evise Essex marking criteria part with new file on Moodle
+- https://medium.com/@junaidaw567/navigating-the-digital-world-challenges-and-opportunities-6ff34e1c8dfe
+- https://www.ecorys.com/app/uploads/files/2020-09/navigating-the-digital-world%20(1).pdf
+- exercise: have you ever been misunderstood on the internet and then told off, ridiculed, etc even though your comments arise from good intentions? <!-- hypnotech comments, admin upset -->
 
 ## Log
 2023-11-02 Asked for relevant software updates and installations on the Essex Software Hub. Amended the narrative of the project management page as indicated below. Also emailed Ellisif and Jane to find existential risk related events on campus for students to attend. Updated cs220au and cs220sp permalinks.
