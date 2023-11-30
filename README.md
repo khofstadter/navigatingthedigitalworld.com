@@ -23,7 +23,7 @@
 ### CS220AU next year
 - change GitHub account name to krishofstadter from khofstadter
 - change template repo name from CS220AU-DP to NDW-DP
-- consider using a very basic jekyll theme (instead of relying on GitHub Pages' Minima theme in the background)
+- consider using a very basic Jekyll theme (instead of relying on GitHub Pages' Minima theme in the background) so students can experiment with more
 
 ### later/whenever 
 - essay writing tips: first write it up for a 5 year old, then make it sound more academic? Consider you essay as something in which you want to teach us something about what you have discovered. 
