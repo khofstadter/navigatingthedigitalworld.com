@@ -6,7 +6,7 @@
 
 ## SP
 ### by week 16
-- finalize syllabus, speakers
+- finalize syllabus, speakers for SP term
 - choose essay examples from last year
 - invite more speakers e.g. 
    1. https://www.essex.ac.uk/people/VALEN80000/elia-valentini
@@ -63,6 +63,7 @@ Integrate:
 - compare control in 1984 (book, film) with Brave New World (book, series)
 
 ## Log
+
 2023-11-02 Asked for relevant software updates and installations on the Essex Software Hub. Amended the narrative of the project management page as indicated below. Also emailed Ellisif and Jane to find existential risk related events on campus for students to attend. Updated CS220AU and CS220SP permalinks.
 
 2023-10-26 Revised APM and research narrative page. After the classes, I think the narrative of this page needs changing (e.g. we should first think about the more general research narrative and then about the APM framework).
