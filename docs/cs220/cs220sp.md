@@ -58,12 +58,12 @@ TBC
 | Week | Presentation & Presenter |
 |------|---------------------------|
 | w16  | Digital Technologies and Society (Dr. Krisztián Hofstädter) |
-| w17  | Digital Heritage (Dr. Holly A Maples) |
+| w17  | TBC |
 | w18  | Filter Bubbles and Democracy – Using Social Network Analysis in Research (Dr. Esther Wilkinson) |
 | w19  | Gendering the Digital World (Dr. Lisa Smith) |
 | w20  | The Hacker Ethic: Roots, history and techno-cultural ideology (Dr. Audrey Guinchard) |
-| w21  | Navigating the Digital World: Parametric Design in Engineering, Art and Architecture (Arup) |
+| w21  | TBC/ |
 | w22  | Cyber Crime and Darknet (Dr. Audrey Guinchard) |
 | w23  | Reading Week |
-| w24  | Video Games as Art (Dr. Matt Lodder) |
+| w24  | TBC |
 | w25  | Artificial Intelligence and Big Data: the new frontiers of living in a digital world (Dr. Spyros Samothrakis) |

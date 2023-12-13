@@ -299,7 +299,9 @@ Progress with your assignment.
 - no classes
 
 ### Week 9-10-11 Workshops
-- individual or group sessions 
+- individual or group sessions
+- earlier deadline for Exchange students
+- feedback forms
 
 <!--
 - reviewing student's progress
