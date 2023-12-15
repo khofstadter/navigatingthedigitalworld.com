@@ -273,6 +273,7 @@ To help you choose, think about these quotes:
 - [diagrams.net](https://www.diagrams.net/)
 - [AI Image Description](https://www.astica.org/vision/describe/) - could be used for Alt texts
 - [List of open source tools](https://awesomeopensource.com/)
+- [Podcast Blog](https://www.podcastengineers.com/blogs/)
 
 ## Image credits
 Header image was generated with Image Creator (DALL·E 3) on 2 November 15:54 pm using "An image where one person manages multiple parts of a creative project. The person is a busy human-octopus-robot cyborg. Tasks involve writing, music making, video making. NeeIn Kandinsky style."

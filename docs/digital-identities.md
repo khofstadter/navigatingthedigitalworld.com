@@ -172,6 +172,8 @@ Orlowski, J. et al. (2020) **The Social Dilemma.** The documentary film provides
 
 Prensky, M. (2001) **Digital Natives, Digital Immigrants Part I and II.** Articles available at [marcprensky.com](http://marcprenskyarchive.com/writings/).
 
+Screenrant (2020) **15 Shows To Watch If You Like Black Mirror** Article available at [Screenrant.com](https://screenrant.com/shows-like-black-mirror-netflix/).
+
 Stosney, S. (2014) **What's Wrong with Criticism.** How to ruin a perfectly good relationship. Available online at [Psychology Today](https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201404/whats-wrong-criticism).
 
 The Infographic Show, (2018) **Millennials vs Generation Z**. How Do They Compare & What's the Difference? Video available on [YouTube](https://youtu.be/aqdm6aBUZII) (6-min).

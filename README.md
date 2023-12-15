@@ -21,6 +21,7 @@
 - demonstrate the making of an accessible PDF
 
 ### CS220AU next year
+- get in touch with Dave and ask for references, discussions on why students should be encouraged to publish their work online on their websites?
 - change GitHub account name to krishofstadter from khofstadter
 - change template repo name from CS220AU-DP to NDW-DP
 - consider using a very basic Jekyll theme (instead of relying on GitHub Pages' Minima theme in the background) so students can experiment with more
