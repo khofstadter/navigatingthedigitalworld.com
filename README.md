@@ -1,24 +1,21 @@
 # Navigating the Digital World
+This README.md file provides a brief overview to the project, a task list and log. 
+
+## Overview
+The website hosted in this repository originated from the 'Navigating the Digital World' module, which I have been teaching from 2021 to 2024 at the University of Essex. From 2021 to 2022, the content now present on the website was simply added to Markdown files within the repository. In September 2023, I started using the 'Just The Docs' Jekyll theme to enhance the user experience.
+
 ## Tasks
-### AU whenever
-- decide on a specific style for all images and regenerate with DALL3 to demonstrate consistency
-- put all pages into pros for students who didn't attend classes and can't access Listen Again
-
-## SP
-### by week 16
-- finalize syllabus, speakers for SP term
-- choose essay examples from last year
-- invite more speakers e.g. 
-   1. https://www.essex.ac.uk/people/VALEN80000/elia-valentini
-   2. https://www.essex.ac.uk/people/HUGHE78004/gethin-hughes
-   3. Jane
-   4. Elisif
-   5. someone like Schmachtenberger
-   6. someone from PPS
-   7. someone from Computer Science?
-
-### by week 22
-- demonstrate the making of an accessible PDF
+1. provide final feedback on student's work before they submit
+2. prepare w16 lecture with the running title  "The Pyhsicality of the Digital World"
+3. organize presenters for w17, w21 and w24
+   1. search relevant people e.g. 
+      - https://www.essex.ac.uk/people/VALEN80000/elia-valentini
+      - https://www.essex.ac.uk/people/HUGHE78004/gethin-hughes
+      - Jane/Elisif
+      - someone like Schmachtenberger
+      - someone from PPS
+      - someone from Computer Science 
+4. organize time for demonstrating the making of an accessible PDF
 
 ### CS220AU next year
 - get in touch with Dave and ask for references, discussions on why students should be encouraged to publish their work online on their websites?
@@ -64,6 +61,7 @@ Integrate:
 - compare control in 1984 (book, film) with Brave New World (book, series)
 
 ## Log
+2023-01-04 Provided some feedback on student's work and started preparing the SP part of the module. 
 
 2023-11-02 Asked for relevant software updates and installations on the Essex Software Hub. Amended the narrative of the project management page as indicated below. Also emailed Ellisif and Jane to find existential risk related events on campus for students to attend. Updated CS220AU and CS220SP permalinks.
 

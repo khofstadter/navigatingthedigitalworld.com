@@ -19,16 +19,18 @@ permalink: /docs/cs220/cs220sp
 ---
 
 ## CS220SP timetable
-Lecture: Wed 10–11am in 5A.106 (this will need to change to Thursday, TBC)  
-Seminar 1: Thu 12–1pm in 5A.118  
-Seminar 2: Thu 2–3pm CTC.2.02  
 
-<!-- add which weeks -->
+Seminar 1: Thu 10–11am in 5A.106 
+Seminar 2: Thu 12–13pm in 5A.118 
+Lecture: Thu 14–15pm in CTC.2.05
+ASH: Thu 15–16 in 5B.109
+
+Week 23 is reading week, no seminars or lectures. 
 
 ## Module description
 This page expands on the university's [module descriptions](https://github.com/khofstadter/CS220AU-DP/tree/main/assets).
 
-The Module Director organizes weekly sessions for weeks 16–20 and 22–25. Each session consists of a one-hour lecture plus a one-hour seminar for discussion. The lectures are given by different experts on a specific topic linked to the module (e.g., digital heritage, social networks, gender inequality, video games and cybercrime). 
+The Module Director organizes weekly sessions for weeks 16–22 and 24–25. Each session consists of a one-hour lecture plus a one-hour seminar for discussion. The lectures are given by different experts on a specific topic linked to the module (e.g., digital heritage, social networks, gender inequality, video games and cybercrime). 
 
 ## Assignment
 ### Brief and research domains
@@ -57,12 +59,12 @@ TBC
 
 | Week | Presentation & Presenter |
 |------|---------------------------|
-| w16  | Digital Technologies and Society (Dr. Krisztián Hofstädter) |
+| w16  | The Pyhsicality of the Digital World (Dr. Krisztián Hofstädter) |
 | w17  | TBC |
-| w18  | Filter Bubbles and Democracy – Using Social Network Analysis in Research (Dr. Esther Wilkinson) |
+| w18  | Library (practical session) (Dr. Esther Wilkinson) |
 | w19  | Gendering the Digital World (Dr. Lisa Smith) |
 | w20  | The Hacker Ethic: Roots, history and techno-cultural ideology (Dr. Audrey Guinchard) |
-| w21  | TBC/ |
+| w21  | TBC |
 | w22  | Cyber Crime and Darknet (Dr. Audrey Guinchard) |
 | w23  | Reading Week |
 | w24  | TBC |
