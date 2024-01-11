@@ -59,7 +59,7 @@ TBC
 
 | Week | Presentation & Presenter |
 |------|---------------------------|
-| w16  | Module Introduction |
+| w16  | Module Introduction (Dr. Krisztián Hofstädter) |
 | w17  | The Pyhsicality of the Digital World (Dr. Krisztián Hofstädter) |
 | w18  | Library (practical session) (Dr. Esther Wilkinson) |
 | w19  | Gendering the Digital World (Dr. Lisa Smith) |
