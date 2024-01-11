@@ -59,8 +59,8 @@ TBC
 
 | Week | Presentation & Presenter |
 |------|---------------------------|
-| w16  | The Pyhsicality of the Digital World (Dr. Krisztián Hofstädter) |
-| w17  | TBC |
+| w16  | Module Introduction |
+| w17  | The Pyhsicality of the Digital World (Dr. Krisztián Hofstädter) |
 | w18  | Library (practical session) (Dr. Esther Wilkinson) |
 | w19  | Gendering the Digital World (Dr. Lisa Smith) |
 | w20  | The Hacker Ethic: Roots, history and techno-cultural ideology (Dr. Audrey Guinchard) |
