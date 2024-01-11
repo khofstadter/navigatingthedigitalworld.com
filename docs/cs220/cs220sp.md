@@ -20,10 +20,10 @@ permalink: /docs/cs220/cs220sp
 
 ## CS220SP timetable
 
-Seminar 1: Thu 10–11am in 5A.106 
-Seminar 2: Thu 12–13pm in 5A.118 
-Lecture: Thu 14–15pm in CTC.2.05
-ASH: Thu 15–16 in 5B.109
+Seminar 1: Thu 10–11am in 5A.106  
+Seminar 2: Thu 12–13pm in 5A.118  
+Lecture: Thu 14–15pm in CTC.2.05  
+ASH: Thu 15–16 in 5B.109  
 
 Week 23 is reading week, no seminars or lectures. 
 
