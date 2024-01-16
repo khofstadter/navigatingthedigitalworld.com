@@ -184,7 +184,7 @@ Find out how much people can see of your social media activities.
 
 1. Do you need clarification on the assignment?
 2. Any other questions (e.g. coming to the evening class?)
-3. Did you manage to finish watching/reading the info on the [Digital identities](../docs/digital-identities) page?
+3. Did you manage to finish watching/reading the info on the [Digital identities](../digital-identities) page?
 4. Did you manage to write up your notes? 
 5. Where are your notes now? What format? 
 6. Have you managed to create an online group for yourselves to discuss ideas freely?

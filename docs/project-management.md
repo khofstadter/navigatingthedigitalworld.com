@@ -47,10 +47,10 @@ Use search engines to locate relevant literature (adjust publication date ranges
 2. [Google Scholar](https://scholar.google.com/)
 3. [Academia](https://www.academia.edu/) and [ResearchGate](https://www.researchgate.net/)
 6. [Litmaps](https://app.litmaps.co/) can join the dots between scientific papers.
-7. [Scispace](https://typeset.io) can summarizes scientific papers.
+7. [Scispace](https://typeset.io).
 8. [List of ranked journals](https://listofjournals.com/) with additional filters.
-9. YouTube, Google, Wikipedia, Netflix, etc.
-5. Audio-only podcasts
+9.  YouTube, Google, Wikipedia, Netflix, etc.
+10. Audio-only podcasts
 
 - Some platforms allow you to bookmark items or create playlists (if you have an account).
 - Some platforms only allow reading online or only with specific software after downloading (e.g., Adobe Digital Edition).
@@ -79,12 +79,17 @@ Use search engines to locate relevant literature (adjust publication date ranges
       - Adobe Digital Edition doesn't even allow you to copy to clipboard. There are ways to convert .acsm files if really needed, but it can be tricky or you may need to buy an app. You can find more information on how to remove DRM from PDFs [here](https://www.osxwiki.com/remove-drm-from-pdf).
    3. Print.
       - Printing can help reduce screen time and allow you to read in different environments. Only print for scanning, not for skimming, to reduce waste.
-3. Highlight and paraphrase relevant information.
+3. Consider AI: 
+   1. https://arxiv.org/pdf/2205.04561.pdf
+   2. https://dl.acm.org/doi/10.1145/3586183.3606770
+   3. https://www.explainpaper.com/
+   4. https://openreader.semanticscholar.org/
+4. Highlight and paraphrase relevant information.
    - Add #tags and continue developing and refining your list of #tags (in PDF or printed).
    - Use color (in PDF or printed).
    - Create fleeting and later permanent notes (add #tags and potential links to other parts of your projects).
-4. Take notes (paraphrase as much as possible and reference the source).
-5. Draw logical narratives between your ideas using
+5. Take notes (paraphrase as much as possible and reference the source).
+6. Draw logical narratives between your ideas using
    - a physical notebook with pens or pencils or (if you think you can use them as figures in your paper)
    - vector-based graphic software (Inkscape, [etc](https://duckduckgo.com/?q=vector+based+graphic+software+compare&t=brave&ia=web).)
    - flowcharts with software ([diagrams.net](https://app.diagrams.net/), [etc](https://duckduckgo.com/?q=flowchart+software+comparision&t=brave&ia=web).)

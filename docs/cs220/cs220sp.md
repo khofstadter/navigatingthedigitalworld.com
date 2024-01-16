@@ -20,8 +20,8 @@ permalink: /docs/cs220/cs220sp
 
 ## CS220SP timetable
 
-Seminar 1: Thu 10–11am in 5A.106  
-Seminar 2: Thu 12–13pm in 5A.118  
+Seminar 1: Thu 10–11am in 5A.106 (except week 18)    
+Seminar 2: Thu 12–13pm in 5A.118 (except week 18)    
 Lecture: Thu 14–15pm in CTC.2.05  
 ASH: Thu 15–16 in 5B.109  
 
@@ -30,7 +30,7 @@ Week 23 is reading week, no seminars or lectures.
 ## Module description
 This page expands on the university's [module descriptions](https://github.com/khofstadter/CS220AU-DP/tree/main/assets).
 
-The Module Director organizes weekly sessions for weeks 16–22 and 24–25. Each session consists of a one-hour lecture plus a one-hour seminar for discussion. The lectures are given by different experts on a specific topic linked to the module (e.g., digital heritage, social networks, gender inequality, video games and cybercrime). 
+The Module Director organizes weekly sessions for weeks 16–22 and 24–25. Each session consists of a one-hour lecture plus a one-hour seminar for discussion. The lectures are given by different experts on a specific topic linked to the module (e.g., digital heritage, social networks, gender inequality, video games and cybercrime). The seminars to discuss the lectures will occur a week after the lecture, you will have a whole week to prepare for the discussion. 
 
 ## Assignment
 ### Brief and research domains
@@ -51,21 +51,26 @@ The list of research questions you must choose from for your essay:
 
 Other research questions are possible, however will need to be discussed with the module director. 
 
-### Essay examples
-[TBC](https://www1.essex.ac.uk/timetables/)
-
-## Syllabus
-TBC
+## Syllabus outline
 
 | Week | Presentation & Presenter |
 |------|---------------------------|
-| w16  | Module Introduction (Dr. Krisztián Hofstädter) |
-| w17  | The Pyhsicality of the Digital World (Dr. Krisztián Hofstädter) |
-| w18  | Library (practical session) (Dr. Esther Wilkinson) |
+| w16  | Module Introduction and The Physicality of the Digital World (Dr. Krisztián Hofstädter) |
+| w17  | Digital Heritage (Dr. Paola Di Giuseppantonio Di Franco) |
+| w18  | Library (practical session in seminars) (Dr. Esther Wilkinson) |
 | w19  | Gendering the Digital World (Dr. Lisa Smith) |
 | w20  | The Hacker Ethic: Roots, history and techno-cultural ideology (Dr. Audrey Guinchard) |
 | w21  | TBC |
 | w22  | Cyber Crime and Darknet (Dr. Audrey Guinchard) |
-| w23  | Reading Week |
+| w23  | Reading Week (no classes) |
 | w24  | TBC |
 | w25  | Artificial Intelligence and Big Data: the new frontiers of living in a digital world (Dr. Spyros Samothrakis) |
+
+## Essay Examples
+This week, I will send you examples students submitted via email. 
+
+## Week 16
+### Seminar
+Introduction to the module
+### Lecture
+[The Physicality of the Digital World](../physicality-of-the-digital-world)
