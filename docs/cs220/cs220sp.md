@@ -30,11 +30,15 @@ Week 23 is reading week, no seminars or lectures.
 ## Module description
 This page expands on the university's [module descriptions](https://github.com/khofstadter/CS220AU-DP/tree/main/assets).
 
-The Module Director organizes weekly sessions for weeks 16–22 and 24–25. Each session consists of a one-hour lecture plus a one-hour seminar for discussion. The lectures are given by different experts on a specific topic linked to the module (e.g., digital heritage, social networks, gender inequality, video games and cybercrime). The seminars to discuss the lectures will occur a week after the lecture, you will have a whole week to prepare for the discussion. 
+The Module Director organizes weekly sessions for weeks 16–22 and 24–25. Each session consists of a one-hour lecture plus a one-hour seminar for discussion. The lectures are given by different experts on a specific topic linked to the module (e.g., digital heritage, social networks, gender inequality, AI and cybercrime). The seminars to discuss the lectures will occur a week after the lecture, you will have a whole week to prepare for the discussion. 
 
 ## Assignment
 ### Brief and research domains
 Throughout the term, you will be asked to choose a research question from a given list (see below) and answer it in written form (i.e., in an essay). By your deadline, you will need to submit your essay using an [accessible PDF](https://www.adobe.com/acrobat/hub/what-is-an-accessible-pdf.html) file on FASER.
+
+Deadline: 24 April 12pm (2000 words for level 4; 3000 words for level 5)
+
+After the last week together (week 25; Thu 21 March) you will have around one month to finish your work.
 
 The list of research questions you must choose from for your essay:
 
@@ -49,7 +53,7 @@ The list of research questions you must choose from for your essay:
 - How can we use digital technologies to protect and promote human rights and justice?
 - What are the legal and political aspects of cybercrime?
 
-Other research questions are possible, however will need to be discussed with the module director. 
+Other research questions are possible, however will need to be discussed with the module director before the end of week 23. 
 
 ## Syllabus outline
 
@@ -67,10 +71,16 @@ Other research questions are possible, however will need to be discussed with th
 | w25  | Artificial Intelligence and Big Data: the new frontiers of living in a digital world (Dr. Spyros Samothrakis) |
 
 ## Essay Examples
-This week, I will send you examples students submitted via email. 
+One example uploaded to Moodle. Can give you more if needed. Remember, you need to submit an accessible PDF, not a Microsoft Word document. 
 
 ## Week 16
-### Seminar
-Introduction to the module
+### Seminar 
+Introduction to the module. 
+- Moodle (link to this page)
+- this webpage
+- this website (AU parts could be useful for SP students)
+- me & you
+- maybe start the lecture if we have time
+
 ### Lecture
 [The Physicality of the Digital World](../physicality-of-the-digital-world)
