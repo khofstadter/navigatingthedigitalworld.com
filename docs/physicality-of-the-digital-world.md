@@ -7,7 +7,9 @@ description:
 keywords: digital-world
 ---
 
-# Physicality of the Digital World
+# The Physicality of the Digital World
+
+![Futuristic image of a human connected to machines with cables.](../assets/img/2024-01-17-matrix-film-machine-connections-cables-darkness-city.jpg)
 
 {: .no_toc }
 
@@ -23,40 +25,63 @@ keywords: digital-world
 
 In today's world, we are surrounded by digital technology in almost every aspect of our lives. From smartphones to laptops, from social media to online banking, from remote working to e-learning – digital technology has become an integral part of our daily routines. 
 
-What exactly makes up this 'digital world'? What is its physical essence?
+What exactly makes up this 'digital world'? 
 
-When we talk about the 'digital world', it's easy to imagine it as a sort of ethereal, otherworldly dimension that exists separately from our physical reality. A realm where information flows freely, unhindered by physical constraints. However, the truth is far from this. The digital world is deeply rooted in the physical world. It is built on tangible, material infrastructure - servers, data centers, fiber optic cables, and more.
+What is its physical essence?
 
-Understanding the physicality of the digital world is crucial. It helps us grasp how the internet works, how data travels, how devices communicate, and ultimately, how our actions in the digital space can have real-world consequences. This understanding also sheds light on the environmental impact of our digital activities, the geopolitics of internet access, and the societal implications of digital technologies.
+When we talk about the 'digital world', it's easy to imagine it as a sort of ethereal, otherworldly, virtual dimension that exists separately from our physical reality. A realm where information flows freely, unhindered by physical constraints. However, the truth is far from this. 
 
-This page delves into the history of the internet, the physical components that make up the digital world, the energy consumption and environmental impacts, issues of ownership and control, risks and threats, surveillance and privacy concerns, and the dominant languages of the internet.
+The digital world is deeply rooted in the physical world. It is built on tangible, material infrastructure, linking machines (computers) between
+  1. data (server) centers (which provide service) and 
+  2. client computers (which access service) with 
+  3. different types of wired and wireless connections.
 
-This page should set the stage for the rest of the presentations in this module, each of which will delve deeper into specific aspects of our digital lives.
+Understanding the physicality of the digital world helps understand  
+- how data (digits) travel
+- how devices communicate
+- how the internet works
+- how our actions in the real-world can have have consequences in the digital world (or the other way around)
+- how our digital activities impact the environmental
+- the geopolitics of internet access
+- the societal implications of digital technologies.
+
+This page briefly outlines 
+1. types of human communication
+2. the history of the internet
+3. the physical components that make up the digital world
+
+This page should set the stage for the [rest of the presentations](cs220/cs220sp#syllabus-outline) in this module, each of which will delve deeper into specific aspects of our digital lives.
 
 <br> 
 
 ## Human Communication
+
+![Busy cafe with loads of people communicating.](../assets/img/2024-01-17-busy-cafe-with-loads-of-people-communicating.jpg)
 
 The table below provides an overview of various communication methods along with their characteristics. It classifies each method based on the type of communication (mental, physical, digital, analogue), whether it's verbal or non-verbal, the mode of communication (in-person, remote), and the direction of communication (one-way, two-way, mass communication).
 
 | Examples | Type | Verbal/Non-Verbal | Communication Mode | Communication Direction |
 | --- | --- | --- | --- | --- |
 | Conversation in a Cafe | Physical | Both | In Person (real-time) | Two-way (Interpersonal) |
-| Self-talk | Mental | Both | In Person (real-time) | One-way (Intrapersonal[^schizophrenia]) |
-| Journaling | Physical/Digital | Verbal | In Person (real-time) | One-way (Intrapersonal) |
+| Self-talk | Mental | Both | In Person (real-time) | One-way (Intrapersonal) |
+| Journaling | Physical/Digital | Verbal | In Person (real-time) | One-way (Intrapersonal)[^archetypes] |
 | Mail/Email | Physical/Digital | Verbal | Remote (non-real-time) | Two-way (Interpersonal) |
 | Print Media (Books, Newspapers) | Physical | Verbal | Remote (non-real-time) | Mass Communication |
 | Television | Analogue/Digital | Both | Remote (real-time) | Mass Communication |
 | Radio | Analogue/Digital | Verbal | Remote (real-time) | Mass Communication |
 | Telephone | Analogue/Digital | Verbal | Remote (real-time) | Two-way (Interpersonal) |
-| Video Calls e.g. Skype, Zoom | Digital | Verbal | Remote (real-time) | Two-way (Interpersonal) |
-| Social Media (Facebook, Twitter, Instagram) | Digital | Both | Remote (real-time)/Remote (non-real-time) | Mass Communication |
+| Video Calls e.g. Skype, Zoom | Digital | Both | Remote (real-time) | Two-way (Interpersonal) |
+| Social Media (Facebook, Twitter, Instagram) | Digital | Both | Remote (real-time)/Remote (non-real-time) | Mass Communication | 
 
-[^schizophrenia]: Might be different with schizophrenia or Jungian dreamwork. 
+[^archetypes]: Talking or writing to ourselves could be classified in different ways if we believe that our consciousness consist of different parts. Also, journaling can be non-verbal as well if we add drawings to our notes for example.
 
-Analogue signals are continuous signal which represent physical measurements. They use a physical quantity like electrical voltage to represent information. The changes in the signal are smooth and span a large set of values. For example, the sound in a room, the light intensity from a lamp, or the temperature of a room are all analogue signals as they can be measured on a continuous scale. Digital signals are discrete time signals generated by digital modulation. These signals are non-continuous and represent information as a sequence of distinct values. These signals are characterized by ones and zeros, also known as binary code. Each one or zero is referred to as a bit, and a combination of bits makes a byte. 
+<br> 
 
-![Figure comparing analogue and digital signals.](https://assets.klipsch.com/blog-assets/Digital-and-Analog-Wave.jpg)
+## Digits (bits)
+
+![Computer screen with matrix-like code.](../assets/img/2024-01-17-computer-screen-with-matrix-code.jpg)
+
+Photo by [Markus Spiske](https://www.pexels.com/photo/green-and-white-line-illustration-225769/).
 
 The **digital world is created from digits** rather than analogue signals for several key reasons:
 
@@ -68,38 +93,77 @@ The **digital world is created from digits** rather than analogue signals for se
 
 4. Storage and Transmission: Digital data can be stored and transmitted more efficiently and securely than analog data. It's also easier to make multiple copies of digital data without losing quality.
 
-Here's a simple comparison in code:
+![Figure comparing analogue and digital signals.](../assets/img/analogue-digital.jpg)
 
-```
-# Analog Data
-analog_data = 0.5736 # This could vary slightly each time it's measured
+<!-- I need to make sure we don't think all digit signals look like waves -->
 
-# Digital Data
-digital_data = 0 # It's either 0 or 1, no in-between
+12 (Decimal) = `1100` (Binary)
 
-```
+| Binary digit (on/off) | Power of 2 | Calculation |
+| ------------ | ---------- | ----------- |
+| 1            | 2^3        | 1 * 2^3 = 8 |
+| 1            | 2^2        | 1 * 2^2 = 4 |
+| 0            | 2^1        | 0 * 2^1 = 0 |
+| 0            | 2^0        | 0 * 2^0 = 0 |
 
-**The digital world is intricately connected to the Internet** in multiple ways. Here are some key points:
-
-1. Information Exchange: The Internet serves as a global platform for exchanging digital information. This includes everything from emails and web pages, to streaming videos and online gaming.
-
-2. Cloud Computing: Many digital services leverage the power of the Internet to provide cloud-based solutions. These services range from data storage and backup, to running complex applications.
-
-3. Connectivity: The Internet connects digital devices around the world, enabling communication, collaboration, and sharing of resources.
-
-4. IoT (Internet of Things): In the modern digital world, not only computers and smartphones, but also many everyday objects like cars, home appliances, and even light bulbs can connect to the Internet to exchange data and offer smart functionalities.
+8+4=12
 
 <br>
 
-## The Structure of The Modern Internet
+39 (Decimal) = `100111` (Binary)
 
-The internet today works through a massive global network of optical fiber cables. In this animation, you can see how data typically flows between the different levels of Internet Service Providers (ISPs) in the modern internet. The optical fiber cables carry signals in the form of light. However, your laptop or mobile phone processes electrical signals. So how does this conversion of light to electrical signals happen? And more importantly, why is the internet structured the way it is today?
+| Binary digit | Power of 2 | Calculation |
+| ------------ | ---------- | ----------- |
+| 1            | 2^5        | 1 * 2^5 = 32 |
+| 0            | 2^4        | 0 * 2^4 = 0  |
+| 0            | 2^3        | 0 * 2^3 = 0  |
+| 1            | 2^2        | 1 * 2^2 = 4  |
+| 1            | 2^1        | 1 * 2^1 = 2  |
+| 1            | 2^0        | 1 * 2^0 = 1  |
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/p5mASvEvDZc?si=oDNtVSetKle8sL_N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+32+4+2+1=39
 
 <br>
 
-## History and Evolution of the Internet
+The digital world, in essence, is a vast ecosystem connecting technologies, platforms, and systems. At its core, this ecosystem is built upon **software** and **data**. Software, the set of instructions or programs that dictate how a computer should perform a task, and data, the valuable information that serves as input for these tasks, work hand-in-hand to shape the digital landscape as we know it.[^terms-interchange]
+
+
+
+
+                        +-----------------------+
+                        |       Digital         |
+                        |        World          |
+                        +-----------------------+
+                              /       |      \
+                             /        |       \
+                            /         |        \
+                           /          |         \
+                          /           |          \
+                         /            |           \
+                        /             |            \
+                       /              |             \
+                      /               |              \
+                     /                |               \
+                    /                 |                \
+          +---------------+     +--------------+    +-------------+
+          |  Technologies  |     |   Platforms   |    |  Systems   |
+          +---------------+     +--------------+    +-------------+
+             /    |    \            /     |     \        /    |   \
+            /     |     \          /      |      \      /     |    \
+           /      |      \        /       |       \    /      |     \
+          /       |       \      /        |        \  /       |      \
+         /        |        \    /         |         \/        |       \
+
+
+[^terms-interchange]: It's important to note that terms such as 'technologies', 'platforms', and 'systems' can often be interchangeable and context-dependent. They may convey similar meanings in different scenarios. Therefore, refrain from viewing the aforementioned classification as an absolute one.
+
+For instance, technologies like Artificial Intelligence (AI), Machine Learning (ML), and Blockchain have revolutionized various sectors from healthcare to finance. Platforms such as social media sites (like Facebook, Instagram, and Twitter), streaming services (like Netflix and Spotify), and e-commerce marketplaces (like Amazon and eBay) have changed the way we interact, consume content, and shop. Systems like cloud computing infrastructures and database management systems are integral parts of businesses and organizations.
+
+One of the most significant aspects of the digital world is the Internet. The Internet is not just a part of the digital world; it has become its backbone. It serves as a global platform for exchanging digital information, provides cloud-based solutions, connects digital devices around the world, and even enables everyday objects to exchange data through the Internet of Things (IoT).
+
+<br>
+
+## History of the Internet
 
 Understanding the origin of the Internet will provide us with valuable insights into how it has grown to become the technology that it is today.
 
@@ -119,154 +183,94 @@ Throughout the 1990s and early 2000s, the internet saw exponential growth. The a
 
 Today, the internet continues to evolve at a rapid pace. With advancements in cloud computing, the Internet of Things (IoT), and artificial intelligence, our world is becoming increasingly connected. We now live in an era where we can access information, communicate with people across the globe, and perform countless tasks online, all thanks to the internet. <!-- Flag that there are threats as well. -->
 
-Here check out some fun archives: https://neal.fun/internet-artifacts/napster/
+### The Structure of The Modern Internet
+
+The internet today works through a massive global network of optical fiber cables. In this animation, you can see how data typically flows between the different levels of Internet Service Providers (ISPs) in the modern internet. The optical fiber cables carry signals in the form of light. However, your laptop or mobile phone processes electrical signals. So how does this conversion of light to electrical signals happen? And more importantly, why is the internet structured the way it is today?
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/p5mASvEvDZc?si=oDNtVSetKle8sL_N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Some interesting archives can be found [on this fun website](https://neal.fun/internet-artifacts/).
 
 <br>
 
-## Understanding the Digital World
+## Emerging Questions?
 
 ### What distinguishes hardware from software?
 
-Hardware refers to the physical components of a computer system (e.g., the CPU, memory, and storage devices). Software, on the other hand, refers to the programs and data that run on the hardware, instructing it to perform certain tasks. All software is digital.
+Hardware refers to the physical components of a computer system (e.g., the CPU, memory, and storage devices). Software, on the other hand, refers to the programs that run on the hardware, instructing it to perform certain tasks. All software is digital.
 
-### How does the physical world compare to the virtual one?
+### How is data connected to software?
 
-Physical objects exist in the world independently of our perception.<!-- virtual world don't require our perception either right, at least mine is not needed to run a software online, right? --> They have weight, volume, texture, and color. Virtual objects, on the other hand, only exist within the realm of a computer system, but can simulate many properties of physical objects.
+Data serves as the lifeblood of software. It can be generated or inputted by users, or it can be accessed from external sources such as databases or other services. I often refer to this concept as 'make or take'. When we 'make' data, we are creating and inputting our own data into the software. On the other hand, when we 'take' data, we are accessing and using data that has been created by others. Regardless of its origin, data provides the necessary information that software needs to perform its functions.
 
-### What are Real, Augmented, and Virtual Realities?
+### How does the Internet connect servers and clients?
 
-**Real reality** is the world as we experience it through our senses. **Augmented reality** overlays digital information onto the real world, enhancing what we see, hear, feel, and smell. **Virtual reality**, meanwhile, is a fully immersive digital experience, where users can interact with a completely artificial environment.
+The Internet, facilitated by ISPs like Virgin Media, AOL, or Sky, acts as a global highway, connecting data centers (servers) and clients (our devices). These connections can be established through various wired or wireless technologies with different communication protocols.
 
-### Key Terms in the Digital World 
+### Do servers (data centers) have data and software?
 
-In addition to the **cloud**, the **ether**, the **web**, **virtual space**, **code**, **wire**, and **wireless**, what other words and phrases can be linked to the digital world? What do these words and phrases indicate?
+Servers, which are connected to your device via ISPs, store and manage vast amounts of data, while clients request and use this data. But, these servers not only store data, they often store software that people can use remotely via their client computers.
 
-1. **Data**: This refers to distinct pieces of information, usually formatted in a special way. All software is made up of data.
+### What is the client-side and the server-side of a software?
 
-2. **Internet**: This is a global network connecting millions of computers. More than 190 countries are linked into exchanges of data, news, and opinions. <!-- Which countries aren't? -->
+Facebook, for example, is a software application that runs on numerous servers in various data centers around the world. These servers are accessible because of the infrastructure provided by ISPs. When you access Facebook from your device (e.g., computer, smartphone), you're interacting with the client-side interface of the software, while the bulk of the processing happens server-side.
 
-3. **Servers**: These are computers or systems that manage access to a centralized resource or service in a network.
+Example: When you post a status update on Facebook, the text of your post (data) is sent to Facebook's servers where it's processed and stored. Other users can then interact with your post via their own devices (clients).
 
-4. **Protocols**: These are sets of rules that dictate how data is transmitted over the internet.
+Similarly, ChatGPT (and most other AI models) run on servers rather than directly on your device. The model itself (software) and the data it uses to generate responses are stored and processed on these servers.
 
-5. **Cyberspace**: This term refers to the virtual computer world, and more specifically, is an electronic medium used to form a global computer network to facilitate online communication. <!-- how is this different to the term Internet? -->
+Example: When you ask ChatGPT a question, your query is sent to the server where the AI model processes it and generates a response. This response is then sent back to your device (the client).
 
-These terms and many others like them help us understand and navigate the complex landscape of the digital world.
+So, in essence, many modern software applications, especially those based on the SaaS (Software as a Service) model, operate by running the software on a server and allowing users to interact with it through clients on their own devices.
 
-<br>
+### What are Protocols?
+The communication between servers and clients is governed by protocols, which are sets of rules that determine how data is transmitted over the internet. Protocols ensure that data packets are sent and received correctly, and they help maintain the security and integrity of data transfers.
 
-## 4. Physical Components of the Digital World
-
-### Devices Hosting and Maintaining the Digital World 
-
-In order to understand the digital world, it's important to recognize the physical devices that host and maintain it. These devices are often referred to as **hardware**. They include personal computers, servers, smartphones, routers, switches, and data centers. But what are these devices made of, and how do they work?
-
-### Role of Semiconductors
-
-Semiconductors play a crucial role in the functioning of digital devices. They are materials, like silicon, that partially conduct electricity.<!-- link Silicon Valley --> In digital devices, semiconductors form the basis of microchips, which are used to create transistors - the building blocks of all digital circuits.
-
-### Connection to Digital Libraries
-
-Digital libraries store and provide access to large amounts of information in digital formats. They rely on hardware devices for their operation. For example, servers host the digital content, while network devices (like routers and switches) ensure that users can access this content over the internet. Moreover, users employ personal hardware devices (like computers or smartphones) to retrieve and interact with the digital content.<!-- have a figure for this -->
-
-<br>
-
-## 5. Energy Consumption and Environmental Impact
-
-### Energy Usage in the Digital World 
-
-The digital world is a significant consumer of energy. The main contributors to this energy consumption are:
-
-- **Data Centers**: These are facilities that contain large amounts of servers and storage devices. They consume a lot of energy for their operation and cooling.<!-- cna I like the film Matrix to this?-->
-
-- **Network Infrastructure**: This includes all the equipment necessary to provide internet connectivity, such as routers, switches, and transmission lines.
-
-- **End-user Devices**: Personal computers, smartphones, and other digital devices also contribute to energy consumption.
-
-### Carbon Footprint of the Digital World
-
-The energy consumed by these components often comes from non-renewable sources<!--check-->, thereby contributing to carbon emissions and climate change. Moreover, the production and disposal of hardware devices also have an environmental impact, due to the use of non-renewable resources and the generation of electronic waste.<!--check-->
-
-### Impact of Increasing Transistor Counts
-
-The trend of increasing transistor counts in devices (known as Moore's Law) has led to more powerful and energy-efficient devices. However, it also means that devices become obsolete faster, leading to increased electronic waste. Furthermore, the manufacturing process of transistors is energy-intensive and has a significant carbon footprint.
-
-### Looking Ahead: Sustainability in the Digital World
-
-As we move forward, it becomes increasingly important to consider the environmental aspects of the digital world. Topics like energy-efficient computing, sustainable manufacturing practices, and e-waste management are becoming central to discussions about the future of technology.
-
-<br>
-
-## 6. Ownership and Control
-
-#### Ownership of Digital Communication Components
-
-The physical components of digital communication – such as servers, data centers, and network infrastructure – are typically owned by private companies. These include internet service providers (ISPs), telecommunications companies, and tech giants like Google and Amazon.
-
-This ownership has significant implications. For instance, these entities can control what content is accessible, how fast data travels<!--how do they do that?-->, and how much it costs to access the internet. They also have a responsibility to protect the data that passes through their networks.
-
-#### Role of the European Network and Information Systems Agency (ENISA)
-
-ENISA plays a crucial role in regulating access to these components within the European Union. The agency works to ensure a high level of network and information security across the EU. This includes setting standards for cybersecurity, providing guidance on best practices, and coordinating responses to major cyber threats.<!--but?-->
-
-#### Link to Cyber Crime and Darknet
-
-The control over physical infrastructure also has a direct impact on cybersecurity. For example, if an entity with malicious intent gains control over a part of the infrastructure, they could potentially intercept or manipulate data. This ties in with the "Cyber Crime and Darknet" presentation, highlighting the importance of robust cybersecurity measures in protecting digital communication systems.<!-- add link later -->
-
-<br>
-
-## 7. Risks and Threats
-
-### Potential Risks to Underwater Cables
-
-Underwater cables, which carry the majority of the world's data, face a variety of risks. These include:
-
-- **Human Accidents:** Ships' anchors and fishing activities can accidentally damage these cables. Construction or drilling projects near the coastlines can also pose a risk.
-
-- **Natural Events:** Earthquakes, tsunamis, and landslides under the sea can disrupt or damage the cables. Marine life, such as sharks, have been known to bite cables, causing damage.
-
-Several incidents in the past highlight these risks:
-
-- In 2006, an earthquake off the coast of Taiwan disrupted several undersea internet cables, significantly affecting internet access in Asia.
-  
-- In 2008, damaged undersea cables in the Mediterranean disrupted internet service in parts of the Middle East and India.
-  
-- In 2013, three scuba divers were arrested off the coast of Egypt for attempting to cut through an undersea cable, which could have severely disrupted internet services.
-
-<br>
-
-## 8. Surveillance and Privacy
-
-### Evolution of Surveillance
-
-Surveillance has evolved significantly over the years:
-
-- **Traditional Methods:** Originally, surveillance was conducted through physical means such as post, mail, and phone monitoring. These methods, while effective, were labor-intensive and time-consuming.
-
-- **Digital Methods:** With the advent of the internet, surveillance has shifted to digital platforms. Emails, internet browsing history, and social media accounts can now be monitored more efficiently and on a much larger scale.
-
-### Role of Data Centers and Servers
-
-Data centers play a critical role in this digital infrastructure. They house servers that store and process vast amounts of data. Every click, every search, every post we make is stored and processed in these servers.
-
-### Geolocation of Data Centers
-
-The location of data centers can have significant implications:
-
-- **User Experience:** A data center located closer to the user can provide faster data access and better service.
-
-- **Legal Aspects:** Different countries have different laws regarding data privacy and surveillance. The location of the data center can affect which laws apply to the data stored there.
-
-### Connection to "Artificial Intelligence and Big Data" 
-
-In the context of Artificial Intelligence (AI) and Big Data, this digital infrastructure facilitates massive data collection and analysis. Our online activities generate data that feeds into AI algorithms, enabling them to learn and improve. However, this also raises important questions about privacy and the extent of surveillance that is acceptable in our society.
-
-<br>
-
-
+Examples of these protocols include HTTP (Hypertext Transfer Protocol), HTTPS (HTTP Secure), FTP (File Transfer Protocol), and many others.
 
 <!--
+     - Dial-Up: This is one of the oldest methods where data is transmitted through a phone line.
+     - ISDN (Integrated Services Digital Network): This system transmits digital data over traditional copper telephone lines.
+     - DSL (Digital Subscriber Line): A technology for bringing high-bandwidth information to homes and small businesses over ordinary copper telephone lines.
+     - Cable Modem: This provides internet service via the same coaxial cable your cable TV service might come in.
+     - Fiber Optic Cables: Transmits data as light signals at very high speeds. These are often used for long-distance communication.
+     - Satellite: An alternative especially in areas where other types of connections like cable or DSL are not available.
+     - Wireless or Wi-Fi: This allows devices to connect to the Internet without needing physical wires.
+     - Cellular Networks (3G, 4G, 5G): These networks use mobile phone signals to connect to the internet.
+     - Broadband over Power Lines (BPL): Delivers internet access via existing electric power lines.
+     - Undersea Cables: These are fiber optic cables laid under the sea, connecting different continents.
+-->
 
+### What is Cybersecurity?
+
+In the context of cybersecurity, protocols play a crucial role in protecting information as it travels across the network. For example, HTTPS uses encryption to secure the data during transmission, making it more difficult for hackers to intercept and decipher the information.
+
+Example: When you visit a website that uses HTTPS (as indicated by the lock icon in your browser's address bar), your communication with the site is encrypted to protect it from eavesdropping or tampering.
+
+Hackers often attempt to exploit vulnerabilities in protocols to gain unauthorized access to systems or data. Understanding how protocols work can help in implementing effective countermeasures to prevent such attacks.
+
+Example: A hacker might try to perform a "man-in-the-middle" attack, where they intercept and potentially alter communication between two parties without their knowledge. Secure protocols like HTTPS can help prevent these types of attacks.
+
+### What are Virtual Private Networks (VPNs)?
+
+Virtual Private Networks (VPNs) use protocols to create a secure tunnel between your device and the server you're connecting to. This provides an additional layer of security, especially when using public Wi-Fi networks, which are often less secure.
+
+Example: If you're connected to a public Wi-Fi network and you use a VPN, your online activity is hidden from potential eavesdroppers on the same network. Your data is encrypted and sent through a secure tunnel to the VPN server, shielding it from anyone else on the network. <!-- add Nord referral? -->
+
+In conclusion, protocols are not just about ensuring correct data transmission; they also play a critical role in maintaining the security and privacy of online communications.
+
+### What are Real, Augmented, and Virtual Realities, the Cyberspace?
+
+In the context of digital technology, **real reality**, **augmented reality**, and **virtual reality** represent different levels of interaction between humans and the digital world. **Real reality** refers to our physical world as we perceive it through our senses. This experience is enhanced in **augmented reality**, which overlays digital information onto our real-world surroundings, enriching what we see, hear, feel, and smell. On the other hand, **virtual reality** offers a fully immersive digital experience, enabling users to interact with an entirely artificial environment. A term '**cyberspace**', coined by science fiction writer William Gibson, cyberspace refers to the digital universe created by networked computers. It encompasses a broad range of augmented and virtual experiences and environments and various forms of digital communication.[^hyperspace]
+
+[^hyperspace]: Cyberspace is literature is not the same as **hyperspace**. Hyperspace is a concept from science fiction,  cutting-edge theoretical physics and can also be linked to esoteric or psychedelic studies. It's often depicted as a parallel universe or an alternate dimension that can be used for faster-than-light travel, to communicate with alien beings. In theoretical physics, hyperspace theories suggest additional dimensions beyond our familiar three-dimensional reality.
+
+<br>
+
+## Footnotes
+
+<!--
+First draft: 
 
 What are the milestones in the history of the Internet? Include Arpanet, Email, WWW, Blogger, Wikipedia, Facebook, Flickr, Youtube, Twitter, first internet cafes, Google, ...
 

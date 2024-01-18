@@ -46,9 +46,9 @@ Use search engines to locate relevant literature (adjust publication date ranges
 1. [University's digital library](https://library.essex.ac.uk/home)
 2. [Google Scholar](https://scholar.google.com/)
 3. [Academia](https://www.academia.edu/) and [ResearchGate](https://www.researchgate.net/)
-6. [Litmaps](https://app.litmaps.co/) can join the dots between scientific papers.
-7. [Scispace](https://typeset.io).
-8. [List of ranked journals](https://listofjournals.com/) with additional filters.
+6. [Litmaps](https://app.litmaps.co/) can join the dots between scientific papers
+7. [Scispace](https://typeset.io)
+8. [List of ranked journals](https://listofjournals.com/) with additional filters
 9.  YouTube, Google, Wikipedia, Netflix, etc.
 10. Audio-only podcasts
 
