@@ -6,7 +6,9 @@ description: Learn about password management, including creating strong password
 keywords: password management, strong passwords, password security, password complexity, password length, password manager
 ---
 
-# Navigating the Digital World: From Basics to Mastery
+# Navigating the Digital World
+
+From Basics to Mastery
 
 This platform is designed to assist those eager to thrive in our increasingly interconnected digital landscape. Whether you're a dedicated university student or simply curious about the complexities of our digital world, this site is here to guide you.
 

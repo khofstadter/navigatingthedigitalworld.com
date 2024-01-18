@@ -29,28 +29,28 @@ What exactly makes up this 'digital world'?
 
 What is its physical essence?
 
-When we talk about the 'digital world', it's easy to imagine it as a sort of ethereal, otherworldly, virtual dimension that exists separately from our physical reality. A realm where information flows freely, unhindered by physical constraints. However, the truth is far from this. 
+When we talk about the 'digital world', it's easy to imagine it as a sort of otherworldly, virtual dimension that exists separately from our physical reality. However, the truth is far from this. 
 
 The digital world is deeply rooted in the physical world. It is built on tangible, material infrastructure, linking machines (computers) between
-  1. data (server) centers (which provide service) and 
+  1. data and server centers (which provide service) and 
   2. client computers (which access service) with 
-  3. different types of wired and wireless connections.
+  3. different types of wired and wireless connections
 
-Understanding the physicality of the digital world helps understand  
-- how data (digits) travel
+Understanding the physicality of the digital world can help understand  
+- how data travels
 - how devices communicate
 - how the internet works
 - how our actions in the real-world can have have consequences in the digital world (or the other way around)
 - how our digital activities impact the environmental
 - the geopolitics of internet access
-- the societal implications of digital technologies.
+- the societal implications of digital technologies
 
 This page briefly outlines 
 1. types of human communication
 2. the history of the internet
 3. the physical components that make up the digital world
 
-This page should set the stage for the [rest of the presentations](cs220/cs220sp#syllabus-outline) in this module, each of which will delve deeper into specific aspects of our digital lives.
+The page should set the stage for the [rest of the presentations](cs220/cs220sp#syllabus-outline) in this module, each of which will delve deeper into specific aspects of our digital lives.
 
 <br> 
 
@@ -97,7 +97,7 @@ The **digital world is created from digits** rather than analogue signals for se
 
 <!-- I need to make sure we don't think all digit signals look like waves -->
 
-12 (Decimal) = `1100` (Binary)
+12 (Decimal) = `1100` (Binary, 4-bit information)
 
 | Binary digit (on/off) | Power of 2 | Calculation |
 | ------------ | ---------- | ----------- |
@@ -110,9 +110,9 @@ The **digital world is created from digits** rather than analogue signals for se
 
 <br>
 
-39 (Decimal) = `100111` (Binary)
+39 (Decimal) = `100111` (Binary, 6-bit information)
 
-| Binary digit | Power of 2 | Calculation |
+| Binary digit (on/off) | Power of 2 | Calculation |
 | ------------ | ---------- | ----------- |
 | 1            | 2^5        | 1 * 2^5 = 32 |
 | 0            | 2^4        | 0 * 2^4 = 0  |
@@ -125,37 +125,49 @@ The **digital world is created from digits** rather than analogue signals for se
 
 <br>
 
-The digital world, in essence, is a vast ecosystem connecting technologies, platforms, and systems. At its core, this ecosystem is built upon **software** and **data**. Software, the set of instructions or programs that dictate how a computer should perform a task, and data, the valuable information that serves as input for these tasks, work hand-in-hand to shape the digital landscape as we know it.[^terms-interchange]
+But if your system uses 6-bit information (data), the binary digit for your number 12 (Decimal) would be different: 
+
+12 (Decimal) = `001100` (Binary, 6-bit information)
+
+| Binary digit (on/off) | Power of 2 | Calculation |
+| --------------------- | ---------- | ----------- |
+| 0                     | 2^5        | 0 * 2^5 = 0 |
+| 0                     | 2^4        | 0 * 2^4 = 0 |
+| 1                     | 2^3        | 1 * 2^3 = 8 |
+| 1                     | 2^2        | 1 * 2^2 = 4 |
+| 0                     | 2^1        | 0 * 2^1 = 0 |
+| 0                     | 2^0        | 0 * 2^0 = 0 |
+
+
+<br>
+
+The digital world, in essence, is a vast ecosystem connecting technologies, platforms, and systems. At its core, this ecosystem is built upon **software** and **raw data**. Software, the set of instructions or programs that dictate how a computer should perform a task, and data, the valuable information that serves as input for these tasks, work hand-in-hand to shape the digital landscape as we know it.[^terms-interchange]
 
 
 
 
-                        +-----------------------+
-                        |       Digital         |
-                        |        World          |
-                        +-----------------------+
-                              /       |      \
-                             /        |       \
-                            /         |        \
-                           /          |         \
-                          /           |          \
-                         /            |           \
-                        /             |            \
-                       /              |             \
-                      /               |              \
-                     /                |               \
-                    /                 |                \
-          +---------------+     +--------------+    +-------------+
-          |  Technologies  |     |   Platforms   |    |  Systems   |
-          +---------------+     +--------------+    +-------------+
-             /    |    \            /     |     \        /    |   \
-            /     |     \          /      |      \      /     |    \
-           /      |      \        /       |       \    /      |     \
-          /       |       \      /        |        \  /       |      \
-         /        |        \    /         |         \/        |       \
+                        +--------------------------------+
+                        |              Digital           |
+                        |               World            |
+                        +--------------------------------+
+                              /       |      \           \
+                             /        |       \           \
+                            /         |        \            \
+                           /          |         \            \
+                          /           |          \            \
+                         /            |           \            \
+                        /             |            \             \
+                       /              |             \              \
+                      /               |              \              \
+                     /                |               \               \
+                    /                 |                \               \
+          +---------------+     +--------------+    +-------------+   +-----------+
+          |  Technologies  |     |   Platforms   |    |  Systems   |   | Raw Data  |
+          +---------------+     +--------------+    +-------------+   +-----------+
 
 
-[^terms-interchange]: It's important to note that terms such as 'technologies', 'platforms', and 'systems' can often be interchangeable and context-dependent. They may convey similar meanings in different scenarios. Therefore, refrain from viewing the aforementioned classification as an absolute one.
+
+[^terms-interchange]: It's important to note that terms such as 'technologies', 'platforms', and 'systems' can often be interchangeable and context-dependent. They may convey similar meanings in different scenarios. Therefore, refrain from viewing the aforementioned classification as an absolute one. For instance, Yes, software can be considered as data. In the broad context of computing, data is any piece of information that can be processed by a computer. Software, which consists of lines of code and instructions for the computer to follow, certainly fits this definition.
 
 For instance, technologies like Artificial Intelligence (AI), Machine Learning (ML), and Blockchain have revolutionized various sectors from healthcare to finance. Platforms such as social media sites (like Facebook, Instagram, and Twitter), streaming services (like Netflix and Spotify), and e-commerce marketplaces (like Amazon and eBay) have changed the way we interact, consume content, and shop. Systems like cloud computing infrastructures and database management systems are integral parts of businesses and organizations.
 
@@ -165,15 +177,17 @@ One of the most significant aspects of the digital world is the Internet. The In
 
 ## History of the Internet
 
-Understanding the origin of the Internet will provide us with valuable insights into how it has grown to become the technology that it is today.
+Understanding the history of the Internet can provide us with valuable insights into how it has grown to become the technology that it is today.
 
 ### Early Beginnings
 
-The story of the internet begins in the late 1960s with the creation of **ARPANET (Advanced Research Projects Agency Network)** by the U.S. Department of Defense. ARPANET was the first network to implement the protocol suite TCP/IP, which became the technical foundation of the modern internet. <!-- what other protocols are there since then? -->
+The story of the internet begins in the late 1960s with the creation of **ARPANET (Advanced Research Projects Agency Network)** by the U.S. Department of Defense. ARPANET was the first network to implement the TCP protocol, which became the technical foundation of the modern internet. <!-- what other protocols are there since then? -->
+
+- **TCP (Transmission Control Protocol)** takes messages from an server/client and divides them into packets, which can then be forwarded by the devices in the network.
 
 ### Birth of the World Wide Web
 
-The next significant milestone came in 1989 when a British computer scientist named Tim Berners-Lee proposed a system that made the internet more accessible and useful. He called this system the **World Wide Web (WWW)**. It was a revolutionary development that allowed documents and pages to be linked using hyperlinks.
+The next significant milestone came in 1989 when a British computer scientist named Tim Berners-Lee proposed a system that made the internet more accessible and useful. He called this system the **World Wide Web (WWW)**. It was a revolutionary development that allowed documents and pages to be linked using [hyperlinks](https://www.w3schools.com/html/html_links.asp).
 
 ### Growth and Expansion
 
@@ -182,6 +196,10 @@ Throughout the 1990s and early 2000s, the internet saw exponential growth. The a
 ### The Modern Internet
 
 Today, the internet continues to evolve at a rapid pace. With advancements in cloud computing, the Internet of Things (IoT), and artificial intelligence, our world is becoming increasingly connected. We now live in an era where we can access information, communicate with people across the globe, and perform countless tasks online, all thanks to the internet. <!-- Flag that there are threats as well. -->
+
+More information can be found on [https://internethistory.org/](https://internethistory.org/) e.g. infographics like the figure below. 
+
+![Internet History Timeline between 1958–2019](https://internethistory.org/wp-content/uploads/2020/01/InternetHistory_Timeline_003.png)
 
 ### The Structure of The Modern Internet
 
