@@ -9,6 +9,8 @@ keywords: digital-world
 
 # The Physicality of the Digital World
 
+Last updated on 22 Jan. <!-- should I add a link to the GitHub repo here? Can I generate this date? -->
+
 ![Futuristic image of a human connected to machines with cables.](../assets/img/2024-01-17-matrix-film-machine-connections-cables-darkness-city.jpg)
 
 {: .no_toc }
@@ -220,7 +222,9 @@ Data serves as the lifeblood of software. It can be generated or inputted by use
 
 ### How does the Internet connect servers and clients?
 
-The Internet, facilitated by ISPs like Virgin Media, AOL, or Sky, acts as a global highway, connecting data centers (servers) and clients (our devices). These connections can be established through various wired or wireless technologies with different communication protocols.
+The Internet, facilitated by ISPs like Virgin Media, AOL, or Sky, acts as a global highway, connecting data centers (servers) and clients (our devices). These connections can be established through various wired or wireless technologies with different communication protocols. 
+
+https://www.submarinecablemap.com/
 
 ### Do servers (data centers) have data and software?
 
@@ -255,6 +259,36 @@ Examples of these protocols include HTTP (Hypertext Transfer Protocol), HTTPS (H
      - Broadband over Power Lines (BPL): Delivers internet access via existing electric power lines.
      - Undersea Cables: These are fiber optic cables laid under the sea, connecting different continents.
 -->
+
+#### Sending and email from the UK to US
+
+1. Creation of the Email: The sender in the UK composes an email on their device and hits send. This message is then converted into packets of data for transmission over the internet.
+
+`User (UK) ---> [Email Data Packets]`
+
+2. ISP Network: These data packets are first sent through the sender's Internet Service Provider (ISP) network in the UK (e.g BT Group, Virgin Media, Sky Broadband or TalkTalk)
+
+`[Email Data Packets] ---> ISP (UK)`
+
+1. Internet Exchange Point (IXP): The ISP then routes these packets to an Internet Exchange Point (IXP) e.g. LINX (London Internet Exchange), IXLeeds, MANAP (Manchester Network Access Point in the UK). This IXP serves as a hub where different ISPs can exchange traffic.[^IXPvsISP]
+
+`ISP (UK) ---> IXP (UK)`
+
+4. Transatlantic Cable: From the IXP, the data packets are sent via [undersea fiber-optic cables](https://www.submarinecablemap.com/) that connect the UK and America. These cables carry vast amounts of data across the ocean floor.
+
+`IXP (UK) ---> Undersea Cable ---> IXP (USA)`
+
+5. Recipient's ISP Network: Once in America, the data packets reach another IXP, which then routes them to the recipient's ISP.
+
+`IXP (USA) ---> ISP (USA)`
+
+6. Recipient's Device: Finally, the ISP delivers the data packets to the recipient's device, where they are reassembled into the original email message.
+
+`ISP (USA) ---> User (USA) [Reassembled Email]`
+
+This entire process happens within seconds, demonstrating the efficiency and complexity of global internet infrastructure.
+
+[^IXPvsISP]: ISPs and IXPs serve different functions. ISPs connect end users to the internet, while IXPs connect ISPs to each other.
 
 ### What is Cybersecurity?
 
@@ -324,8 +358,6 @@ https://www.itu.int/en/about/Pages/default.aspx
 
 What part of the digital world uses the most energy (i.e. where is the most carbon footprint generated)? 
 
-https://www.mctd.ac.uk/blue-solutions-to-greening-the-internet/
-
 https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003176497-13/disaggregated-footprints-nicole-starosielski-hunter-vaughan-anne-pasek-nicholas-silcox
 
 https://www.datacenterdynamics.com/en/news/drought-stricken-holland-discovers-microsoft-data-center-slurped-84m-liters-of-drinking-water-last-year/
@@ -343,7 +375,6 @@ https://committees.parliament.uk/publications/31752/documents/178214/default/
 https://www.theregister.com/2021/02/12/supermicro_bloomberg_spying/
 
 https://www.theguardian.com/environment/2021/sep/18/semiconductor-silicon-chips-carbon-footprint-climate
-
 
 Who owns the physical parts of digital communication? Are they state-owned or private company owned? 
 
