@@ -28,12 +28,15 @@ ASH: Thu 15–16 in 5B.109
 Week 23 is reading week, no seminars or lectures. 
 
 ## Module description
+
 This page expands on the university's [module descriptions](https://github.com/khofstadter/CS220AU-DP/tree/main/assets).
 
 The Module Director organizes weekly sessions for weeks 16–22 and 24–25. Each session consists of a one-hour lecture plus a one-hour seminar for discussion. The lectures are given by different experts on a specific topic linked to the module (e.g., digital heritage, social networks, gender inequality, AI and cybercrime). The seminars to discuss the lectures will occur a week after the lecture, you will have a whole week to prepare for the discussion. 
 
 ## Assignment
+
 ### Brief and research domains
+
 Throughout the term, you will be asked to choose a research question from a given list (see below) and answer it in written form (i.e., in an essay). By your deadline, you will need to submit your essay using an [accessible PDF](https://www.adobe.com/acrobat/hub/what-is-an-accessible-pdf.html) file on FASER.
 
 Deadline: 24 April 12pm (2000 words for level 4; 3000 words for level 5)
@@ -71,10 +74,13 @@ Other research questions are possible, however will need to be discussed with th
 | w25  | Summary, final thoughts |
 
 ## Essay examples
+
 One example uploaded to Moodle. Can give you more if needed. Remember, you need to submit an accessible PDF, not a Microsoft Word document. 
 
 ## Week 16
-### Seminar 
+
+### Seminar
+
 Introduction to the module. 
 - Moodle (link to this page)
 - this webpage
@@ -83,6 +89,7 @@ Introduction to the module.
 - maybe start the lecture if we have time
 
 ### Lecture
+
 [The Physicality of the Digital World](../physicality-of-the-digital-world)
 
 ### Homework
@@ -95,7 +102,7 @@ Here some ideas:
 
 **1. Energy Consumption and Carbon Footprint**: Digital devices and the data centers that support them consume a significant amount of energy, contributing to the overall demand for electricity, much of which is still produced from fossil fuels. This use of digital technologies not only increases energy consumption but also contributes to the global carbon footprint. This includes everything from the energy used to power data centers to the emissions produced during the manufacture of devices.
 
-Nicole Starosielski et al (2023) highlights:
+Nicole Starosielski et al (2023) highlight:
 
 How much energy is used and where is complex: 
 
@@ -200,10 +207,16 @@ Overall, the creation and distribution of hardware is a complex process that is 
 
 ## Week 17
 ### Seminar 
-Discuss last week's lecture and homework.
+- [Listen Again](https://listenagain.essex.ac.uk) work.
+- I have slightly reorganized [Moodle](https://moodle.essex.ac.uk/) and its reading list, but please continue to use this website as your primary source of information.
+- Does anyone have any questions?
+- Who has not read Nicole Starosielski et al (2023)?
+- How can you connect the ideas from last week's lecture and this paper to the [list of research questions](#brief-and-research-domains) from which you were asked to choose for your essay?
+- Can you conceptualize layers of society when it comes to these connections (e.g., how can it be linked to your life (personal or professional) or your demographic group first (e.g. age, gender, race/ethnicity, education level, income level, occupation, geographical location)? It's a good idea to initially contemplate how anything you read about could affect you now or in the future. Ask yourself the question, why does any of what I read matter?
+
 
 ### Lecture
-Digital Heritage (Dr. Paola Di Giuseppantonio Di Franco)
+Digital Heritage ([Dr. Paola Di Giuseppantonio Di Franco](https://uk.linkedin.com/in/paola-di-giuseppantonio-di-franco-74841213))
 
 ## References
 
