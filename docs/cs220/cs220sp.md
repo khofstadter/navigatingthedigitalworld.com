@@ -206,18 +206,22 @@ Overall, the creation and distribution of hardware is a complex process that is 
 - Silberman, Neil. "Chasing the unicorn?" New heritage: new media and cultural heritage (2007). Available online at [ResearchGate](https://www.academia.edu/26548710/Chasing_the_Unicorn_The_Quest_for_Essence_in_Digital_Heritage?sm=b). 
 
 ## Week 17
-### Seminar 
-- [Listen Again](https://listenagain.essex.ac.uk) work.
+### Seminar
+- [Listen Again](https://listenagain.essex.ac.uk) works.
 - I have slightly reorganized [Moodle](https://moodle.essex.ac.uk/) and its reading list, but please continue to use this website as your primary source of information.
 - Does anyone have any questions?
 - Who has not read Nicole Starosielski et al (2023)?
-- How can you connect the ideas from last week's lecture and this paper to the [list of research questions](#brief-and-research-domains) from which you were asked to choose for your essay?
-- Can you conceptualize layers of society when it comes to these connections (e.g., how can it be linked to your life (personal or professional) or your demographic group first (e.g. age, gender, race/ethnicity, education level, income level, occupation, geographical location)? It's a good idea to initially contemplate how anything you read about could affect you now or in the future. Ask yourself the question, why does any of what I read matter?
-
+- How can you connect the ideas in this paper (and last week's lecture) to the [list of research questions](#brief-and-research-domains) from which you were asked to choose for your essay?
+- Can you conceptualize layers of society when it comes to these connections? 
+  - You, your personal or professional life.
+  - Your family and friends. 
+  - Your demographic groups (e.g. age, gender, race/ethnicity, education level, income level, occupation, geographical location)?
+- It's a good idea to initially contemplate how anything you read about could affect you now or in the future. Ask yourself the question, why does any of what I read matter? How is it linked to me?
+- Why is it important to know how our digital lives impact our environment?
+- How could these environmental effects be connected to my current or future self?
 
 ### Lecture
 Digital Heritage ([Dr. Paola Di Giuseppantonio Di Franco](https://uk.linkedin.com/in/paola-di-giuseppantonio-di-franco-74841213))
 
 ## References
-
 Starosielski, Nicole, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox. "Disaggregated Footprints: An Infrastructural Literacy Approach to the Sustainable Internet." In The Routledge Handbook of Ecomedia Studies, pp. 111-118. Routledge, 2023. Available online at [taylorfrancis.com](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003176497-13/disaggregated-footprints-nicole-starosielski-hunter-vaughan-anne-pasek-nicholas-silcox)
