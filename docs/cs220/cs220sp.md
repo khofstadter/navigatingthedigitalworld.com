@@ -45,16 +45,16 @@ After the last week together (week 25; Thu 21 March) you will have around one mo
 
 The list of research questions you must choose from for your essay:
 
-- How does social media impact self-representation and identity?
-- What is the importance of social networks?
-- Are digital technologies a threat to democracy?
-- To what extent do hackers represent a threat and/or an opportunity for democracy?
-- What is the relationship between open science and the democratization of e-knowledge?
-- How is AI impacting education?
-- Why does the digital world need to be gendered?
-- To what extent is online surveillance a 'necessary evil'?
-- How can we use digital technologies to protect and promote human rights and justice?
-- What are the legal and political aspects of cybercrime?
+1. How does social media impact self-representation and identity?
+2. What is the importance of social networks?
+3. Are digital technologies a threat to democracy?
+4. To what extent do hackers represent a threat and/or an opportunity for democracy?
+5. What is the relationship between open science and the democratization of e-knowledge?
+6. How is AI impacting education?
+7. Why does the digital world need to be gendered?
+8. To what extent is online surveillance a 'necessary evil'?
+9. How can we use digital technologies to protect and promote human rights and justice?
+10. What are the legal and political aspects of cybercrime?
 
 Other research questions are possible, however will need to be discussed with the module director before the end of week 23. 
 
@@ -228,7 +228,15 @@ Digital Heritage ([Dr. Paola Di Giuseppantonio Di Franco](https://uk.linkedin.co
 - Library sessions
 ### Lecture
 - Does anyone have any questions about the assignment?
-- What was the most interesting part of Paola's presentation last week? Can it be connected to any of the set research questions or help you write a new research question?
+- What was the most interesting part of Paola's presentation last week? Can it be connected to any of the set list of research questions or help you write a new research question?
+### Homework
+1. Look at the research questions and select the ones you think you personally are most interested in. (This step encourage you to choose a research question that aligns with your personal interests. It's important to be engaged and motivated while conducting a literature review.)
+2. Make a list of keywords linked to the research question and add module-specific ones if they are missing, e.g., 'the digital world'. (This step emphasizes the importance of identifying relevant keywords so you don't get sidetracked.)
+3. Use your keywords with search engines and find relevant literature by reading the title, the abstract, and keywords (if there are any) linked to the publication. (By reading the title, abstract, and keywords of publications, you can quickly assess their relevance to your research question.)
+4. Select 50 relevant ones (which can be a book, paper, book chapter, or online article). Try to find recent, up-to-date, peer-reviewed papers that are systematic overviews (reviews) of the field or a field within your interdisciplinary research. (This step provides a specific target for you to aim for in terms of the number of relevant publications you should find. The emphasis on recent peer-reviewed papers and systematic overviews ensures the quality and comprehensiveness of the literature selected.)
+5. Skim read your preselected publication and make notes (e.g., add specific keywords, paraphrase sections, and link them (integrate them) into your knowledge of what you already know). (This step promotes active engagement with the literature.)
+6. Make a diagram of the ideas connected in your literature review to see where the connections are strong or weak. (This step encourages critical thinking and helps you organize your thoughts.)
+7. Prepare to discuss your findings in the seminar next week in groups. (Group discussions foster collaboration and allow you to share insights and perspectives.) No need to present anything in front of the class, no stress. 
 
 ## References
 Starosielski, Nicole, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox. "Disaggregated Footprints: An Infrastructural Literacy Approach to the Sustainable Internet." In The Routledge Handbook of Ecomedia Studies, pp. 111-118. Routledge, 2023. Available online at [taylorfrancis.com](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003176497-13/disaggregated-footprints-nicole-starosielski-hunter-vaughan-anne-pasek-nicholas-silcox)
