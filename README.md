@@ -5,17 +5,8 @@ This README.md file provides a brief overview to the project, a task list and lo
 The website hosted in this repository originated from the 'Navigating the Digital World' module, which I have been teaching from 2021 to 2024 at the University of Essex. From 2021 to 2022, the content now present on the website was simply added to Markdown files within the repository. In September 2023, I started using the 'Just The Docs' Jekyll theme to enhance the user experience.
 
 ## Tasks
-1. provide final feedback on student's work before they submit
-2. prepare w16 lecture with the running title  "The Pyhsicality of the Digital World"
-3. organize presenters for w17, w21 and w24
-   1. search relevant people e.g. 
-      - https://www.essex.ac.uk/people/VALEN80000/elia-valentini
-      - https://www.essex.ac.uk/people/HUGHE78004/gethin-hughes
-      - Jane/Elisif
-      - someone like Schmachtenberger
-      - someone from PPS
-      - someone from Computer Science 
-4. organize time for demonstrating the making of an accessible PDF
+1. write up notes on Digital Heritage
+2. organize time for demonstrating the making of an accessible PDF
 
 ### CS220AU next year
 - get in touch with Dave and ask for references, discussions on why students should be encouraged to publish their work online on their websites?

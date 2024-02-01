@@ -223,5 +223,12 @@ Overall, the creation and distribution of hardware is a complex process that is 
 ### Lecture
 Digital Heritage ([Dr. Paola Di Giuseppantonio Di Franco](https://uk.linkedin.com/in/paola-di-giuseppantonio-di-franco-74841213))
 
+## Week 18
+### Seminar
+- Library sessions
+### Lecture
+- Does anyone have any questions about the assignment?
+- What was the most interesting part of Paola's presentation last week? Can it be connected to any of the set research questions or help you write a new research question?
+
 ## References
 Starosielski, Nicole, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox. "Disaggregated Footprints: An Infrastructural Literacy Approach to the Sustainable Internet." In The Routledge Handbook of Ecomedia Studies, pp. 111-118. Routledge, 2023. Available online at [taylorfrancis.com](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003176497-13/disaggregated-footprints-nicole-starosielski-hunter-vaughan-anne-pasek-nicholas-silcox)
