@@ -220,7 +220,7 @@ Overall, the creation and distribution of hardware is a complex process that is 
 - Why is it important to know how our digital lives impact our environment?
 - How could these environmental effects be connected to my current or future self?
 
-### Lecture
+### Guest Lecture
 Digital Heritage ([Dr. Paola Di Giuseppantonio Di Franco](https://uk.linkedin.com/in/paola-di-giuseppantonio-di-franco-74841213))
 
 ## Week 18
@@ -237,6 +237,20 @@ Digital Heritage ([Dr. Paola Di Giuseppantonio Di Franco](https://uk.linkedin.co
 5. Skim read your preselected publication and make notes (e.g., add specific keywords, paraphrase sections, and link them (integrate them) into your knowledge of what you already know). (This step promotes active engagement with the literature.)
 6. Make a diagram of the ideas connected in your literature review to see where the connections are strong or weak. (This step encourages critical thinking and helps you organize your thoughts.)
 7. Prepare to discuss your findings in the seminar next week in groups. (Group discussions foster collaboration and allow you to share insights and perspectives.) No need to present anything in front of the class, so no stress. :-) 
+
+## Week 19
+### Seminar
+- Any questions?
+- How are you getting on with your essays?
+#### Speed dating :)
+- Group activity reviewing each other's progress with a round-robin AKA rotation method. 
+  - Consider using the list in the homework section for week 18 above.
+  - Make sure you don't only ask closed questions for which the answers often simple are 'yes' or 'no'. A key concept here is to learn to become good listeners by using open-ended questions starting with the words ‘what’, ‘when’, ‘which’, 'why' and ‘how’.
+  - Take notes while reviewing others' progress.
+  - At the end, we will spend a few minutes summarizing everyone's progress and provide suggestions if needed. 
+
+### Guest lecture
+- Gendering the Digital World by [Dr. Lisa Smith](https://www.essex.ac.uk/people/smith62403/lisa-smith). 
 
 ## References
 Starosielski, Nicole, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox. "Disaggregated Footprints: An Infrastructural Literacy Approach to the Sustainable Internet." In The Routledge Handbook of Ecomedia Studies, pp. 111-118. Routledge, 2023. Available online at [taylorfrancis.com](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003176497-13/disaggregated-footprints-nicole-starosielski-hunter-vaughan-anne-pasek-nicholas-silcox)
