@@ -20,8 +20,8 @@ permalink: /docs/cs220/cs220sp
 
 ## CS220SP timetable
 
-Seminar 1: Thu 10–11am in 5A.106 (except week 18)    
-Seminar 2: Thu 12–13pm in 5A.118 (except week 18)    
+Seminar 1: Thu 10–11am in 5A.106 (except week 18 and week 24)    
+Seminar 2: Thu 12–13pm in 5A.118 (except week 18 and week 24)    
 Lecture: Thu 14–15pm in CTC.2.05  
 ASH: Thu 15–16 in 5B.109  
 
@@ -64,14 +64,16 @@ Other research questions are possible, however will need to be discussed with th
 |------|---------------------------|
 | w16  | Module Introduction and The Physicality of the Digital World (Dr. Krisztián Hofstädter) |
 | w17  | Digital Heritage (Dr. Paola Di Giuseppantonio Di Franco) |
-| w18  | Library (practical session in seminars) (Dr. Esther Wilkinson) |
+| w18 seminar | Library (practical session in seminars) (Dr. Esther Wilkinson) |
+| w18 lecture | How to link research questions to your lectures notes? (Dr. Krisztián Hofstädter) |
 | w19  | Gendering the Digital World (Dr. Lisa Smith) |
 | w20  | The Hacker Ethic: Roots, history and techno-cultural ideology (Dr. Audrey Guinchard) |
 | w21  | Artificial Intelligence and Big Data: the new frontiers of living in a digital world (Dr. Spyros Samothrakis) |
 | w22  | Cyber Crime and Darknet (Dr. Audrey Guinchard) |
 | w23  | Reading Week (no classes) |
-| w24  | Sensemaking and critical thinking (Dr. Krisztián Hofstädter) |
-| w25  | Summary, final thoughts |
+| w24 seminar | Using AI Tools Ethically (Oona Ylinen) held in the library |
+| w24 lecture | More on USing AI Tools Ethically (Dr. Krisztián Hofstädter) |
+| w25  | Sensemaking and critical thinking (Dr. Krisztián Hofstädter) |
 
 ## Essay examples
 
@@ -250,7 +252,15 @@ Digital Heritage ([Dr. Paola Di Giuseppantonio Di Franco](https://uk.linkedin.co
   - At the end, we will spend a few minutes summarizing everyone's progress and provide suggestions if needed. 
 
 ### Guest lecture
-- Gendering the Digital World by [Dr. Lisa Smith](https://www.essex.ac.uk/people/smith62403/lisa-smith). 
+- Gendering the Digital World by [Dr. Lisa Smith](https://www.essex.ac.uk/people/smith62403/lisa-smith).
+
+## Week 20
+### Seminar
+- Any questions?
+- How are you getting on with your essays?
+
+### Guest lecture
+- The Hacker Ethic: Roots, history and techno-cultural ideology by [Prof. Audrey Guinchard](https://www.essex.ac.uk/people/guinc18306/audrey-guinchard)
 
 ## References
 Starosielski, Nicole, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox. "Disaggregated Footprints: An Infrastructural Literacy Approach to the Sustainable Internet." In The Routledge Handbook of Ecomedia Studies, pp. 111-118. Routledge, 2023. Available online at [taylorfrancis.com](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003176497-13/disaggregated-footprints-nicole-starosielski-hunter-vaughan-anne-pasek-nicholas-silcox)
