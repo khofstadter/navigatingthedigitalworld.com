@@ -262,5 +262,13 @@ Digital Heritage ([Dr. Paola Di Giuseppantonio Di Franco](https://uk.linkedin.co
 ### Guest lecture
 - The Hacker Ethic: Roots, history and techno-cultural ideology by [Prof. Audrey Guinchard](https://www.essex.ac.uk/people/guinc18306/audrey-guinchard)
 
+## Week 21
+### Seminar
+- Any questions in general?
+- Can we discuss your progress with your logs and tasks list?
+
+### Guest lecture
+- Artificial Intelligence and Big Data: the new frontiers of living in a digital world by [Dr. Spyros Samothrakis](https://www.essex.ac.uk/people/SAMOT88004/Spyros-Samothrakis)
+
 ## References
 Starosielski, Nicole, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox. "Disaggregated Footprints: An Infrastructural Literacy Approach to the Sustainable Internet." In The Routledge Handbook of Ecomedia Studies, pp. 111-118. Routledge, 2023. Available online at [taylorfrancis.com](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003176497-13/disaggregated-footprints-nicole-starosielski-hunter-vaughan-anne-pasek-nicholas-silcox)
