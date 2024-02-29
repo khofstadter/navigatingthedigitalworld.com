@@ -9,7 +9,8 @@ keywords: password management, strong passwords, password security, password com
 
 # Password Management
 
-![Students creating passwords in the future.](../assets/img/2023-10-19-students-trying to-students-password-bing-dalle.jpg)
+![Photo of hands in gloves on the keyboard of a laptop.](../assets/img/password-management.jpg)
+
 
 {: .no_toc }
 
@@ -95,4 +96,5 @@ Evaluate your strategy using online tools like [howsecureismypassword.net](https
 Consider simplifying your digital presence by minimizing the number of accounts where possible.
 
 ## Image credits
-Header image was generated with Image Creator (DALL·E 3) on 19 October 2023 at 20:33 pm using "students trying to create strong passwords in a futuristic library".
+Photo by <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/photos/person-in-black-long-sleeve-shirt-using-macbook-pro-em5w9_xj3uU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  

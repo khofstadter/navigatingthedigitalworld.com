@@ -9,7 +9,7 @@ keywords: digital-world
 
 # The Physicality of the Digital World
 
-Last updated on 22 Jan. <!-- should I add a link to the GitHub repo here? Can I generate this date? -->
+Last updated on [22 Jan 2024.](https://github.com/khofstadter/navigatingthedigitalworld.com/commits/main/docs/physicality-of-the-digital-world.md)
 
 ![Futuristic image of a human connected to machines with cables.](../assets/img/2024-01-17-matrix-film-machine-connections-cables-darkness-city.jpg)
 
