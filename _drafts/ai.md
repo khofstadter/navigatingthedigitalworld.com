@@ -7,9 +7,7 @@ description:
 keywords: 
 ---
 
-Spyros
-
-His research focuses on production and  with AI an Big Data
+Spyros' research focuses on production with AI an Big Data.
 
 AI, termed in 1956
 - links top logic, complex systems, cybernetics, robotics 
@@ -65,7 +63,6 @@ OK, yes, probably it is more important to make sure robots, machines, AI can hel
 Are his claims true? 
 - that AI hasn't helped much in healthcare?
 - that robots can't pick strawberries?
-
 
 ## resources
 - https://youtu.be/0b03ibtVYhw?si=4YXUlR8Tbc92yMGR

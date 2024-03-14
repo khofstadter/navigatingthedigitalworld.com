@@ -9,7 +9,7 @@ keywords: content production, materials, tools, synthesizing findings
 
 # Content production
 
-![](../assets/img/2023-11-2-content-producer-bing-dalle.jpg)
+![](../assets/img/2023-11-2-content-producer.jpg)
 
 <details open markdown="block">
   <summary>
@@ -276,7 +276,8 @@ To help you choose, think about these quotes:
 - [Podcast Blog](https://www.podcastengineers.com/blogs/)
 
 ## Image credits
-Header image was generated with Image Creator (DALL·E 3) on 2 November 15:54 pm using "An image where one person manages multiple parts of a creative project. The person is a busy human-octopus-robot cyborg. Tasks involve writing, music making, video making. NeeIn Kandinsky style."
+Header photo by <a href="https://unsplash.com/@reskp?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jametlene Reskp</a> on <a href="https://unsplash.com/photos/black-laptop-computer-turned-on-on-table-HJljK-svzBQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
+  
 
 Photo of man looking for materials in a DIY shop by <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oxana Melis</a> on <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
 

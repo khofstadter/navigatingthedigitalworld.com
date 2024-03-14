@@ -96,5 +96,5 @@ Evaluate your strategy using online tools like [howsecureismypassword.net](https
 Consider simplifying your digital presence by minimizing the number of accounts where possible.
 
 ## Image credits
-Photo by <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/photos/person-in-black-long-sleeve-shirt-using-macbook-pro-em5w9_xj3uU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/photos/person-in-black-long-sleeve-shirt-using-macbook-pro-em5w9_xj3uU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
   
