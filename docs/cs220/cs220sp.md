@@ -285,7 +285,7 @@ Digital Heritage ([Dr. Paola Di Giuseppantonio Di Franco](https://uk.linkedin.co
 - Using AI Tools Ethically by [Oona Ylinen](https://uk.linkedin.com/in/oona-ylinen)
 
 ### Lecture
-- More on USing AI Tools Ethically by Kris (practical demo)
+- More on Using AI Tools Ethically by Kris (practical demo)
 
 ## References
 Starosielski, Nicole, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox. "Disaggregated Footprints: An Infrastructural Literacy Approach to the Sustainable Internet." In The Routledge Handbook of Ecomedia Studies, pp. 111-118. Routledge, 2023. Available online at [taylorfrancis.com](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003176497-13/disaggregated-footprints-nicole-starosielski-hunter-vaughan-anne-pasek-nicholas-silcox)
