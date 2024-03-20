@@ -64,5 +64,6 @@ Are his claims true?
 - that AI hasn't helped much in healthcare?
 - that robots can't pick strawberries?
 
+
 ## resources
 - https://youtu.be/0b03ibtVYhw?si=4YXUlR8Tbc92yMGR

@@ -13,6 +13,8 @@ What does ChatGPT say
 - her questions are linked to feminism and that it is the feminists who make the digital world feminist (no one else)
 - the answers are based on the info 
 
+Brings up Alexa and that it needed firm language. Well, but that is how ChatGPT can be more efficient as well. Firm is linked to clear, right?
+
 <!-- check lit --> A Cyborg Manifesto (Deborah Haraway, 1985)
 - can be productive space (for women to take part)
 
