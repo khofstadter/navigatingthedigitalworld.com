@@ -9,17 +9,17 @@ keywords: content production, materials, tools, synthesizing findings
 
 # Content production
 
+Last update: Oct 2023
+
 ![](../assets/img/2023-11-2-content-producer.jpg)
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
+{{page.description}}
+
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
-</details>
-
 ---
 
 <!--

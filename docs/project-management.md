@@ -9,21 +9,19 @@ keywords: content production, methods, tools, materials, text, still image, audi
 
 # Project Management
 
+Last update: Oct 2023
+
 ![Illustration of a project management.](../assets/img/2023-10-27-project-management-bing-dalle.jpg)
 
-<!-- can I add ideas about FFR, entrainment, synchronization here ?-->
-
-The page 
-1. provides a list of methods and tools, that can be used in any field of research. <!-- is this true? "Any"? --> 
-2. outlines the principles of Agile Project Management to emphasize the importance of regular feedback. 
-
-{: .no_toc }
+{{page.description}}
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+<!-- can I add ideas about FFR, entrainment, synchronization here ?-->
 
 ---
 

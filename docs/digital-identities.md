@@ -9,9 +9,11 @@ keywords: digital identities, visitor mode, resident mode, VR map, engagement wi
 
 # Digital Identities
 
-![](../assets/img/2023-10-12-digital-identities-bing-dalle.jpg)
+Last update: Oct 2023
 
-{: .no_toc }
+![Futuristic image with people walking in virtual spaces.](../assets/img/2023-10-12-digital-identities-bing-dalle.jpg)
+
+{{page.description}}
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -43,18 +45,17 @@ keywords: digital identities, visitor mode, resident mode, VR map, engagement wi
   - [search the Internet](https://duckduckgo.com/?q=gen+alpha&t=brave&ia=web)
 -->
 
-This page explores Dave White's concepts of digital identities as presented in three of his short videos. 
-
+## Task
 Consider using the following steps: 
 
-1. Take short notes while watching the videos (only keywords and key ideas)
+1. Take short notes while watching the videos below (only keywords and key ideas)
 2. Refine your notes (rewatch parts to clarify things):
    - Write full sentences and use your own writing style, your own vocabulary as much as possible.
    - Connect your new knowledge to your old knowledge.
    - Ask questions in your notes where something is unclear, where a link between ideas is missing.
 3. Refine your notes, consider [paraphrasing](https://quillbot.com/), and [grammar checking](https://quillbot.com/grammar-check). Make sure your notes make sense, and ideally not just for you. Consider using an AI language model for quick feedback (e.g. [ChatGPT](https://chat.openai.com/)).
 
-## Visitors and residents
+## Visitors and Residents
 ### 1. Introduction
 
 <div class="responsive-iframe">

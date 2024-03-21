@@ -9,11 +9,11 @@ keywords: digital-world
 
 # The Physical–Digital World
 
-Last updated on [22 Jan 2024.](https://github.com/khofstadter/navigatingthedigitalworld.com/commits/main/docs/physicality-of-the-digital-world.md)
+Last update: Jan 2024
 
 ![Futuristic image of a human connected to machines with cables.](../assets/img/2024-01-17-matrix-film-machine-connections-cables-darkness-city.jpg)
 
-{: .no_toc }
+{{page.description}}
 
 ## Table of contents
 {: .no_toc .text-delta }

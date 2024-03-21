@@ -5,18 +5,30 @@ nav_order: 9
 permalink: /docs/sensemaking
 description: 
 keywords: sensemaking, bias, info-warfare
+description: 
 ---
+
 
 # Unpacking Schmachtenberger's War on Sensemaking Series
 
-[Last updated on 21 Mar 2023](https://github.com/khofstadter/navigatingthedigitalworld.com/commits/main/docs/sensemaking.md)
+Last update: Mar 2024
 
 ![](/assets/img/Schmachtenberger.jpg)
+
+{{page.description}}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## 1. Introduction 
 In the [War on Sensemaking](https://civilizationemerging.com/media/rebel-wisdom-war-on-sensemaking) video series, Daniel Schmachtenberger explores the broken information ecology and how we can improve our sensemaking.
 
-This write-up (draft) introduces my main takeaways from the first episode in the series. I tried to thematically organize my initial notes for a clearer narrative that introduces, analyzes, and provides a solution to the problems linked to information warfare. [^amended]
+This write-up (draft) introduces my main takeaways from the first episode in the series. I tried to thematically organize my initial notes to create a clearer narrative that introduces, analyzes, and proposes solutions to the problems associated with information warfare. [^amended]
 
 [^amended]: I extended my initial notes with additional research and personal examples. I plan to review the other episodes in the series and extend this write-up.
 
@@ -161,7 +173,7 @@ Daniel says that true understanding (of base reality) [is complex](https://ttc.t
 ### 3.3 In-groups and out-groups
 Daniel also talks about in-groups and out-groups and how they use propagator and protector memes in memetic ecosystems. <!-- This is important so let's define them. --> 
 
-An example of a religious protector meme: "Faith is good, doubt [critical thinking] is bad."
+An example of a religious protector meme: "Faith is good, doubt, [critical thinking] is bad"
 
 The problem is the partiality of our perspective; we often belong to an in-group and are informed in that group's echo chambers. 
 
@@ -174,7 +186,7 @@ Why? Leaving the group is uncomfortable, maybe even scary.
 
 Reality is complex, so what can help our sensemaking? 
 
-We should practice epistemology (the theory of knowledge) with a group of people we trust. 
+We should practice epistemology (the theory of knowledge) with a group of people we also want to practice this and whom we can trust.   
 
 In order to heal our information ecology we need to
 

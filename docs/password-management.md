@@ -9,10 +9,11 @@ keywords: password management, strong passwords, password security, password com
 
 # Password Management
 
+Last update: Oct 2023
+
 ![Photo of hands in gloves on the keyboard of a laptop.](../assets/img/password-management.jpg)
 
-
-{: .no_toc }
+{{page.description}}
 
 ## Table of contents
 {: .no_toc .text-delta }
