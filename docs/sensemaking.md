@@ -14,32 +14,34 @@ keywords: sensemaking, bias, info-warfare
 ![](/assets/img/Schmachtenberger.jpg)
 
 ## 1. Introduction 
+In the [War on Sensemaking](https://civilizationemerging.com/media/rebel-wisdom-war-on-sensemaking) video series, Daniel Schmachtenberger explores the broken information ecology and how we can improve our sensemaking.
+
+This write-up (draft) introduces my main takeaways from the first episode in the series. I tried to thematically organize my initial notes for a clearer narrative that introduces, analyzes, and provides a solution to the problems linked to information warfare. [^amended]
+
+[^amended]: I extended my initial notes with additional research and personal examples. I plan to review the other episodes in the series and extend this write-up.
+
 > Sense-making is the process by which we make sense of the world, especially complex situations for which there are usually no simple, apparent explanations. ~ [David Gurteen](https://conversational-leadership.net/sensemaking/)
 
 > Sensemaking is about creating space for listening, reflection and the exploration of meaning beyond the usual boundaries, allowing different framings, stories and viewpoints to be shared and collectively explored. ~ [Centre For Public Impact](https://www.centreforpublicimpact.org/insights/what-is-sensemaking)
 
-The reason to be good sensemakers is to understand (1) how and (2) why the truth is often distorted, either unintentionally or on purpose.
+The reason to become better sensemakers is to help understand (1) how and (2) why the truth is often distorted, either unintentionally or on purpose.
 
 Knowing the truth (as much as possible) will help us make more meaningful decisions for ourselves, our families and friends, sociocultural and economic communities, our countries, the ecosystem, etc.
 
-In the [War on Sensemaking](https://civilizationemerging.com/media/rebel-wisdom-war-on-sensemaking) video series, Daniel Schmachtenberger dives deep into this topic and often comments on how exponential technology is linked to it. 
+### Themes
 
-This write-up (draft) introduces my main takeaways from the first episode in the series. I tried to thematically organize my initial notes for a clear narrative that introduces, analyzes, and provides a solution to the problem linked to information warfare. [^amended]
-
-[^amended]: I extended my initial notes with additional research and personal examples. I plan to review the other episodes in the series and extend this write-up.
-
-### Problem: Information Ecology and Warfare
-The concepts of a broken information ecology and information warfare are introduced as problems, highlighting our challenge of recognizing truth in a landscape where information may be distorted or manipulated for various purposes. Daniel encourages us to be skeptical towards
-   1. **news**, suggesting that they engage in narrative warfare rather than providing objective information. This can be linked to politics, religion and market dynamics where information is strategically controlled to influence our opinions and behaviors. This can include broadcast and social media channels. 
+#### (1) Problem: Broken Information Ecology and Information Warfare
+The concepts of a broken information ecology and information warfare are introduced as problems, highlighting our challenges of recognizing truth in a landscape where information may be distorted or manipulated for various reasons. Daniel encourages us to be skeptical towards
+   1. **news**, suggesting that they engage in narrative warfare rather than providing objective information. The narratives can be linked to politics, religion and market dynamics where information is strategically controlled to influence our opinions and behaviors. This can include broadcast and social media channels or even listening to an in-person presentation.
    2. **academia**, suggesting that there can be conflict of interest e.g. via cherry-picking data.
 
-### Analysis: Representativeness, Truthfulness and Manipulative
-The distinction between being representative (accurately reflecting reality), truthful (aligning with one's beliefs) and manipulative (distorting truth on purpose) is discussed, emphasizing the complexity of evaluating information.
+#### (2) Analysis: Information can be Representative, Truthful and Manipulative
+The distinction between being representative (accurately reflecting reality), truthful (aligning with one's beliefs causing unintentional distortion) and manipulative (distorting truth on purpose) is discussed, emphasizing the complexity of evaluating information.
 
-### Solution: Epistemology and Better Sensemaking in Groups
-To overcome the challenges of sensemaking in complex information environments, we need to practice better sensemaking for which Daniel makes a few suggestions. 
+#### (3) Solution: Practice Epistemology
+To overcome the challenges of sensemaking in complex information environments, we need to practice better sensemaking for which Daniel makes a few suggestions e.g. to be comfortable with not understanding things.
 
-## 2. Broken Information Ecology and Information Warfare
+## 2. Problem: Broken Information Ecology and Information Warfare
 ### 2.1 Can we trust politics, religions and the market?
 Our daily news are mainly propaganda, part of narrative warfare. 
 
@@ -54,10 +56,7 @@ Are they connected? Think about
 
 <!-- Find examples where this is not the case where businesses generate fake reviews or where a company pays Amazon or Google to rank higher in a search list? -->
 
-[Comparing news](https://www.ecosia.org/search?tt=e8eb07a6&q=compare%20news&addon=brave) can help us see the same information from different political perspectives. 
-
-The two main perspectives could be found in what the [core beliefs of the political left and right (used to be)](https://youtu.be/7LqaotiGWjQ?si=SiWKFLK1bTgUjRI4&t=5160.). Or is it [more complicated](https://youtu.be/jJEuZrvNYg0?si=XU7iCrbnMc3MAiHG)? [^goodintheorypod] <!-- Are these perspectives linked to the jin/jang? -->
-
+[Comparing news](https://www.ecosia.org/search?tt=e8eb07a6&q=compare%20news&addon=brave) can help us see the same information from different political perspectives. [^politics]  
 
 We should strive to access information that is high in signal (truth) and low in noise (distortion).
 
@@ -73,47 +72,18 @@ Why?
    - [pharmaceutical industry influence on drug trials](https://link.springer.com/article/10.1007/s11948-011-9265-3)
 2. just want to get papers published fast to be able to apply for funding 
 
-More from Andy Stapleton: 
+More on this from Andy Stapleton: 
 - [The Academic Fraud Epidemic - The Alarming Reality](https://www.youtube.com/watch?v=P0tT2i3TZx8)
 - [Bribes and Betrayals: Academia's Elite Corrupted! [Scientific Fraud!]](https://www.youtube.com/watch?v=VSoryzlZJHk)
 - [The Alarming Trend in Ivy League Admissions...](https://www.youtube.com/watch?v=FsskFJNN5j8)
 
-## 3. Truthfulness vs. Representativeness
+## 3. Analysis: Representative, Truthful and Manipulative
 ### 3.1 How is truth (base reality and objective truth) communicated?
 Where is the noise (distortion) added to the signal (truth)? 
 
-We don't engage with base reality (signal/truth) because we
-
-1. can't be everywhere where something important is happening (e.g. in Gaza)
-2. don't have time to consume the original data (e.g. a two-hour-long interview)
-
-So, we proxy our sensemaking i.e. we form our understanding using the summaries and opinions of people we trust. 
-
-> Everything should be as simple as it can be, but not simpler. ~ [Einstein](https://quoteinvestigator.com/2011/05/13/einstein-simple/)
-
-Do we follow this advice? Are the people we trust follow this advice?
-
-Oversimplified news (e.g. sound bytes, tweets) are quite often not 'simple' but 'simpler' i.e. distorted versions of the truth. <!-- Could I have made several parts of this module simple instead of simple? Why didn't I? Same with your essay. -->
-
-Also, consider how your sensemaking is 'guided' by e.g. typography, tone, choice of words and additional music (compare Lee vs Norris [here](https://www.youtube.com/watch?v=FUfuZJI9LK4) and [there](https://youtu.be/16Jy-K0kjbE?si=zhJlV8rMnGHuZ-U7))<!-- Find examples on YouTube with real news where music is sensational.-->.
-
-Attention and clear (objective) thinking require training. Like a muscle, it needs to be stressed e.g. by doing your own research. <!-- Picture of body building and new neural pathways developing. -->
-
-<br><center><img src="../assets/img/vanRijn1631OldWomenReading.jpg" alt="Old women reading, painting." width="500" style="display: block; margin-left: auto; margin-right: auto;"></center><br>
-
-The good news is that sensemaking is developable. 
-
-The bad news is that people in general don't care about developing it because (1) they already decided what to believe in or (2) they gave up trying to understand the world. 
-
-Why don't we care about developing our sensemaking?
-
-Most people can't handle the cognitive complexity of base reality and still make a living i.e. we don't have time and energy to do good sensemaking. 
-
-Unfortunately, Daniel says, "giving up on sensemaking is kind of an expression of a type of nihilism [which] feeds into further nihilism". <!-- #personal Why did I give up checking the news? I needed time to concentrate what was in front of me; PhD, work, family, health. -->
-
 When truth (base reality) is communicated, it can be 
 
-1. representative (a simple representation of the truth)
+1. representative (the most accurate representation of the truth)
 2. truthful (the sender believes it is true, but it is distorted)
 3. manipulative <!-- Is this a good term to describe this? -->
 
@@ -121,10 +91,41 @@ When truth (base reality) is communicated, it can be
 
 Keep in mind that (1) withholding information and (2) the receiver's perception of the signal (through their biases) can also lead to distortion. <!-- Find example using an analogue/digital communication protocols which then can be linked back to week 1's lecture? -->
 
+We don't engage with base reality (signal/truth) because we
+
+1. can't be everywhere where something important is happening (e.g. in Israel and Gaza)
+2. don't have time to consume and then analyze the original data (e.g. a two-hour-long interview with the president)
+
+So, we proxy our sensemaking i.e. we form our understanding using the summaries and opinions of people we trust. 
+
+> Everything [news, research outcomes] should be as simple as it can be, but not simpler. ~ [Einstein](https://quoteinvestigator.com/2011/05/13/einstein-simple/)
+
+Do we follow this advice? Do the people we trust follow this advice?
+
+Oversimplified news (e.g. sound bytes, tweets) are quite often not 'simple' but 'simpler' i.e. distorted versions of the truth. <!-- Could I have made several parts of this module simple instead of simple? Why didn't I? Same with your essay. -->
+
+Also, consider how your sensemaking is 'guided' by e.g. typography, tone, choice of words and additional music (compare Lee vs Norris [here](https://www.youtube.com/watch?v=FUfuZJI9LK4) and [there](https://youtu.be/16Jy-K0kjbE?si=zhJlV8rMnGHuZ-U7))<!-- Find examples on YouTube with real news where music is sensational.-->.
+
+Attention and clear (objective) thinking require training. Like a muscle, it needs to be stressed e.g. by doing your own research. <!-- Picture of body building and new neural pathways developing. -->
+
+<center><img src="../assets/img/vanRijn1631OldWomenReading.jpg" alt="Old women reading, painting." width="500" style="display: block; margin-left: auto; margin-right: auto;"></center><br>
+
+So, the good news is that sensemaking can be developed. 
+
+The bad news is, that people in general, don't care about developing it because 
+   1. they already decided what to believe in or 
+   2. they gave up trying to understand deeper structures of reality 
+
+Most people can't handle the cognitive complexity of base reality and still make a living i.e. we don't have time and energy to do good sensemaking and feed the kids. 
+
+Unfortunately, Daniel says, "giving up on sensemaking is kind of an expression of a type of nihilism [which] feeds into further nihilism". <!-- #personal Why did I give up checking the news? I needed time to concentrate what was in front of me; PhD, work, family, health. -->
+
+<center><img src="../assets/img/Raimondi1527Bacchanal.jpg" alt="Bacchanal with a Drunken Bacchus, and Satyrs and Maenads" width="800" style="display: block; margin-left: auto; margin-right: auto;"></center><br>
+
 ### 3.2 Why is the truth distorted?
 Distorting information is not human; animals and plants do it too. <!-- What are the best examples here? -->
 
-We humans started distorting more with abstract signals. <!-- Does he mean when we started using symbols e.g. cave drawings? -->
+We humans started distorting more with abstract signals e.g. via writing. <!-- Does he mean when we started using symbols e.g. cave drawings? -->
 
 <!-- Can I add an example from 1984 when it comes to using media for distortion? Also, something from the nazi Germany? What other historic examples could I add? -->
 
@@ -136,7 +137,7 @@ We distort base reality i.e. lie for different reasons e.g. there is a differenc
 
 Compare how [deepfakes are used in politics](https://youtu.be/wxEpPin8MWw?si=a-ZIem7gMMFxjo8D).
 
-Political parties, religions and businesses are interested in 'helping' us understand base reality. There are often many of them so they are fighting for our attention. This leads to information warfare. (In a totalitarian country the situation is slightly different.)
+Political parties, religions and businesses are interested in 'helping' us understand base reality. There are often many of them so they are fighting for our attention. This leads to information warfare. (In a totalitarian country the situation is different.)
 
 Governments, businesses, people use game theory (mathematical models of strategic interactions) to compete with each other. 
 
@@ -155,12 +156,12 @@ But Christianity, in Jesus' name, went on crusades and tortured people through t
 <!--
 Centralized religions with one god, as opposed to decentralized ones with many gods (spirits) support our governments and social systems.  What was Jesus actually saying about the one good? Was that one good democratic e.g. linked somehow to the more balanced spirit world? Because as many other religions, this as well, Daniel says, was used to maintain the hierarchical structure of society. -->
 
-Daniel says that true understanding (of base reality) [is complex](https://ttc.tasuki.org/display:Code:gff,sm,jhmd,jc,rh) and therefore difficult to advertise. People don't want to (or can't) spend much time on 'real thinking', so 'simpler' versions of the truth can spread easier. 'Simulated thinking' <!-- Where does this term come from? --> requires less processing, is often reassuring (as its source is the in-group, the echo chamber) and can be exciting as well. 
+Daniel says that true understanding (of base reality) [is complex](https://ttc.tasuki.org/display:Code:gff,sm,jhmd,jc,rh) and therefore difficult to advertise. People don't want to (or can't) spend much time on 'real thinking', so 'simpler' versions of the truth can spread easier. 'Simulated thinking' <!-- Where does this term come from? --> requires less processing, is often reassuring (as its source is the in-group, the echo chamber) and is often presented in an stimulating form.
 
 ### 3.3 In-groups and out-groups
 Daniel also talks about in-groups and out-groups and how they use propagator and protector memes in memetic ecosystems. <!-- This is important so let's define them. --> 
 
-An example of a protector meme: "Faith is good, doubt [critical thinking] is bad."
+An example of a religious protector meme: "Faith is good, doubt [critical thinking] is bad."
 
 The problem is the partiality of our perspective; we often belong to an in-group and are informed in that group's echo chambers. 
 
@@ -173,7 +174,7 @@ Why? Leaving the group is uncomfortable, maybe even scary.
 
 Reality is complex, so what can help our sensemaking? 
 
-Practice epistemology (the theory of knowledge) with a group of people we trust. 
+We should practice epistemology (the theory of knowledge) with a group of people we trust. 
 
 In order to heal our information ecology we need to
 
@@ -211,10 +212,11 @@ When perceiving information, we should try to understand
 - Daniel Schmachtenberger talking from the source video, produced by Rebel Wisdom (interviewer is David Fuller)
 - Old Woman Reading, Probably the Prophetess Anna (1631) Rembrandt van Rijn
 - Bringing in the Trojan Horse (1545) by Jean Mignon
+- Bacchanal with a Drunken Bacchus, and Satyrs and Maenads (1527) Marcantonio Raimondi, after anonymous
 - Simon the Cyrenian Compelled to Carry the Cross with Jesus (1886-1894) by James Tissot
 - Various methods of torture used by the Inquisition (1775) by Jan Caspar Philips
 - Shame, plate nine etching (1887) by Max Klinger
 
 ## Footnotes
 
-[^goodintheorypod]: I found the [Good In Theory Podcast](https://goodintheorypod.com/) to be informative and entertaining; infotaining
+[^politics]: The two main perspectives could be linked to the [core beliefs of the political left and right](https://youtu.be/7LqaotiGWjQ?si=hqp68tp6Cav-V-J9&t=5159). Or is it [more complicated](https://youtu.be/jJEuZrvNYg0?si=XU7iCrbnMc3MAiHG)? <!-- Are these perspectives linked to the jin/jang? --> The [Good In Theory Podcast](https://goodintheorypod.com/) is an informative and entertaining show on the evolution of politics.
