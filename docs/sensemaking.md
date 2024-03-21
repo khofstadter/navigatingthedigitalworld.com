@@ -16,6 +16,8 @@ keywords: sensemaking, bias, info-warfare
 ## 1. Introduction 
 > Sense-making is the process by which we make sense of the world, especially complex situations for which there are usually no simple, apparent explanations. ~ [David Gurteen](https://conversational-leadership.net/sensemaking/)
 
+> Sensemaking is about creating space for listening, reflection and the exploration of meaning beyond the usual boundaries, allowing different framings, stories and viewpoints to be shared and collectively explored. ~ [Centre For Public Impact](https://www.centreforpublicimpact.org/insights/what-is-sensemaking)
+
 The reason to be good sensemakers is to understand (1) how and (2) why the truth is often distorted, either unintentionally or on purpose.
 
 Knowing the truth (as much as possible) will help us make more meaningful decisions for ourselves, our families and friends, sociocultural and economic communities, our countries, the ecosystem, etc.

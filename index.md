@@ -18,4 +18,6 @@ While currently serving as a resource for a specific university module, the visi
 
 Welcome aboard!
 
+[Kris](https://krishofstadter.com/)
+
 Photo by [John Schnobrich](https://unsplash.com/@johnschno?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/2FPjlAyMQTA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
