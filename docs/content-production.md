@@ -112,6 +112,7 @@ Types:
 - [photography](https://unsplash.com/)
 - [computer graphics](https://www.vectorstock.com/free-vectors)
 - diagrams (e.g., made with [Inkscape](https://inkscape.org/), [RAWGraphs](https://www.rawgraphs.io/), [Mermaid](https://mermaid.js.org))
+- [paintings](https://museo.app/)
 
 They could be used for:
 - logos and [favicons](https://favicon.io/)
