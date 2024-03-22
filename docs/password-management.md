@@ -60,7 +60,7 @@ The image above is from [https://xkcd.com/936/](https://xkcd.com/936/).
   </div>
 
 ### But complexity matters too
-- Incorporating a mix of uppercase letters, numbers, and symbols enhances resistance not only against dictionary attacks, but also ['smart' brute-force attacks](https://www.splunk.com/en_us/blog/learn/brute-force-attacks.html) AKA mask attacks, which apply patterns, rules, or masks based on common words, phrases, or structures. 
+- Incorporating a mix of uppercase letters, numbers, and symbols enhances resistance not only against dictionary attacks, but also ['smart' brute-force attacks](https://www.splunk.com/en_us/blog/learn/brute-force-attacks.html) aka mask attacks, which apply patterns, rules, or masks based on common words, phrases, or structures. 
 - Still, avoid making passwords too complex to remember.
 
 Both length and complexity are crucial aspects of a strong password, and finding the right balance between the two can enhance password security significantly. Here’s a breakdown:

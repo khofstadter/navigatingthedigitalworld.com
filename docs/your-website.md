@@ -22,6 +22,7 @@ Last update: Oct 2023
 {:toc}
 
 ## Why build a website?
+<!-- How is building a website linked to developing our professional digital identity? -->
 You
 - **own** the content <!-- **Ownership**: You own the content, ensuring it remains unaffected by the rules and policies of third-party platforms.-->
 - can have **full control** over its functions and design or timing of updates <!-- **Control**: Have full authority over the functionality and design, tailoring each aspect to your preferences and objectives.--> <!-- e.g. you don't have to wait days for someone to update you site if there is a typo-->

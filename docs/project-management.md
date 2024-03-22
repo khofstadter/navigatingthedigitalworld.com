@@ -36,7 +36,7 @@ Remember, the ultimate aim is to utilize these methods and tools in a way that m
 - First, create a designated file for a list of keywords and organize them alphabetically. This list is often called the index. You can later use these keywords as tags (#tags) in your notes.
 - The keyword list evolves, usually growing, but sometimes you will rename, merge or even remove some.
 - It's a good idea to borrow keywords from the academic disciplines you are exploring. However, you can also make up new words if you find them useful.
-- Be aware that terminologies (i.e., keywords) are not always used consistently across the literature. This is very important to keep in mind when conducting [multi- or interdisciplinary research](https://www.arj.no/2012/03/12/disciplinarities-2/). A good idea is to keep track of these inconsistencies for instance by using '[AKA](https://dictionary.cambridge.org/dictionary/english/aka)' in your notes.
+- Be aware that terminologies (i.e., keywords) are not always used consistently across the literature. This is very important to keep in mind when conducting [multi- or interdisciplinary research](https://www.arj.no/2012/03/12/disciplinarities-2/). A good idea is to keep track of these inconsistencies for instance by using '[aka](https://dictionary.cambridge.org/dictionary/english/aka)' in your notes.
 
 ### 2. Search Engines
 Use search engines to locate relevant literature (adjust publication date ranges and resource types according to your goals).

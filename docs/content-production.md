@@ -15,6 +15,8 @@ Last update: Oct 2023
 
 {{page.description}}
 
+<!-- Why produce content e.g. for our own website? Why is it worth considering different mediums e.g. audio/visual modes of storytelling? -->
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -156,7 +158,7 @@ If you need to convert pixel-based images to vectors, try [vectorizer.ai](https:
 Types (filmmaker's classification):
 
 - sound effects (e.g. footsteps, door, gunshots, sound of robots)
-- background ambience (AKA atmosphere) (e.g. birds and wind in a park, traffic, machines and humans working together in a factory)
+- background ambience (aka atmosphere) (e.g. birds and wind in a park, traffic, machines and humans working together in a factory)
 - dialogue and voiceover (e.g. spoken monologue, conversation, narration, or commentary)
 - music
 

@@ -47,7 +47,7 @@ Last update: Oct 2023
 
 ## Task
 Consider using the following steps: 
-
+<!-- What are the proposed outcomes of this activity? Why shall we do these steps? -->
 1. Take short notes while watching the videos below (only keywords and key ideas)
 2. Refine your notes (rewatch parts to clarify things):
    - Write full sentences and use your own writing style, your own vocabulary as much as possible.

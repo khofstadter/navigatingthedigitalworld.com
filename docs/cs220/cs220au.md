@@ -193,7 +193,7 @@ Find out how much people can see of your social media activities.
 Today we will:
 1. Talk a bit about websites
 2. Passwords
-3. Create a GitHub account with two repositories (AKA repos)
+3. Create a GitHub account with two repositories (aka repos)
   - One private (you can use it for your notes)
   - One public (you will have to use it for your assignment)
 - Start the 'Log' and the 'Tasks' lists in your portfolios

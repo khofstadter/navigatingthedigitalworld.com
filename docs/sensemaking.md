@@ -128,7 +128,7 @@ The bad news is, that people in general, don't care about developing it because
    1. they already decided what to believe in or 
    2. they gave up trying to understand deeper structures of reality 
 
-Most people can't handle the cognitive complexity of base reality and still make a living i.e. we don't have time and energy to do good sensemaking and feed the kids. 
+Most people can't handle the cognitive complexity of base reality and still make a living i.e. we don't have time and energy to do good sensemaking as well as feed the kids. 
 
 Unfortunately, Daniel says, "giving up on sensemaking is kind of an expression of a type of nihilism [which] feeds into further nihilism". <!-- #personal Why did I give up checking the news? I needed time to concentrate what was in front of me; PhD, work, family, health. -->
 
@@ -153,6 +153,8 @@ Political parties, religions and businesses are interested in 'helping' us under
 
 Governments, businesses, people use game theory (mathematical models of strategic interactions) to compete with each other. 
 
+<!-- Add a screenshot a strategy game? -->
+
 He talks about genetics and memetics in relation to how people adapt and mutate information. 
 
 Example (religion): Jesus' key message was forgiveness, even though he was being crucified. 
@@ -168,7 +170,7 @@ But Christianity, in Jesus' name, went on crusades and tortured people through t
 <!--
 Centralized religions with one god, as opposed to decentralized ones with many gods (spirits) support our governments and social systems.  What was Jesus actually saying about the one good? Was that one good democratic e.g. linked somehow to the more balanced spirit world? Because as many other religions, this as well, Daniel says, was used to maintain the hierarchical structure of society. -->
 
-Daniel says that true understanding (of base reality) [is complex](https://ttc.tasuki.org/display:Code:gff,sm,jhmd,jc,rh) and therefore difficult to advertise. People don't want to (or can't) spend much time on 'real thinking', so 'simpler' versions of the truth can spread easier. 'Simulated thinking' <!-- Where does this term come from? --> requires less processing, is often reassuring (as its source is the in-group, the echo chamber) and is often presented in an stimulating form.
+Daniel says that true understanding (of base reality) [is complex](https://ttc.tasuki.org/display:Code:gff,sm,jhmd,jc,rh) and therefore difficult to advertise. People don't want to (or can't) spend enough time on 'real thinking', so 'simpler' versions of the truth can spread easier. 'Simulated thinking' <!-- Where does this term come from? --> requires less processing, is often reassuring (as its source is the in-group, the echo chamber) and is often presented in an stimulating form.
 
 ### 3.3 In-groups and out-groups
 Daniel also talks about in-groups and out-groups and how they use propagator and protector memes in memetic ecosystems. <!-- This is important so let's define them. --> 
@@ -198,7 +200,7 @@ When perceiving information, we should try to understand
 
 1. why the sender is sending (e.g. to understand the reasons for a potential distortion)
 2. how much distortion is happening (e.g. by looking at the sources, references)
-3. all perspectives and find their common grounds (thesis + antithesis = synthesis). <!-- Link this to analysis/synthesis in research methodology? Also how can then synthesis be linked to 'creativity' to creating something novel? And then that if something is new for us (e.g. a new understanding) that is still very important even if it is not new for other people (e.g. they understood it last year or when they first had a child). --> This is where he can gain higher order clarity. <!-- Link to Flatland. -->
+3. all perspectives and find their common grounds (thesis + antithesis = synthesis). <!-- Link this to analysis/synthesis in research methodology? Also how can then synthesis be linked to 'creativity' to creating something novel? And then that if something is new for us (e.g. a new understanding) that is still very important even if it is not new for other people (e.g. they understood it last year or when they first had a child). --> This is where we can gain higher order clarity. <!-- Link to Flatland. -->
 4. our own biases 
 5. what holds us back when engaging with our out-groups,  with the perspectives we find distorted (untrue)
 6. where we can practice this kind of sensemaking in groups (where we can be honest about how much we don't know and about our doubts).

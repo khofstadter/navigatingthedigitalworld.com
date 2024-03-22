@@ -245,7 +245,7 @@ Digital Heritage ([Dr. Paola Di Giuseppantonio Di Franco](https://uk.linkedin.co
 - Any questions?
 - How are you getting on with your essays?
 #### Speed dating :)
-- Group activity reviewing each other's progress with a round-robin AKA rotation method. 
+- Group activity reviewing each other's progress with a round-robin aka rotation method. 
   - Consider using the list in the homework section for week 18 above.
   - Make sure you don't only ask closed questions for which the answers often simple are 'yes' or 'no'. A key concept here is to learn to become good listeners by using open-ended questions starting with the words ‘what’, ‘when’, ‘which’, 'why' and ‘how’.
   - Take notes while reviewing others' progress.
