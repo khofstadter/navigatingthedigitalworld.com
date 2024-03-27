@@ -220,7 +220,7 @@ When perceiving information, we should try to understand
 - 2023-03-21 Revised the narrative and added figures, primarily using [Museo](https://museo.app/). Grammar checked with [Quillbot](https://quillbot.com/grammar-check).
 - 2023-03-19/20 Refined the narrative of the write-up and looked at adjusting it for an oral presentation. 
 - 2023-03-17/18 Revised notes in a computer file and looked for ways to thematically organize them. Also, asked an online AI to summarize transcript. I asked GPT3.5 to thematically analyze the AI summary. Then I compared my themes with the AI themes and adjusted my themes and narrative slightly. 
-- 2023-03-11 Took notes in physical notebook while listening to the talk. I made sure to highlight parts that were unclear and parts where I can contribute with my personal experiences. 
+- 2023-03-11 Took notes in physical notebook while listening to the talk. I made sure to highlight parts that were unclear and parts where I can contribute with my personal experiences. Photos [1](/assets/img/2024-03-11-sensemaking-initial-notes-01.jpg), [2](/assets/img/2024-03-11-sensemaking-initial-notes-02.jpg), [3](/assets/img/2024-03-11-sensemaking-initial-notes-03.jpg).
 
 ## Image Credits
 - Daniel Schmachtenberger talking from the source video, produced by Rebel Wisdom (interviewer is David Fuller)
