@@ -16,9 +16,7 @@ Explore the site to gain a deeper understanding of managing digital identities i
 
 While currently serving as a resource for a specific university module, the vision for this platform extends far beyond. I aim to expand it into an accessible online course for digital explorers from diverse backgrounds all over the globe.
 
-Hi I am [Kris](https://krishofstadter.com/), the person behind the words. Welcome aboard!
-
-
+Hi! I am [Kris](https://krishofstadter.com/), the person behind the words. Welcome aboard!
 
 ## Image Credits
 
