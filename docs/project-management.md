@@ -269,5 +269,7 @@ Dan Koe (2023) **4 Hours Of Focused Work A Day Will Change Your Life** Available
 
 Hacker News (2023) **How to Read a Paper?** Available on [news.ycombinator.com](https://news.ycombinator.com/item?id=38446418)
 
+What do you all use a local LLM for? (2024) Available on Reddit on [https://www.reddit.com/r/LocalLLaMA/comments](https://www.reddit.com/r/LocalLLaMA/comments/1bt0w43/what_do_you_all_use_a_local_llm_for/?rdt=40897)
+
 ## Image credits
 Header image was generated with Image Creator (DALL·E 3) on 27 October 2023 at 10:02 pm using "Agile project management methodology with feedback loops. People drawing narratives and have the feedback loop behind them, not above them. They is also a lot of discussion between them. Kandinsky style."
