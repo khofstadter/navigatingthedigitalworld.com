@@ -45,6 +45,7 @@ The same sequence can be used in-person, in an email, or via an online forum or 
 - Dopamine Detox (2020) How I Tricked My Brain To Like Doing Hard Things. Available at [Medium](https://medium.com/illumination/how-i-tricked-my-brain-to-like-doing-hard-things-19db6a9d242b). 
 - Birt, Jamie (2023) How To Ask for Help in an Email (With Examples). Available at [indeed.com](https://www.indeed.com/career-advice/career-development/asking-help-email).
 - Welsh, Justin (2023) How elite performers attract world-class mentors. Available at [twitter.com](https://twitter.com/thejustinwelsh/status/1612802417476734979). 
+- The Autodidacts (2025) [The Skill That Never Goes Obsolete](https://www.autodidacts.io/troubleshooting/)
 
 ## Image Credits
 Photo by <a href="https://unsplash.com/@bakutroo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">J W</a> on <a href="https://unsplash.com/photos/girl-holding-umbrella-on-grass-field-Ju-ITc1Cc0w?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
